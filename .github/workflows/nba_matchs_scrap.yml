@@ -10,9 +10,11 @@ jobs:
   render:
     name: Scrape NBA matchs
     runs-on: macos-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: r-lib/actions/setup-r@v2
       # Set-up R
       - name: Install packages
@@ -23,11 +25,8 @@ jobs:
 
       - name: Commit results
         run: |
-          git config --local user.name actions-user
-          git config --local user.email "actions@github.com"
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git add -A
           git commit -m 'Add nba matchs in data'
           git push origin main
-        env:
-          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-          username: github-actions
