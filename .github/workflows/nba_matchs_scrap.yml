@@ -17,7 +17,7 @@ jobs:
       # Set-up R
       - name: Install packages
         run: |
-          Rscript -e 'install.packages(c("rvest","dplyr","plyr","xml2","jsonlite"))'
+          Rscript -e 'install.packages(c("devtools","rvest","dplyr","plyr","xml2","jsonlite"))'
           Rscript -e 'devtools::load_all()'
 
       - name: Scrape the data
