@@ -10,15 +10,15 @@ jobs:
   render:
     name: Scrape NBA matchs
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@v1
-
       # Set-up R
       - name: Install packages
-      run: |
-        Rscript -e 'install.packages(c("rvest","dplyr","plyr","xml2","jsonlite"))'
-        Rscript -e 'devtools::load_all()'
+        run: |
+          Rscript -e 'install.packages(c("rvest","dplyr","plyr","xml2","jsonlite"))'
+          Rscript -e 'devtools::load_all()'
 
       - name: Scrape the data
         run: Rscript exec/nba_matchs.R
