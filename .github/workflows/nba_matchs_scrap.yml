@@ -1,41 +1,24 @@
-name: nba_matchs
-
-# Controls when the action will run.
 on:
   schedule:
-    - cron:  '15 10,11,12,15 * * *'
+    - cron: '30 10,11,12,15 * * *'
+  push:
+    branches: main
 
+name: Scrape NBA matchs
 
-jobs: 
-  autoscrape:
-    # The type of runner that the job will run on
-    runs-on: macos-latest
-
-    # Load repo and install R
+jobs:
+  render:
+    name: Scrape NBA matchs
+    runs-on: macOS-latest
     steps:
-    - uses: actions/checkout@main
-    - uses: r-lib/actions/setup-r@main
-
-    # Set-up R
-    - name: Install packages
-      run: |
-        R -e 'install.packages("dplyr")'
-        R -e 'install.packages("plyr")'
-        R -e 'install.packages("xml2")'
-        R -e 'install.packages("jsonlite")'
-        R -e 'install.packages("rvest")'
-    # Run R script
-    - name: Scrape
-      run: Rscript exec/nba_matchs.R
-      
- # Add new files in data folder, commit along with other modified files, push
-    - name: Commit files
-      run: |
-        git config --local user.name actions-user
-        git config --local user.email "actions@github.com"
-        git add data/*
-        git commit -am "GH ACTION Headlines $(date)"
-        git push origin main
-      env:
-        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-        username: github-actions
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+      - name: Install dependencies
+        run: Rscript -e 'install.packages(c("rvest","dplyr","plyr","xml2","jsonlite))'
+      - name: Scrape the data
+        run: Rscript exec/nba_matchs.R
+      - name: Commit results
+        run: |
+          git add -A
+          git commit -m 'Add nba matchs in data' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"          
