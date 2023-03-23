@@ -4,6 +4,7 @@ library(dplyr)
 library(rvest)
 library(xml2)
 library(jsonlite)
+devtools::load_all()
 
 json <- get_winamax_json("https://www.winamax.fr/paris-sportifs/sports/2/15/177")
 
