@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '30 10,11,12,15 * * *'
+    - cron: '00 18 * * *'
   push:
     branches: main
 
@@ -9,16 +9,22 @@ name: Scrape NBA matchs
 jobs:
   render:
     name: Scrape NBA matchs
-    runs-on: macOS-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@v1
-      - name: Install dependencies
-        run: Rscript -e 'install.packages(c("rvest","dplyr","plyr","xml2","jsonlite"))'
+
+      # Set-up R
+      - name: Install packages
+      run: |
+        Rscript -e 'install.packages(c("rvest","dplyr","plyr","xml2","jsonlite"))'
+        Rscript -e 'devtools::load_all()'
+
       - name: Scrape the data
         run: Rscript exec/nba_matchs.R
+
       - name: Commit results
         run: |
           git add -A
           git commit -m 'Add nba matchs in data' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"          
+          git push origin || echo "No changes to commit"
