@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/Alexis-vs/winaRaque/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Alexis-vs/winaRaque/actions/workflows/R-CMD-check.yaml)
+[![Scrape NBA matchs](https://github.com/Alexis-vs/winaRaque/actions/workflows/nba_matchs_scrap.yml/badge.svg)](https://github.com/Alexis-vs/winaRaque/actions/workflows/nba_matchs_scrap.yml)
 <!-- badges: end -->
 
 The goal of winaRaque is to faire raquer winamax

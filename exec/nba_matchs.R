@@ -1,4 +1,4 @@
-# Script for github actions to get nba matchs everyday with odds ---------------
+# Script for github actions to get nba matches everyday with odds ---------------
 
 library(dplyr)
 library(rvest)
@@ -24,7 +24,7 @@ df_match <- df_match %>%
   arrange(matchStart) %>%
   mutate(time_scrap = time_scrap)
 
-# Time filter
+# Time filter (matches 12h after job execution)
 df_match <- df_match %>%
   filter(matchStart < (Sys.time()+(60*60*12)))
 
@@ -37,15 +37,14 @@ df_match <- df_match %>%
 data_path <- file.path("inst/extdata/")
 
 if(file.exists(file.path(data_path,"nba_matchs.csv"))){
-
-  print(getwd())
   read.csv2(file.path(data_path,"nba_matchs.csv")) %>%
     mutate_at(.vars = c("matchStart","time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
     rbind(df_match) %>%
+    arrange(matchStart,matchId, time_scrap %>% desc()) %>%
+    distinct(matchId,mainBetId,matchStart, .keep_all = TRUE) %>%
     write.csv2(file.path(data_path,"nba_matchs.csv"),
                row.names = FALSE)
 } else {
-
   df_match %>%
     write.csv2("nba_matchs.csv",
                row.names = FALSE)
