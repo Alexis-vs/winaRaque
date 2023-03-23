@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: r-lib/actions/setup-r@v1
+      - uses: r-lib/actions/setup-r@v2
       # Set-up R
       - name: Install packages
         run: Rscript -e 'install.packages(c("devtools","rvest","dplyr","plyr","xml2","jsonlite"))'
@@ -23,6 +23,11 @@ jobs:
 
       - name: Commit results
         run: |
+          git config --local user.name actions-user
+          git config --local user.email "actions@github.com"
           git add -A
-          git commit -m 'Add nba matchs in data' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+          git commit -m 'Add nba matchs in data'
+          git push origin main
+        env:
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+          username: github-actions
