@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: r-lib/actions/setup-r@v1
       - name: Install dependencies
-        run: Rscript -e 'install.packages(c("rvest","dplyr","plyr","xml2","jsonlite))'
+        run: Rscript -e 'install.packages(c("rvest","dplyr","plyr","xml2","jsonlite"))'
       - name: Scrape the data
         run: Rscript exec/nba_matchs.R
       - name: Commit results
