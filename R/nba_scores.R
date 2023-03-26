@@ -13,6 +13,9 @@
 #'
 #' @param game_date date or character format "%Y-%m-%d"
 #'
+#' @import stringr purrr glue httr
+#' @importFrom jsonlite fromJSON
+#'
 #' @return results for a day
 get_nba_results <- function(game_date){
 
