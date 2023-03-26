@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 [![Scrape NBA matchs](https://github.com/Alexis-vs/winaRaque/actions/workflows/nba_matchs_scrap.yml/badge.svg)](https://github.com/Alexis-vs/winaRaque/actions/workflows/nba_matchs_scrap.yml)
 <!-- badges: end -->
 
-The goal of winaRaque is to faire raquer winamax
+The goal of winaRaque is to explore sport data and make analysis with sport betting odds. The first analyzes will be done through the NBA.
 
 ## Installation
 
@@ -33,11 +33,15 @@ devtools::install_github("Alexis-vs/winaRaque")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+You can get NBA results for a day.
 
 ```{r example}
 library(winaRaque)
-## basic example code
+
+get_nba_scores("2023-01-21")
 ```
 
 
+## Data collect
+
+A workflow run everyday to get all NBA odds for the night. The results are in `inst/extdata`.
