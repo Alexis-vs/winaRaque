@@ -4,9 +4,7 @@ library(dplyr)
 library(rvest)
 library(xml2)
 library(jsonlite)
-devtools::load_all()
-
-json <- get_winamax_json("https://www.winamax.fr/paris-sportifs/sports/2/15/177")
+#devtools::load_all()
 
 time_scrap <- Sys.time()
 json <- get_winamax_json("https://www.winamax.fr/paris-sportifs/sports/2/15/177")
@@ -49,3 +47,19 @@ if(file.exists(file.path(data_path,"nba_matchs.csv"))){
     write.csv2("nba_matchs.csv",
                row.names = FALSE)
 }
+
+
+
+# get_nba_scores("2023-01-21")
+#
+#
+# # à rajouter dans le scrap wina pour jointure cotes/scores
+# data_path <- file.path("inst/extdata/")
+# df_match <- read.csv2(file.path(data_path,"nba_matchs.csv")) %>%
+#   mutate_at(.vars = c("matchStart","time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
+#   mutate(day_match = format(matchStart, tz="America/Los_Angeles",usetz=TRUE) %>% as.Date())
+#
+# min_date<-df_match$day_match %>% min()
+# max_date<-df_match$day_match %>% max()
+#
+# scores <- get_nba_scores(game_date = min_date)
