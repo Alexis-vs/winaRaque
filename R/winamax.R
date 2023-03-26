@@ -5,7 +5,7 @@
 #'
 #' @import rvest
 #' @import xml2
-#' @import jsonlite
+#' @importFrom jsonlite fromJSON
 #'
 #' @return json file
 #' @export

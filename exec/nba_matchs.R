@@ -4,6 +4,7 @@ library(dplyr)
 library(rvest)
 library(xml2)
 library(jsonlite)
+library(winaRaque)
 #devtools::load_all()
 
 time_scrap <- Sys.time()
