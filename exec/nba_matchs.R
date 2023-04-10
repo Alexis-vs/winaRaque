@@ -27,26 +27,29 @@ df_match <- df_match %>%
 df_match <- df_match %>%
   filter(matchStart < (Sys.time()+(60*60*12)))
 
-# Add odds
-df_match <- df_match %>%
-  rowwise() %>%
-  mutate(competitor1Odd = get_odds(json, mainBetId)[[1]], .after = "competitor1Name") %>%
-  mutate(competitor2Odd = get_odds(json, mainBetId)[[2]], .after = "competitor2Name")
+# Add odds in csv if there are NBA games
+if(nrow(df_match) > 0){
 
-data_path <- file.path("inst/extdata/")
+  df_match <- df_match %>%
+    rowwise() %>%
+    mutate(competitor1Odd = get_odds(json, mainBetId)[[1]], .after = "competitor1Name") %>%
+    mutate(competitor2Odd = get_odds(json, mainBetId)[[2]], .after = "competitor2Name")
 
-if(file.exists(file.path(data_path,"nba_matchs.csv"))){
-  read.csv2(file.path(data_path,"nba_matchs.csv")) %>%
-    mutate_at(.vars = c("matchStart","time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
-    rbind(df_match) %>%
-    arrange(matchStart,matchId, time_scrap %>% desc()) %>%
-    distinct(matchId,mainBetId,matchStart, .keep_all = TRUE) %>%
-    write.csv2(file.path(data_path,"nba_matchs.csv"),
-               row.names = FALSE)
-} else {
-  df_match %>%
-    write.csv2("nba_matchs.csv",
-               row.names = FALSE)
+  data_path <- file.path("inst/extdata/")
+
+  if(file.exists(file.path(data_path,"nba_matchs.csv"))){
+    read.csv2(file.path(data_path,"nba_matchs.csv")) %>%
+      mutate_at(.vars = c("matchStart","time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
+      rbind(df_match) %>%
+      arrange(matchStart,matchId, time_scrap %>% desc()) %>%
+      distinct(matchId,mainBetId,matchStart, .keep_all = TRUE) %>%
+      write.csv2(file.path(data_path,"nba_matchs.csv"),
+                 row.names = FALSE)
+  } else {
+    df_match %>%
+      write.csv2("nba_matchs.csv",
+                 row.names = FALSE)
+  }
 }
 
 
