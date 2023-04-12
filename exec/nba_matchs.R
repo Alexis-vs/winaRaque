@@ -8,7 +8,7 @@ library(winaRaque)
 #devtools::load_all()
 
 time_scrap <- Sys.time()
-json <- get_winamax_json("https://www.winamax.fr/paris-sportifs/sports/2/15/177")
+json <- get_winamax_json("https://www.winamax.fr/paris-sportifs/sports/2/15/10561")
 
 list_match <- json[["matches"]]
 
@@ -17,7 +17,7 @@ df_match <- plyr::rbind.fill(lapply(list_match, function(y){as.data.frame(t(y), 
 df_match <- df_match %>%
   as.data.frame() %>%
   mutate_all(as.character) %>%
-  filter(tournamentId == "177") %>%
+  filter(tournamentId == "10561") %>%
   select(matchId,mainBetId,title,competitor1Id,competitor1Name,competitor2Id,competitor2Name,matchStart) %>%
   mutate_at("matchStart", ~as.POSIXct(as.numeric(.), origin = "1970-01-01", tz = "CET")) %>%
   arrange(matchStart) %>%
