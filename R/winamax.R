@@ -44,7 +44,96 @@ get_winamax_json <- function(url, ...){
 #' @export
 get_odds <- function(json, bet_id){
 
+  if(bet_id=="NULL"){
+    return(c(NA, NA))
+  }else{
   outcomes <- json[["bets"]][[as.character(bet_id)]]$outcomes
   odds <- json[["odds"]][as.character(outcomes)]
   return(odds)
+  }
 }
+
+
+
+#' Get all odds for selected sports
+#'
+#' @param sport Sports list between "Tennis", "Basketball", and "Baseball".
+#'   Others sports are not yet implemented.
+#' @param bet_status "PREMATCH" or "LIVE"
+#' @param next_hours next_hours
+#'
+#' @importFrom rlang is_empty
+#' @importFrom plyr rbind.fill
+#' @import dplyr
+#'
+#' @return Odds for selected sports.
+#' @export
+#'
+#' @examples
+#' library(rvest)
+#' library(xml2)
+#' library(jsonlite)
+#'
+#' # Tennis bets for next 3 hours:
+#' get_sport_df(sport = "Tennis", bet_status = "PREMATCH", next_hours = 3)
+get_sport_df <- function(sport, bet_status, next_hours = 24){
+
+  # SportsIdName <- read.csv2("inst/extdata/SportsIdName.csv") # ecrire un autre wrapper ?
+  SportId <- SportsIdName$SportId[SportsIdName$SportName == sport]
+  if(rlang::is_empty(SportId)) stop('write correct sport')
+
+  url <- paste0("https://www.winamax.fr/paris-sportifs/sports/", SportId)
+
+  time_scrap <- Sys.time()
+  json <- get_winamax_json(url)
+
+  list_match <- json[["matches"]]
+
+  df_match <- plyr::rbind.fill(lapply(list_match, function(y){as.data.frame(t(y), stringsAsFactors = FALSE)}))
+
+  df_match <- df_match %>%
+    as.data.frame() %>%
+    dplyr::mutate_all(as.character) %>%
+    dplyr::filter(sportId %in% c("2", "3", "5")) %>%
+    dplyr::select(matchId, status, mainBetId, sportId, title, competitor1Id, competitor1Name, competitor2Id, competitor2Name, matchStart) %>%
+    dplyr::mutate_at("matchStart", ~as.POSIXct(as.numeric(.), origin = "1970-01-01", tz = "CET")) %>%
+    dplyr::arrange(matchStart) %>%
+    dplyr::mutate(time_scrap = time_scrap)
+
+  # Time filter
+  df_match <- df_match %>%
+    dplyr::filter(matchStart < (Sys.time() + (60 * 60 * next_hours)))
+
+  df_match <- df_match %>%
+    dplyr::filter(status == bet_status)
+
+  if(nrow(df_match) == 0L) {
+    warning("No bet")
+    return(NA)
+  }
+
+  if(bet_status == "PREMATCH"){
+
+    df_match <- df_match %>%
+      dplyr::rowwise() %>%
+      dplyr::mutate(competitor1OddPreMatch = get_odds(json, mainBetId)[[1]], .after = "competitor1Name") %>%
+      dplyr::mutate(competitor2OddPreMatch = get_odds(json, mainBetId)[[2]], .after = "competitor2Name")
+
+  }else if(bet_status == "LIVE"){
+
+    df_match <- df_match %>%
+      dplyr::rowwise() %>%
+      dplyr::mutate(competitor1OddLive = get_odds(json, mainBetId)[[1]], .after = "competitor1Name") %>%
+      dplyr::mutate(competitor2OddLive = get_odds(json, mainBetId)[[2]], .after = "competitor2Name")
+  }
+
+  return(df_match)
+}
+
+
+# Global variables
+utils::globalVariables(c("SportsIdName",
+                         "competitor1Id", "competitor1Name",
+                         "competitor2Id", "competitor2Name",
+                         "mainBetId", "matchId", "matchStart",
+                         "sportId", "status", "title"))

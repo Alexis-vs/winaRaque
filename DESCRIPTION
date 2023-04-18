@@ -15,6 +15,11 @@ Imports:
     jsonlite,
     plyr,
     purrr,
+    rlang,
     rvest,
     stringr,
+    tidyr,
     xml2
+Depends: 
+    R (>= 2.10)
+LazyData: true
