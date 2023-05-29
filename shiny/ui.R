@@ -23,7 +23,7 @@ dashboardPage(
     tabItems(
       # First tab content
       tabItem(tabName = "live",
-              box(plotOutput("plot",height = "800px"),
+              box(plotOutput("plot", height = "800px"),
                   width = 12)),
 
       # Second tab content

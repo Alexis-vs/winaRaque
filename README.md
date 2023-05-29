@@ -96,4 +96,10 @@ get_nba_scores("2023-01-21")
 ## Data collect
 
 A workflow run everyday to get all NBA odds for the night. The results
-are in `inst/extdata`.
+are in `inst/extdata`. An other workflow run every morning to collect
+odds for shiny app.
+
+## Shiny
+
+Shiny app to explore ‘surbet’ variations during games of 1/2 sports
+(tennis, basketball, baseball). Run the Shiny app with `app.R`.

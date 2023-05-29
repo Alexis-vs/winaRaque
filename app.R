@@ -16,7 +16,7 @@ devtools::load_all()
 # Inputs
 mise_outsider = 5
 next_hours = 12
-sports = c("Basketball")
+sports = c("Basketball", "Baseball", "Tennis")
 
 # Source - get prematch_scan.rds from github actions
 system("git pull")

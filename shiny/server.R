@@ -38,23 +38,23 @@ shinyServer(function(input, output) {
 
       results_surbet <- merge_live_prematch %>%
         rowwise() %>%
-        mutate(max_prematch = max(competitor1OddPreMatch,competitor2OddPreMatch)) %>%
+        mutate(max_prematch = max(competitor1OddPreMatch, competitor2OddPreMatch)) %>%
         mutate(gain_cote_max_prematch = mise_outsider * max_prematch) %>%
-        mutate(mise_surbet = gain_cote_max_prematch / get(paste0("competitor",competitorFavori,"OddLive"))) %>%
+        mutate(mise_surbet = gain_cote_max_prematch / get(paste0("competitor", competitorFavori, "OddLive"))) %>%
         mutate(mise_totale = mise_surbet + mise_outsider) %>%
         mutate(surbet = gain_cote_max_prematch - mise_totale) %>%
         mutate(pct_surbet = surbet*100/mise_outsider)
 
       results$text_ggplot <- results_surbet %>%
         select(title, competitor1Name, competitor2Name, competitorFavori, mise_surbet) %>%
-        mutate(label = paste("mise favori :",round(mise_surbet,2), "sur", get(paste0("competitor",competitorFavori,"Name"))))
+        mutate(label = paste("mise favori :", round(mise_surbet, 2), "sur", get(paste0("competitor", competitorFavori, "Name"))))
 
       results$df =  rbind(results$df, results_surbet)
     }
   })
 
   # Prematch table
-  output$prematch_table <- renderDataTable(df_prematch %>% select(sportId, competitor1Name,competitor2Name,competitor1OddPreMatch,competitor2OddPreMatch))
+  output$prematch_table <- renderDataTable(df_prematch %>% select(sportId, competitor1Name, competitor2Name, competitor1OddPreMatch, competitor2OddPreMatch))
   #output$prematch_table <- renderDataTable(results$df)
 
   # Surbet plot
