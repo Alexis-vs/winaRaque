@@ -31,30 +31,30 @@ shinyServer(function(input, output) {
       filter(matchId %in% df_prematch$matchId)
 
     merge_live_prematch <- merge(df_live,
-                                 df_prematch %>% select(matchId, competitor1OddPreMatch, competitor2OddPreMatch, competitorFavori, competitorOutsider),
+                                 df_prematch %>% select(matchId, Competitor1_OddPreMatch, Competitor2_OddPreMatch, competitorFavori, competitorOutsider),
                                  by = "matchId")
 
     if(nrow(merge_live_prematch) > 0){
 
       results_surbet <- merge_live_prematch %>%
         rowwise() %>%
-        mutate(max_prematch = max(competitor1OddPreMatch, competitor2OddPreMatch)) %>%
+        mutate(max_prematch = max(Competitor1_OddPreMatch, Competitor2_OddPreMatch)) %>%
         mutate(gain_cote_max_prematch = mise_outsider * max_prematch) %>%
-        mutate(mise_surbet = gain_cote_max_prematch / get(paste0("competitor", competitorFavori, "OddLive"))) %>%
+        mutate(mise_surbet = gain_cote_max_prematch / get(paste0("Competitor", competitorFavori, "_OddLive"))) %>%
         mutate(mise_totale = mise_surbet + mise_outsider) %>%
         mutate(surbet = gain_cote_max_prematch - mise_totale) %>%
         mutate(pct_surbet = surbet*100/mise_outsider)
 
       results$text_ggplot <- results_surbet %>%
-        select(title, competitor1Name, competitor2Name, competitorFavori, mise_surbet) %>%
-        mutate(label = paste("mise favori :", round(mise_surbet, 2), "sur", get(paste0("competitor", competitorFavori, "Name"))))
+        select(title, Competitor1_Name, Competitor2_Name, CompetitorFavori, mise_surbet) %>%
+        mutate(label = paste("mise favori :", round(mise_surbet, 2), "sur", get(paste0("Competitor", competitorFavori, "_Name"))))
 
       results$df =  rbind(results$df, results_surbet)
     }
   })
 
   # Prematch table
-  output$prematch_table <- renderDataTable(df_prematch %>% select(sportId, competitor1Name, competitor2Name, competitor1OddPreMatch, competitor2OddPreMatch))
+  output$prematch_table <- renderDataTable(df_prematch %>% select(sportId, Competitor1_Name, Competitor2_Name, Competitor1_OddPreMatch, Competitor2_OddPreMatch))
   #output$prematch_table <- renderDataTable(results$df)
 
   # Surbet plot

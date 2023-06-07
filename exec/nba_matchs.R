@@ -19,8 +19,8 @@ df_match <- df_match %>%
   mutate_all(as.character) %>%
   filter(tournamentId == "10561") %>%
   select(matchId, mainBetId, title,
-         competitor1Id, competitor1Name,
-         competitor2Id, competitor2Name,
+         Competitor1_Id, Competitor1_Name,
+         Competitor2_Id, Competitor2_Name,
          matchStart) %>%
   mutate_at("matchStart", ~as.POSIXct(as.numeric(.), origin = "1970-01-01", tz = "CET")) %>%
   arrange(matchStart) %>%
@@ -35,8 +35,8 @@ if(nrow(df_match) > 0){
 
   df_match <- df_match %>%
     rowwise() %>%
-    mutate(competitor1Odd = get_odds(json, mainBetId)[[1]], .after = "competitor1Name") %>%
-    mutate(competitor2Odd = get_odds(json, mainBetId)[[2]], .after = "competitor2Name")
+    mutate(Competitor1_Odd = get_odds(json, mainBetId)[[1]], .after = "Competitor1_Name") %>%
+    mutate(Competitor2_Odd = get_odds(json, mainBetId)[[2]], .after = "Competitor2_Name")
 
   data_path <- file.path("inst/extdata/")
 

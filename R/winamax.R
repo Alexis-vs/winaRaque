@@ -92,10 +92,14 @@ get_sport_df <- function(sport, bet_status, next_hours = 24){
   df_match <- plyr::rbind.fill(lapply(list_match, function(y){as.data.frame(t(y), stringsAsFactors = FALSE)}))
 
   df_match <- df_match %>%
-    as.data.frame() %>%
+    as.data.frame()  %>%
+    dplyr::rename("Competitor1_Id" = "competitor1Id",
+                  "Competitor1_Name" = "competitor1Name",
+                  "Competitor2_Id" = "competitor2Id",
+                  "Competitor2_Name" = "competitor2Name") %>%
     dplyr::mutate_all(as.character) %>%
     dplyr::filter(sportId %in% c("2", "3", "5")) %>%
-    dplyr::select(matchId, status, mainBetId, sportId, title, competitor1Id, competitor1Name, competitor2Id, competitor2Name, matchStart) %>%
+    dplyr::select(matchId, status, mainBetId, sportId, title, Competitor1_Id, Competitor1_Name, Competitor2_Id, Competitor2_Name, matchStart) %>%
     dplyr::mutate_at("matchStart", ~as.POSIXct(as.numeric(.), origin = "1970-01-01", tz = "CET")) %>%
     dplyr::arrange(matchStart) %>%
     dplyr::mutate(time_scrap = time_scrap)
@@ -116,15 +120,15 @@ get_sport_df <- function(sport, bet_status, next_hours = 24){
 
     df_match <- df_match %>%
       dplyr::rowwise() %>%
-      dplyr::mutate(competitor1OddPreMatch = get_odds(json, mainBetId)[[1]], .after = "competitor1Name") %>%
-      dplyr::mutate(competitor2OddPreMatch = get_odds(json, mainBetId)[[2]], .after = "competitor2Name")
+      dplyr::mutate(Competitor1_OddPreMatch = get_odds(json, mainBetId)[[1]], .after = "Competitor1_Name") %>%
+      dplyr::mutate(Competitor2_OddPreMatch = get_odds(json, mainBetId)[[2]], .after = "Competitor2_Name")
 
   }else if(bet_status == "LIVE"){
 
     df_match <- df_match %>%
       dplyr::rowwise() %>%
-      dplyr::mutate(competitor1OddLive = get_odds(json, mainBetId)[[1]], .after = "competitor1Name") %>%
-      dplyr::mutate(competitor2OddLive = get_odds(json, mainBetId)[[2]], .after = "competitor2Name")
+      dplyr::mutate(Competitor1_OddLive = get_odds(json, mainBetId)[[1]], .after = "Competitor1_Name") %>%
+      dplyr::mutate(Competitor2_OddLive = get_odds(json, mainBetId)[[2]], .after = "Competitor2_Name")
   }
 
   return(df_match)
@@ -133,7 +137,7 @@ get_sport_df <- function(sport, bet_status, next_hours = 24){
 
 # Global variables
 utils::globalVariables(c("SportsIdName",
-                         "competitor1Id", "competitor1Name",
-                         "competitor2Id", "competitor2Name",
+                         "Competitor1_Id", "Competitor1_Name",
+                         "Competitor2_Id", "Competitor2_Name",
                          "mainBetId", "matchId", "matchStart",
                          "sportId", "status", "title"))
