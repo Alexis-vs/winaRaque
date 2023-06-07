@@ -15,7 +15,11 @@ list_match <- json[["matches"]]
 df_match <- plyr::rbind.fill(lapply(list_match, function(y){as.data.frame(t(y), stringsAsFactors = FALSE)}))
 
 df_match <- df_match %>%
-  as.data.frame() %>%
+  as.data.frame()  %>%
+  dplyr::rename("Competitor1_Id" = "competitor1Id",
+                "Competitor1_Name" = "competitor1Name",
+                "Competitor2_Id" = "competitor2Id",
+                "Competitor2_Name" = "competitor2Name") %>%
   mutate_all(as.character) %>%
   filter(tournamentId == "10561") %>%
   select(matchId, mainBetId, title,
