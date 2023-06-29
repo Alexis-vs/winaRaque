@@ -51,19 +51,95 @@ get_nba_results <- function(game_date){
 
 #' All NBA scores for a day
 #'
+#' @description
+#' Get a dataset with results and odds
+#'
 #' @param game_date date or character format "%Y-%m-%d"
+#' @param pivot_results default to FALSE. Pivot_longer with regex
+#' @param only_results raw data from stats.nba.com
+#'
+#' @import dplyr
+#' @importFrom tidyr pivot_longer pivot_wider
+#' @importFrom tidyselect starts_with ends_with
+#' @importFrom utils read.csv2
 #'
 #' @return scores for a day
 #' @export
 #'
 #' @examples
 #' get_nba_scores("2023-03-21")
-get_nba_scores <- function(game_date){
+#'
+#' # Try pivot_results feature
+#' get_nba_scores("2023-03-21", pivot_results = TRUE)
+#'
+#' # Try with many dates
+#' seq_date <- seq.Date(from = as.Date("2023-03-24"),
+#'                      to = as.Date("2023-03-27 "),
+#'                      by = "day")
+#' list_results <- lapply(seq_date, get_nba_scores, pivot_results = TRUE)
+#' results <- do.call("rbind", list_results)
+get_nba_scores <- function(game_date, pivot_results = FALSE, only_results = FALSE){
 
   results <- get_nba_results(game_date)
   scores <- results$resultSets
   scores_df <- scores$rowSet[[2]] %>% data.frame()
+
+  if(nrow(scores_df) == 0){
+    #warning(paste("No matches on", game_date, "\n"))
+    return(NULL)
+  }
+
   colnames(scores_df) <- scores$headers[[2]]
 
-  return(scores_df)
+  if(only_results == TRUE){return(scores_df)}
+
+  # Odds from github actions
+  df_match <- utils::read.csv2("https://raw.githubusercontent.com/Alexis-vs/winaRaque/main/inst/extdata/nba_matchs.csv") %>%
+    dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS")) %>%
+    dplyr::mutate(day_match = format(matchStart, tz = "America/Los_Angeles", usetz = TRUE) %>% as.Date())
+
+  scores_df$TEAM_CITY_NAME <- stringr::str_replace(scores_df$TEAM_CITY_NAME, "LA", "Los Angeles")
+
+  pivot_scores <- scores_df %>%
+    dplyr::mutate(name_order = rep(c(2, 1), nrow(scores_df)/2)) %>%
+    dplyr::arrange(GAME_ID, name_order) %>%
+    dplyr::mutate(TEAM = paste(TEAM_CITY_NAME, TEAM_NAME)) %>%
+    dplyr::group_by(GAME_ID) %>%
+    dplyr::mutate(WINLOSE = ifelse(PTS == max(PTS), "W", "L"),
+                  GAME = paste(TEAM, collapse = " - ")) %>%
+    dplyr::ungroup() %>%
+    #dplyr::arrange(GAME_SEQUENCE, name_order) %>%
+    dplyr::select(GAME, name_order, WINLOSE, tidyselect::starts_with(c("PTS", "FG", "FT", "AST", "REB")), TOV) %>%
+    tidyr::pivot_wider(names_from = c("name_order"),
+                       names_glue = "Competitor{name_order}_{.value}",
+                       values_from = c(WINLOSE, tidyselect::starts_with(c("PTS", "FG", "FT", "AST", "REB")), TOV))
+
+  merge_results <- df_match %>%
+    dplyr::filter(day_match == game_date) %>%
+    merge(pivot_scores, by.x = "title", by.y = "GAME")
+
+  temp_labels <- c("Name", "Odd", "WINLOSE", "PTS", "FG_PCT", "FG3_PCT", "FT_PCT", "AST", "REB", "TOV")
+  labels <- lapply(temp_labels, function(x) paste0("Competitor", 1:2,"_", x))
+  labels_select <- do.call("c", labels)
+
+  numeric_labels <- c("PTS", "FG_PCT", "FG3_PCT", "FT_PCT", "AST", "REB", "TOV")
+
+  merge_results <- merge_results %>%
+    dplyr::select(day_match,
+                  matchId,
+                  labels_select) %>%
+    dplyr::mutate(dplyr::across(tidyselect::ends_with(numeric_labels), as.numeric))
+
+  if(pivot_results == TRUE){
+    merge_results <- merge_results %>%
+      tidyr::pivot_longer(-c(day_match, matchId),
+                          names_to = c("set", ".value"),
+                          names_pattern = "(^[^_]+(?=_))_(.+)") # (.+)_(.+)
+  }
+  return(merge_results)
 }
+
+# Global variables
+utils::globalVariables(c("GAME", "GAME_ID", "PTS",
+                         "TEAM", "TEAM_CITY_NAME", "TEAM_NAME",
+                         "TOV", "WINLOSE", "day_match", "name_order"))
