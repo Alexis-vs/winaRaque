@@ -46,7 +46,7 @@ shinyServer(function(input, output) {
         mutate(pct_surbet = surbet*100/mise_outsider)
 
       results$text_ggplot <- results_surbet %>%
-        select(title, Competitor1_Name, Competitor2_Name, CompetitorFavori, mise_surbet) %>%
+        select(title, Competitor1_Name, Competitor2_Name, competitorFavori, mise_surbet) %>%
         mutate(label = paste("mise favori :", round(mise_surbet, 2), "sur", get(paste0("Competitor", competitorFavori, "_Name"))))
 
       results$df =  rbind(results$df, results_surbet)
