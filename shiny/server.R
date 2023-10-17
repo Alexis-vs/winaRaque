@@ -23,7 +23,9 @@ shinyServer(function(input, output) {
     #df_live <- get_sport_df(sport = "Tennis", bet_status = "LIVE")
     df_live_sports <- lapply(sports, get_sport_df, bet_status = "LIVE", next_hours = next_hours)
     df_live <- do.call("rbind", df_live_sports) %>%
-      drop_na(matchId)
+      drop_na(matchId) %>%
+      arrange(time_scrap %>% desc()) %>%
+      distinct(matchId, .keep_all = TRUE)
       #ungroup() %>%
       #filter(!is.na(matchId))
 
@@ -54,7 +56,11 @@ shinyServer(function(input, output) {
   })
 
   # Prematch table
-  output$prematch_table <- renderDataTable(df_prematch %>% select(sportId, Competitor1_Name, Competitor2_Name, Competitor1_OddPreMatch, Competitor2_OddPreMatch))
+  output$prematch_table <- renderDataTable(df_prematch %>%
+                                             merge(SportsIdName, by.x = "sportId", by.y = "SportId") %>%
+                                             filter(Competitor1_Id != "NULL") %>%
+                                             select(sportId, SportName, Competitor1_Name, Competitor2_Name, Competitor1_OddPreMatch, Competitor2_OddPreMatch)
+                                           )
   #output$prematch_table <- renderDataTable(results$df)
 
   # Surbet plot
