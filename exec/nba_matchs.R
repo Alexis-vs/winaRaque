@@ -8,7 +8,7 @@ library(winaRaque)
 #devtools::load_all()
 
 time_scrap <- Sys.time()
-json <- get_winamax_json("https://www.winamax.fr/paris-sportifs/sports/2/15/10561")
+json <- get_winamax_json("https://www.winamax.fr/paris-sportifs/sports/2/15/177")
 
 list_match <- json[["matches"]]
 
@@ -21,7 +21,7 @@ df_match <- df_match %>%
                 "Competitor2_Id" = "competitor2Id",
                 "Competitor2_Name" = "competitor2Name") %>%
   mutate_all(as.character) %>%
-  filter(tournamentId == "10561") %>%
+  filter(tournamentId == "177") %>%
   select(matchId, mainBetId, title,
          Competitor1_Id, Competitor1_Name,
          Competitor2_Id, Competitor2_Name,
@@ -32,7 +32,7 @@ df_match <- df_match %>%
 
 # Time filter (matches 12h after job execution)
 df_match <- df_match %>%
-  filter(matchStart < (Sys.time()+(60*60*12)))
+  filter(matchStart < (Sys.time() + (60*60*12)))
 
 # Add odds in csv if there are NBA games
 if(nrow(df_match) > 0){

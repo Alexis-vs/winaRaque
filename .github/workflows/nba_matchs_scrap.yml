@@ -1,9 +1,8 @@
-# Stop this workflow (end of the NBA season)
-# on:
-#   schedule:
-#     - cron: '30 16 * * *'
-#   push:
-#     branches: [main, master]
+on:
+ schedule:
+   - cron: '30 16 * * *'
+ push:
+   branches: [main, master]
 
 name: Scrape NBA matchs
 
