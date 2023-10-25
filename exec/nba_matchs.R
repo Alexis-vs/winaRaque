@@ -54,7 +54,7 @@ if(nrow(df_match) > 0){
                  row.names = FALSE)
   } else {
     df_match %>%
-      write.csv2("nba_matchs.csv",
+      write.csv2(file.path(data_path, "nba_matchs.csv"),
                  row.names = FALSE)
   }
 }
