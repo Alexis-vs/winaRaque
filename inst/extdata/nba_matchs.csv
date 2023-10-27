@@ -1,20 +1,28 @@
 "matchId";"mainBetId";"title";"Competitor1_Id";"Competitor1_Name";"Competitor1_Odd";"Competitor2_Id";"Competitor2_Name";"Competitor2_Odd";"matchStart";"time_scrap"
 "43065361";"255462518";"Denver Nuggets - Los Angeles Lakers";"3417";"Denver Nuggets";1,54;"3427";"Los Angeles Lakers";2,55;2023-10-25 01:45:00;2023-10-24 22:52:52
 "43065363";"255463230";"Golden State Warriors - Phoenix Suns";"3428";"Golden State Warriors";1,7;"3416";"Phoenix Suns";2,2;2023-10-25 04:15:00;2023-10-24 22:52:52
-"43065369";"255495880";"New York Knicks - Boston Celtics";"3421";"New York Knicks";2,35;"3422";"Boston Celtics";1,58;2023-10-26 01:00:00;2023-10-25 17:37:17
 "43065365";"255495117";"Charlotte Hornets - Atlanta Hawks";"3430";"Charlotte Hornets";2,45;"3423";"Atlanta Hawks";1,55;2023-10-26 01:15:00;2023-10-25 18:55:50
 "43065367";"255464594";"Indiana Pacers - Washington Wizards";"3419";"Indiana Pacers";1,46;"3431";"Washington Wizards";2,7;2023-10-26 01:15:00;2023-10-25 18:55:50
 "43065369";"255495880";"New York Knicks - Boston Celtics";"3421";"New York Knicks";2,35;"3422";"Boston Celtics";1,58;2023-10-26 01:15:00;2023-10-25 18:55:50
 "43065371";"255496093";"Orlando Magic - Houston Rockets";"3437";"Orlando Magic";1,56;"3412";"Houston Rockets";2,4;2023-10-26 01:15:00;2023-10-25 18:55:50
-"43065377";"255465358";"Toronto Raptors - Minnesota Timberwolves";"3433";"Toronto Raptors";1,92;"3426";"Minnesota Timberwolves";1,86;2023-10-26 01:30:00;2023-10-25 17:37:17
 "43065373";"255377920";"Brooklyn Nets - Cleveland Cavaliers";"3436";"Brooklyn Nets";2,05;"3432";"Cleveland Cavaliers";1,74;2023-10-26 01:45:00;2023-10-25 18:55:50
 "43065375";"255465098";"Miami Heat - Detroit Pistons";"3435";"Miami Heat";1,25;"3424";"Detroit Pistons";4,2;2023-10-26 01:45:00;2023-10-25 18:55:50
 "43065377";"255465358";"Toronto Raptors - Minnesota Timberwolves";"3433";"Toronto Raptors";1,9;"3426";"Minnesota Timberwolves";1,9;2023-10-26 01:45:00;2023-10-25 18:55:50
 "43065379";"255465717";"Chicago Bulls - Oklahoma City Thunder";"3409";"Chicago Bulls";1,72;"3418";"Oklahoma City Thunder";2,1;2023-10-26 02:15:00;2023-10-25 18:55:50
 "43065381";"260571201";"Memphis Grizzlies - New Orleans Pelicans";"3415";"Memphis Grizzlies";1,86;"5539";"New Orleans Pelicans";1,92;2023-10-26 02:15:00;2023-10-25 18:55:50
 "43065383";"255466591";"Utah Jazz - Sacramento Kings";"3434";"Utah Jazz";2;"3413";"Sacramento Kings";1,78;2023-10-26 03:15:00;2023-10-25 18:55:50
-"43065385";"255467034";"San Antonio Spurs - Dallas Mavericks";"3429";"San Antonio Spurs";2,35;"3411";"Dallas Mavericks";1,58;2023-10-26 03:30:00;2023-10-25 17:37:17
 "43065385";"255467034";"San Antonio Spurs - Dallas Mavericks";"3429";"San Antonio Spurs";2,35;"3411";"Dallas Mavericks";1,58;2023-10-26 03:45:00;2023-10-25 18:55:50
 "43065387";"270732984";"Los Angeles Clippers - Portland Trail Blazers";"3425";"Los Angeles Clippers";1,24;"3414";"Portland Trail Blazers";3,9;2023-10-26 04:45:00;2023-10-25 18:55:50
 "43065389";"255466843";"Milwaukee Bucks - Philadelphia 76ers";"3410";"Milwaukee Bucks";1,42;"3420";"Philadelphia 76ers";2,75;2023-10-27 01:30:00;2023-10-26 18:56:24
 "43065391";"255466442";"Los Angeles Lakers - Phoenix Suns";"3427";"Los Angeles Lakers";1,43;"3416";"Phoenix Suns";2,75;2023-10-27 04:00:00;2023-10-26 18:56:24
+"43065393";"272439065";"Charlotte Hornets - Detroit Pistons";"3430";"Charlotte Hornets";1,56;"3424";"Detroit Pistons";2,35;2023-10-28 01:15:00;2023-10-27 19:30:26
+"43065395";"272439037";"Memphis Grizzlies - Denver Nuggets";"3415";"Memphis Grizzlies";2,6;"3417";"Denver Nuggets";1,46;2023-10-28 01:15:00;2023-10-27 19:30:26
+"43065397";"272439122";"Atlanta Hawks - New York Knicks";"3423";"Atlanta Hawks";1,88;"3421";"New York Knicks";1,86;2023-10-28 01:45:00;2023-10-27 19:30:26
+"43065399";"272439094";"Boston Celtics - Miami Heat";"3422";"Boston Celtics";1,27;"3435";"Miami Heat";3,6;2023-10-28 01:45:00;2023-10-27 19:30:26
+"43065401";"272439162";"Cleveland Cavaliers - Oklahoma City Thunder";"3432";"Cleveland Cavaliers";1,58;"3418";"Oklahoma City Thunder";2,3;2023-10-28 01:45:00;2023-10-27 19:30:26
+"43065403";"272440058";"Chicago Bulls - Toronto Raptors";"3409";"Chicago Bulls";1,72;"3433";"Toronto Raptors";2,05;2023-10-28 02:15:00;2023-10-27 19:30:26
+"43065405";"272440086";"San Antonio Spurs - Houston Rockets";"3429";"San Antonio Spurs";1,64;"3412";"Houston Rockets";2,15;2023-10-28 02:15:00;2023-10-27 19:30:26
+"43065407";"272440205";"Dallas Mavericks - Brooklyn Nets";"3411";"Dallas Mavericks";1,4;"3436";"Brooklyn Nets";2,6;2023-10-28 02:45:00;2023-10-27 19:30:26
+"43065409";"272440888";"Utah Jazz - Los Angeles Clippers";"3434";"Utah Jazz";2,35;"3425";"Los Angeles Clippers";1,56;2023-10-28 03:45:00;2023-10-27 19:30:26
+"43065411";"272441394";"Portland Trail Blazers - Orlando Magic";"3414";"Portland Trail Blazers";2,05;"3437";"Orlando Magic";1,72;2023-10-28 04:15:00;2023-10-27 19:30:26
+"43065413";"271481938";"Sacramento Kings - Golden State Warriors";"3413";"Sacramento Kings";1,66;"3428";"Golden State Warriors";2,15;2023-10-28 04:15:00;2023-10-27 19:30:26

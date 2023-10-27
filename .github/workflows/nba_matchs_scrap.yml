@@ -9,7 +9,9 @@ name: Scrape NBA matchs
 jobs:
   render:
     name: Scrape NBA matchs
-    runs-on: macos-latest
+    runs-on:
+      os: macos-latest
+      r: 'release'
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
 
