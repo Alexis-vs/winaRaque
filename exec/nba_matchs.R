@@ -48,8 +48,9 @@ if(nrow(df_match) > 0){
     read.csv2(file.path(data_path, "nba_matchs.csv")) %>%
       mutate_at(.vars = c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
       rbind(df_match) %>%
-      arrange(matchStart, matchId, time_scrap %>% desc()) %>%
-      distinct(matchId, mainBetId, matchStart, .keep_all = TRUE) %>%
+      arrange(time_scrap %>% desc()) %>%
+      distinct(matchId, mainBetId, .keep_all = TRUE) %>%
+      arrange(matchStart, matchId) %>%
       write.csv2(file.path(data_path, "nba_matchs.csv"),
                  row.names = FALSE)
   } else {
