@@ -30,6 +30,10 @@ jobs:
       - name: Scrape the data
         run: Rscript exec/nba_matchs.R
 
+      - name: Update README
+        run: |
+          R -e 'devtools::build_readme()'
+
       - name: Commit results
         run: |
           git config --local user.name "$GITHUB_ACTOR"
