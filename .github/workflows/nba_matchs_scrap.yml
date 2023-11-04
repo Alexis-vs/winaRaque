@@ -32,6 +32,7 @@ jobs:
 
       - name: Update README
         run: |
+          brew install pandoc
           R -e 'devtools::build_readme()'
 
       - name: Commit results
