@@ -67,6 +67,7 @@ get_nba_results <- function(game_date){
 #' @export
 #'
 #' @examples
+#' \dontrun{
 #' get_nba_scores("2023-03-21")
 #'
 #' # Try pivot_results feature
@@ -78,6 +79,7 @@ get_nba_results <- function(game_date){
 #'                      by = "day")
 #' list_results <- lapply(seq_date, get_nba_scores, pivot_results = TRUE)
 #' results <- do.call("rbind", list_results)
+#' }
 get_nba_scores <- function(game_date, pivot_results = FALSE, only_results = FALSE){
 
   results <- get_nba_results(game_date)
