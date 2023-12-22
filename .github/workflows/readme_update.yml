@@ -1,14 +1,12 @@
 on:
  schedule:
-   - cron: '30 16 * * *'
- push:
-   branches: [main, master]
+   - cron: '0 20 * * 5'
 
-name: Scrape NBA matchs
+name: Update README
 
 jobs:
   render:
-    name: Scrape NBA matchs
+    name: Update README
     runs-on: macos-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -22,18 +20,20 @@ jobs:
           r-version: '4.1.3'
 
       # Set-up R
-      - name: Install winaRaque package
+      - name: Install devtools and ggplot2 packages
         run: |
           R -e 'install.packages("devtools")'
-          R -e 'devtools::install()'
+          R -e 'install.packages("ggplot2")'
 
-      - name: Scrape the data
-        run: Rscript exec/nba_matchs.R
+      - name: Build README
+        run: |
+          brew install pandoc
+          R -e 'devtools::build_readme()'
 
       - name: Commit results
         run: |
           git config --local user.name "$GITHUB_ACTOR"
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git add -A
-          git commit -m 'Add nba matchs in data'
+          git commit -m 'Update README'
           git push origin main
