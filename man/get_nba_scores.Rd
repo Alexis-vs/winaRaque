@@ -20,6 +20,7 @@ scores for a day
 Get a dataset with results and odds
 }
 \examples{
+\dontrun{
 get_nba_scores("2023-03-21")
 
 # Try pivot_results feature
@@ -31,4 +32,5 @@ seq_date <- seq.Date(from = as.Date("2023-03-24"),
                      by = "day")
 list_results <- lapply(seq_date, get_nba_scores, pivot_results = TRUE)
 results <- do.call("rbind", list_results)
+}
 }

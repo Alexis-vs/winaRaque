@@ -20,7 +20,8 @@ sports = c("Basketball", "Baseball", "Tennis")
 
 # Source - get prematch_scan.rds from github actions
 system("git pull")
-df_prematch <- readRDS(file = file.path("shiny", "prematch_scan.rds"))
+df_prematch <- readRDS(file = file.path("shiny", "prematch_scan.rds")) %>%
+  distinct(matchId, .keep_all = TRUE)
 
 # Run the application
 shiny::runApp(appDir = "shiny")
