@@ -4,6 +4,7 @@ library(dplyr)
 library(rvest)
 library(xml2)
 library(jsonlite)
+library(arrow)
 library(winaRaque)
 #devtools::load_all()
 
@@ -44,20 +45,30 @@ if(nrow(df_match) > 0){
 
   data_path <- file.path("inst/extdata/")
 
-  if(file.exists(file.path(data_path, "nba_matchs.csv"))){
-    read.csv2(file.path(data_path, "nba_matchs.csv")) %>%
-      mutate_at(.vars = c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
-      rbind(df_match) %>%
-      arrange(time_scrap %>% desc()) %>%
-      distinct(matchId, mainBetId, .keep_all = TRUE) %>%
-      arrange(matchStart, matchId) %>%
-      write.csv2(file.path(data_path, "nba_matchs.csv"),
-                 row.names = FALSE)
-  } else {
-    df_match %>%
-      write.csv2(file.path(data_path, "nba_matchs.csv"),
-                 row.names = FALSE)
-  }
+  # if(file.exists(file.path(data_path, "nba_matchs.csv"))){
+  #   read.csv2(file.path(data_path, "nba_matchs.csv")) %>%
+  #     mutate_at(.vars = c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
+  #     rbind(df_match) %>%
+  #     arrange(time_scrap %>% desc()) %>%
+  #     distinct(matchId, mainBetId, .keep_all = TRUE) %>%
+  #     arrange(matchStart, matchId) %>%
+  #     write.csv2(file.path(data_path, "nba_matchs.csv"),
+  #                row.names = FALSE)
+  # } else {
+  #   df_match %>%
+  #     write.csv2(file.path(data_path, "nba_matchs.csv"),
+  #                row.names = FALSE)
+  # }
+
+  open_dataset(sources = file.path(data_path, "nba_matchs/"), partitioning = c("season")) %>%
+    collect() %>%
+    mutate_at(.vars = c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
+    rbind(df_match) %>%
+    arrange(time_scrap %>% desc()) %>%
+    distinct(matchId, mainBetId, .keep_all = TRUE) %>%
+    arrange(matchStart, matchId) %>%
+    group_by(season) %>%
+    write_dataset(path = file.path(data_path, "nba_matchs/"))
 }
 
 

@@ -49,6 +49,33 @@ get_nba_results <- function(game_date){
 }
 
 
+#' Read winamax odds in parquet files from github repo
+#'
+#' @description
+#' Odds from github actions
+#'
+#' @param branch branch
+#'
+#' @return
+#' @import httr
+#' @importFrom arrow read_parquet
+#' @noRd
+read_odds_parquet <- function(branch = "main"){
+
+  # install {tzdb} package
+
+  # Odds from github actions : detect parquet files in repo for import
+  req <- httr::GET(paste0("https://api.github.com/repos/Alexis-vs/winaRaque/git/trees/", branch, "?recursive=1"))
+  httr::stop_for_status(req)
+  filelist <- unlist(lapply(httr::content(req)$tree, "[", "path"), use.names = F)
+  parquet_files <- grep(".parquet", filelist, value = TRUE, fixed = TRUE)
+  parquet_data <- lapply(parquet_files, function(x) arrow::read_parquet(paste("https://raw.githubusercontent.com/Alexis-vs/winaRaque", branch, x, sep = "/")))
+  df_match <- do.call("rbind", parquet_data)
+  return(df_match)
+
+}
+
+
 #' All NBA scores for a day
 #'
 #' @description
@@ -61,7 +88,7 @@ get_nba_results <- function(game_date){
 #' @import dplyr
 #' @importFrom tidyr pivot_longer pivot_wider
 #' @importFrom tidyselect starts_with ends_with
-#' @importFrom utils read.csv2
+#' @importFrom arrow read_parquet
 #'
 #' @return scores for a day
 #' @export
@@ -96,8 +123,13 @@ get_nba_scores <- function(game_date, pivot_results = FALSE, only_results = FALS
   if(only_results == TRUE){return(scores_df)}
 
   # Odds from github actions
-  df_match <- utils::read.csv2("https://raw.githubusercontent.com/Alexis-vs/winaRaque/main/inst/extdata/nba_matchs.csv") %>%
-    dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS")) %>%
+  # df_match <- utils::read.csv2("https://raw.githubusercontent.com/Alexis-vs/winaRaque/main/inst/extdata/nba_matchs.csv") %>%
+  # dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS")) %>%
+  # dplyr::mutate(day_match = format(matchStart, tz = "America/Los_Angeles", usetz = TRUE) %>% as.Date())
+
+  df_match <- read_odds_parquet(branch = "apache_arrow") %>%
+    #dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS")) %>%
+    dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), ~as.POSIXct(.x, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS"))) %>%
     dplyr::mutate(day_match = format(matchStart, tz = "America/Los_Angeles", usetz = TRUE) %>% as.Date())
 
   scores_df$TEAM_CITY_NAME <- stringr::str_replace(scores_df$TEAM_CITY_NAME, "LA", "Los Angeles")

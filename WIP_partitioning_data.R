@@ -10,11 +10,11 @@ library(arrow)
 data %>%
   dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), ~as.POSIXct(.x, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS"))) %>%
   dplyr::mutate(day_match = format(matchStart, tz = "America/Los_Angeles", usetz = TRUE) %>% as.Date()) %>%
-  group_by(season, day_match) %>%
+  group_by(season) %>%
   write_dataset(path = "inst/extdata/nba_matchs/")
-data_arrow <- open_dataset("inst/extdata/nba_matchs/", partitioning = c("season", "day_match"))
+data_arrow <- open_dataset("inst/extdata/nba_matchs/", partitioning = c("season"))
 data_c <- data_arrow %>%
-  head() %>%
+  #head() %>%
   collect()
 
 
@@ -51,3 +51,6 @@ df_match %>%
   #tidyr::drop_na() %>%
   group_by(season, day_match) %>%
   write_dataset(path = "inst/extdata/nba_matchs/")
+
+
+# read_parquet("https://raw.githubusercontent.com/Alexis-vs/winaRaque/apache_arrow/inst/extdata/nba_matchs/season%3D2022-2023/day_match%3D2023-03-20/part-0.parquet")
