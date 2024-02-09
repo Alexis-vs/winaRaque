@@ -29,7 +29,9 @@ df_match <- df_match %>%
          matchStart) %>%
   mutate_at("matchStart", ~as.POSIXct(as.numeric(.), origin = "1970-01-01", tz = "CET")) %>%
   arrange(matchStart) %>%
-  mutate(time_scrap = time_scrap)
+  mutate(time_scrap = time_scrap,
+         day_match = format(matchStart, tz = "America/Los_Angeles", usetz = TRUE) %>% as.Date(),
+         season = "2023-2024")
 
 # Time filter (matches 12h after job execution)
 df_match <- df_match %>%
@@ -62,7 +64,7 @@ if(nrow(df_match) > 0){
 
   open_dataset(sources = file.path(data_path, "nba_matchs/"), partitioning = c("season")) %>%
     collect() %>%
-    mutate_at(.vars = c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
+   # mutate_at(.vars = c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS") %>%
     rbind(df_match) %>%
     arrange(time_scrap %>% desc()) %>%
     distinct(matchId, mainBetId, .keep_all = TRUE) %>%
