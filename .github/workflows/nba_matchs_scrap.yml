@@ -2,7 +2,7 @@ on:
  schedule:
    - cron: '30 16 * * *'
  push:
-   branches: [main, master]
+   branches: [main, apache_arrow]
 
 name: Scrape NBA matchs
 
