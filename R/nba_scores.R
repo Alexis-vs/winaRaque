@@ -127,7 +127,7 @@ get_nba_scores <- function(game_date, pivot_results = FALSE, only_results = FALS
   # dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS")) %>%
   # dplyr::mutate(day_match = format(matchStart, tz = "America/Los_Angeles", usetz = TRUE) %>% as.Date())
 
-  df_match <- read_odds_parquet(branch = "apache_arrow") %>%
+  df_match <- read_odds_parquet() %>%
     #dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), as.POSIXct, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS")) %>%
     dplyr::mutate(dplyr::across(c("matchStart", "time_scrap"), ~as.POSIXct(.x, tz = "CET", tryFormats = "%Y-%m-%d %H:%M:%OS"))) %>%
     dplyr::mutate(day_match = format(matchStart, tz = "America/Los_Angeles", usetz = TRUE) %>% as.Date())
