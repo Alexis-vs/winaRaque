@@ -1,0 +1,760 @@
+"matchId";"mainBetId";"title";"Competitor1_Id";"Competitor1_Name";"Competitor1_Odd";"Competitor2_Id";"Competitor2_Name";"Competitor2_Odd";"matchStart";"time_scrap"
+"43065361";"255462518";"Denver Nuggets - Los Angeles Lakers";"3417";"Denver Nuggets";1,54;"3427";"Los Angeles Lakers";2,55;2023-10-25 01:45:00;2023-10-24 22:52:52
+"43065363";"255463230";"Golden State Warriors - Phoenix Suns";"3428";"Golden State Warriors";1,7;"3416";"Phoenix Suns";2,2;2023-10-25 04:15:00;2023-10-24 22:52:52
+"43065365";"255495117";"Charlotte Hornets - Atlanta Hawks";"3430";"Charlotte Hornets";2,45;"3423";"Atlanta Hawks";1,55;2023-10-26 01:15:00;2023-10-25 18:55:50
+"43065367";"255464594";"Indiana Pacers - Washington Wizards";"3419";"Indiana Pacers";1,46;"3431";"Washington Wizards";2,7;2023-10-26 01:15:00;2023-10-25 18:55:50
+"43065369";"255495880";"New York Knicks - Boston Celtics";"3421";"New York Knicks";2,35;"3422";"Boston Celtics";1,58;2023-10-26 01:15:00;2023-10-25 18:55:50
+"43065371";"255496093";"Orlando Magic - Houston Rockets";"3437";"Orlando Magic";1,56;"3412";"Houston Rockets";2,4;2023-10-26 01:15:00;2023-10-25 18:55:50
+"43065373";"255377920";"Brooklyn Nets - Cleveland Cavaliers";"3436";"Brooklyn Nets";2,05;"3432";"Cleveland Cavaliers";1,74;2023-10-26 01:45:00;2023-10-25 18:55:50
+"43065375";"255465098";"Miami Heat - Detroit Pistons";"3435";"Miami Heat";1,25;"3424";"Detroit Pistons";4,2;2023-10-26 01:45:00;2023-10-25 18:55:50
+"43065377";"255465358";"Toronto Raptors - Minnesota Timberwolves";"3433";"Toronto Raptors";1,9;"3426";"Minnesota Timberwolves";1,9;2023-10-26 01:45:00;2023-10-25 18:55:50
+"43065379";"255465717";"Chicago Bulls - Oklahoma City Thunder";"3409";"Chicago Bulls";1,72;"3418";"Oklahoma City Thunder";2,1;2023-10-26 02:15:00;2023-10-25 18:55:50
+"43065381";"260571201";"Memphis Grizzlies - New Orleans Pelicans";"3415";"Memphis Grizzlies";1,86;"5539";"New Orleans Pelicans";1,92;2023-10-26 02:15:00;2023-10-25 18:55:50
+"43065383";"255466591";"Utah Jazz - Sacramento Kings";"3434";"Utah Jazz";2;"3413";"Sacramento Kings";1,78;2023-10-26 03:15:00;2023-10-25 18:55:50
+"43065385";"255467034";"San Antonio Spurs - Dallas Mavericks";"3429";"San Antonio Spurs";2,35;"3411";"Dallas Mavericks";1,58;2023-10-26 03:45:00;2023-10-25 18:55:50
+"43065387";"270732984";"Los Angeles Clippers - Portland Trail Blazers";"3425";"Los Angeles Clippers";1,24;"3414";"Portland Trail Blazers";3,9;2023-10-26 04:45:00;2023-10-25 18:55:50
+"43065389";"255466843";"Milwaukee Bucks - Philadelphia 76ers";"3410";"Milwaukee Bucks";1,42;"3420";"Philadelphia 76ers";2,75;2023-10-27 01:30:00;2023-10-26 18:56:24
+"43065391";"255466442";"Los Angeles Lakers - Phoenix Suns";"3427";"Los Angeles Lakers";1,43;"3416";"Phoenix Suns";2,75;2023-10-27 04:00:00;2023-10-26 18:56:24
+"43065393";"272439065";"Charlotte Hornets - Detroit Pistons";"3430";"Charlotte Hornets";1,56;"3424";"Detroit Pistons";2,35;2023-10-28 01:15:00;2023-10-27 19:30:26
+"43065395";"272439037";"Memphis Grizzlies - Denver Nuggets";"3415";"Memphis Grizzlies";2,6;"3417";"Denver Nuggets";1,46;2023-10-28 01:15:00;2023-10-27 19:30:26
+"43065397";"272439122";"Atlanta Hawks - New York Knicks";"3423";"Atlanta Hawks";1,88;"3421";"New York Knicks";1,86;2023-10-28 01:45:00;2023-10-27 19:30:26
+"43065399";"272439094";"Boston Celtics - Miami Heat";"3422";"Boston Celtics";1,27;"3435";"Miami Heat";3,6;2023-10-28 01:45:00;2023-10-27 19:30:26
+"43065401";"272439162";"Cleveland Cavaliers - Oklahoma City Thunder";"3432";"Cleveland Cavaliers";1,58;"3418";"Oklahoma City Thunder";2,3;2023-10-28 01:45:00;2023-10-27 19:30:26
+"43065403";"272440058";"Chicago Bulls - Toronto Raptors";"3409";"Chicago Bulls";1,72;"3433";"Toronto Raptors";2,05;2023-10-28 02:15:00;2023-10-27 19:30:26
+"43065405";"272440086";"San Antonio Spurs - Houston Rockets";"3429";"San Antonio Spurs";1,64;"3412";"Houston Rockets";2,15;2023-10-28 02:15:00;2023-10-27 19:30:26
+"43065407";"272440205";"Dallas Mavericks - Brooklyn Nets";"3411";"Dallas Mavericks";1,4;"3436";"Brooklyn Nets";2,6;2023-10-28 02:45:00;2023-10-27 19:30:26
+"43065409";"272440888";"Utah Jazz - Los Angeles Clippers";"3434";"Utah Jazz";2,35;"3425";"Los Angeles Clippers";1,56;2023-10-28 03:45:00;2023-10-27 19:30:26
+"43065411";"272441394";"Portland Trail Blazers - Orlando Magic";"3414";"Portland Trail Blazers";2,05;"3437";"Orlando Magic";1,72;2023-10-28 04:15:00;2023-10-27 19:30:26
+"43065413";"271481938";"Sacramento Kings - Golden State Warriors";"3413";"Sacramento Kings";1,66;"3428";"Golden State Warriors";2,15;2023-10-28 04:15:00;2023-10-27 19:30:26
+"43065415";"272793783";"Detroit Pistons - Chicago Bulls";"3424";"Detroit Pistons";2,6;"3409";"Chicago Bulls";1,37;2023-10-29 01:15:00;2023-10-28 20:09:49
+"43065417";"272797301";"Washington Wizards - Memphis Grizzlies";"3431";"Washington Wizards";1,82;"3415";"Memphis Grizzlies";1,76;2023-10-29 01:15:00;2023-10-28 20:09:49
+"43065419";"272799953";"New Orleans Pelicans - New York Knicks";"5539";"New Orleans Pelicans";1,6;"3421";"New York Knicks";2,05;2023-10-29 01:15:00;2023-10-28 20:09:49
+"43065421";"272861480";"Cleveland Cavaliers - Indiana Pacers";"3432";"Cleveland Cavaliers";2;"3419";"Indiana Pacers";1,62;2023-10-29 01:45:00;2023-10-28 20:09:49
+"43065423";"272806342";"Toronto Raptors - Philadelphia 76ers";"3433";"Toronto Raptors";2,3;"3420";"Philadelphia 76ers";1,47;2023-10-29 01:45:00;2023-10-28 20:09:49
+"43065425";"272808835";"Minnesota Timberwolves - Miami Heat";"3426";"Minnesota Timberwolves";1,42;"3435";"Miami Heat";2,45;2023-10-29 02:15:00;2023-10-28 20:09:49
+"43065427";"272862438";"Phoenix Suns - Utah Jazz";"3416";"Phoenix Suns";1,4;"3434";"Utah Jazz";2,5;2023-10-29 03:15:00;2023-10-28 20:09:49
+"43065429";"273149345";"Oklahoma City Thunder - Denver Nuggets";"3418";"Oklahoma City Thunder";2,15;"3417";"Denver Nuggets";1,52;2023-10-29 20:30:00;2023-10-29 17:46:29
+"43065431";"273149902";"Houston Rockets - Golden State Warriors";"3412";"Houston Rockets";2,5;"3428";"Golden State Warriors";1,4;2023-10-30 00:00:00;2023-10-29 17:46:29
+"43065433";"273150108";"Milwaukee Bucks - Atlanta Hawks";"3410";"Milwaukee Bucks";1,36;"3423";"Atlanta Hawks";2,65;2023-10-30 00:00:00;2023-10-29 17:46:29
+"43065435";"273151507";"Philadelphia 76ers - Portland Trail Blazers";"3420";"Philadelphia 76ers";1,21;"3414";"Portland Trail Blazers";3,5;2023-10-30 00:30:00;2023-10-29 17:46:29
+"43065437";"273150666";"Los Angeles Clippers - San Antonio Spurs";"3425";"Los Angeles Clippers";1,2;"3429";"San Antonio Spurs";3,6;2023-10-30 02:00:00;2023-10-29 17:46:29
+"43065439";"273150638";"Sacramento Kings - Los Angeles Lakers";"3413";"Sacramento Kings";1,64;"3427";"Los Angeles Lakers";1,98;2023-10-30 02:00:00;2023-10-29 17:46:29
+"43065441";"273448879";"Charlotte Hornets - Brooklyn Nets";"3430";"Charlotte Hornets";1,92;"3436";"Brooklyn Nets";1,84;2023-10-31 00:15:00;2023-10-30 17:55:11
+"43065443";"273445273";"Indiana Pacers - Chicago Bulls";"3419";"Indiana Pacers";1,62;"3409";"Chicago Bulls";2,2;2023-10-31 00:15:00;2023-10-30 17:55:11
+"43065445";"273453868";"Washington Wizards - Boston Celtics";"3431";"Washington Wizards";4,6;"3422";"Boston Celtics";1,18;2023-10-31 00:15:00;2023-10-30 17:55:11
+"43065447";"273472523";"Atlanta Hawks - Minnesota Timberwolves";"3423";"Atlanta Hawks";2;"3426";"Minnesota Timberwolves";1,76;2023-10-31 00:45:00;2023-10-30 17:55:11
+"43065449";"273463067";"Toronto Raptors - Portland Trail Blazers";"3433";"Toronto Raptors";1,25;"3414";"Portland Trail Blazers";3,75;2023-10-31 00:45:00;2023-10-30 17:55:11
+"43065451";"273485460";"Oklahoma City Thunder - Detroit Pistons";"3418";"Oklahoma City Thunder";1,44;"3424";"Detroit Pistons";2,7;2023-10-31 01:15:00;2023-10-30 17:55:11
+"43065453";"273471581";"Memphis Grizzlies - Dallas Mavericks";"3415";"Memphis Grizzlies";2,05;"3411";"Dallas Mavericks";1,72;2023-10-31 01:15:00;2023-10-30 17:55:11
+"43065455";"273528884";"Milwaukee Bucks - Miami Heat";"3410";"Milwaukee Bucks";1,37;"3435";"Miami Heat";2,95;2023-10-31 01:15:00;2023-10-30 17:55:11
+"43065457";"273514706";"New Orleans Pelicans - Golden State Warriors";"5539";"New Orleans Pelicans";1,55;"3428";"Golden State Warriors";2,4;2023-10-31 01:15:00;2023-10-30 17:55:11
+"43065459";"273488670";"Denver Nuggets - Utah Jazz";"3417";"Denver Nuggets";1,25;"3434";"Utah Jazz";3,75;2023-10-31 02:15:00;2023-10-30 17:55:11
+"43065461";"273481930";"Los Angeles Lakers - Orlando Magic";"3427";"Los Angeles Lakers";1,74;"3437";"Orlando Magic";2,05;2023-10-31 03:45:00;2023-10-30 17:55:11
+"43065463";"273670612";"Cleveland Cavaliers - New York Knicks";"3432";"Cleveland Cavaliers";2,25;"3421";"New York Knicks";1,6;2023-11-01 00:45:00;2023-10-31 17:53:00
+"43065465";"273672585";"Phoenix Suns - San Antonio Spurs";"3416";"Phoenix Suns";1,37;"3429";"San Antonio Spurs";2,95;2023-11-01 03:15:00;2023-10-31 17:53:00
+"43065467";"273674019";"Los Angeles Clippers - Orlando Magic";"3425";"Los Angeles Clippers";1,37;"3437";"Orlando Magic";3;2023-11-01 03:45:00;2023-10-31 17:53:00
+"43065469";"273904528";"Detroit Pistons - Portland Trail Blazers";"3424";"Detroit Pistons";1,6;"3414";"Portland Trail Blazers";2,25;2023-11-02 00:15:00;2023-11-01 17:55:11
+"43065471";"273966171";"Toronto Raptors - Milwaukee Bucks";"3433";"Toronto Raptors";2,55;"3410";"Milwaukee Bucks";1,48;2023-11-02 00:15:00;2023-11-01 17:55:11
+"43065473";"273920294";"Atlanta Hawks - Washington Wizards";"3423";"Atlanta Hawks";1,25;"3431";"Washington Wizards";3,8;2023-11-02 00:45:00;2023-11-01 17:55:11
+"43065475";"273923642";"Boston Celtics - Indiana Pacers";"3422";"Boston Celtics";1,14;"3419";"Indiana Pacers";5,3;2023-11-02 00:45:00;2023-11-01 17:55:11
+"43065477";"273923670";"Miami Heat - Brooklyn Nets";"3435";"Miami Heat";1,44;"3436";"Brooklyn Nets";2,7;2023-11-02 00:45:00;2023-11-01 17:55:11
+"43065479";"274004166";"New York Knicks - Cleveland Cavaliers";"3421";"New York Knicks";1,36;"3432";"Cleveland Cavaliers";2,6;2023-11-02 00:45:00;2023-11-01 17:55:11
+"43065481";"273975331";"Oklahoma City Thunder - New Orleans Pelicans";"3418";"Oklahoma City Thunder";1,6;"5539";"New Orleans Pelicans";2,25;2023-11-02 00:45:00;2023-11-01 17:55:11
+"43065483";"273924590";"Houston Rockets - Charlotte Hornets";"3412";"Houston Rockets";1,7;"3430";"Charlotte Hornets";2,1;2023-11-02 01:15:00;2023-11-01 17:55:11
+"43065485";"273918110";"Minnesota Timberwolves - Denver Nuggets";"3426";"Minnesota Timberwolves";2,05;"3417";"Denver Nuggets";1,74;2023-11-02 01:15:00;2023-11-01 17:55:11
+"43065487";"273978493";"Dallas Mavericks - Chicago Bulls";"3411";"Dallas Mavericks";1,47;"3409";"Chicago Bulls";2,6;2023-11-02 01:45:00;2023-11-01 17:55:11
+"43065489";"273924562";"Utah Jazz - Memphis Grizzlies";"3434";"Utah Jazz";1,8;"3415";"Memphis Grizzlies";1,96;2023-11-02 02:15:00;2023-11-01 17:55:11
+"43065491";"273925210";"Golden State Warriors - Sacramento Kings";"3428";"Golden State Warriors";1,35;"3413";"Sacramento Kings";3,1;2023-11-02 03:15:00;2023-11-01 17:55:11
+"43065493";"273977441";"Los Angeles Lakers - Los Angeles Clippers";"3427";"Los Angeles Lakers";1,38;"3425";"Los Angeles Clippers";2,95;2023-11-02 03:15:00;2023-11-01 17:55:11
+"43065495";"274302743";"Philadelphia 76ers - Toronto Raptors";"3420";"Philadelphia 76ers";1,28;"3433";"Toronto Raptors";3,5;2023-11-03 00:15:00;2023-11-02 17:53:29
+"43065497";"274350366";"New Orleans Pelicans - Detroit Pistons";"5539";"New Orleans Pelicans";1,32;"3424";"Detroit Pistons";3,25;2023-11-03 01:15:00;2023-11-02 17:53:29
+"43065499";"274265181";"Utah Jazz - Orlando Magic";"3434";"Utah Jazz";1,92;"3437";"Orlando Magic";1,84;2023-11-03 02:15:00;2023-11-02 17:53:29
+"43065501";"274264874";"Phoenix Suns - San Antonio Spurs";"3416";"Phoenix Suns";1,24;"3429";"San Antonio Spurs";3,8;2023-11-03 03:15:00;2023-11-02 17:53:29
+"43029557";"255037103";"Indiana Pacers - Cleveland Cavaliers";"3419";"Indiana Pacers";2,2;"3432";"Cleveland Cavaliers";1,65;2023-11-04 00:15:00;2023-11-03 17:57:28
+"43029559";"255056063";"Milwaukee Bucks - New York Knicks";"3410";"Milwaukee Bucks";1,4;"3421";"New York Knicks";2,75;2023-11-04 00:45:00;2023-11-03 17:57:28
+"43029561";"255056422";"Miami Heat - Washington Wizards";"3435";"Miami Heat";1,21;"3431";"Washington Wizards";4,1;2023-11-04 01:15:00;2023-11-03 17:57:28
+"43029563";"255056494";"Chicago Bulls - Brooklyn Nets";"3409";"Chicago Bulls";1,6;"3436";"Brooklyn Nets";2,25;2023-11-04 01:15:00;2023-11-03 17:57:28
+"43029565";"255056643";"Oklahoma City Thunder - Golden State Warriors";"3418";"Oklahoma City Thunder";3;"3428";"Golden State Warriors";1,35;2023-11-04 01:15:00;2023-11-03 17:57:28
+"43029567";"255056772";"Denver Nuggets - Dallas Mavericks";"3417";"Denver Nuggets";1,33;"3411";"Dallas Mavericks";3,2;2023-11-04 03:15:00;2023-11-03 17:57:28
+"43029569";"255056928";"Portland Trail Blazers - Memphis Grizzlies";"3414";"Portland Trail Blazers";2,3;"3415";"Memphis Grizzlies";1,6;2023-11-04 03:15:00;2023-11-03 17:57:28
+"43065503";"274873201";"Philadelphia 76ers - Phoenix Suns";"3420";"Philadelphia 76ers";1,37;"3416";"Phoenix Suns";2,95;2023-11-04 18:15:00;2023-11-04 17:55:09
+"43065505";"274895163";"Indiana Pacers - Charlotte Hornets";"3419";"Indiana Pacers";1,5;"3430";"Charlotte Hornets";2,5;2023-11-05 00:15:00;2023-11-04 17:55:09
+"43065507";"274862978";"Orlando Magic - Los Angeles Lakers";"3437";"Orlando Magic";2,4;"3427";"Los Angeles Lakers";1,55;2023-11-05 00:15:00;2023-11-04 17:55:09
+"43065509";"274906815";"New Orleans Pelicans - Atlanta Hawks";"5539";"New Orleans Pelicans";1,74;"3423";"Atlanta Hawks";2;2023-11-05 00:15:00;2023-11-04 17:55:09
+"43065511";"274863183";"Brooklyn Nets - Boston Celtics";"3436";"Brooklyn Nets";4,2;"3422";"Boston Celtics";1,2;2023-11-05 01:15:00;2023-11-04 17:55:09
+"43065513";"274894989";"Houston Rockets - Sacramento Kings";"3412";"Houston Rockets";2,1;"3413";"Sacramento Kings";1,66;2023-11-05 01:15:00;2023-11-04 17:55:09
+"43065515";"274864057";"Minnesota Timberwolves - Utah Jazz";"3426";"Minnesota Timberwolves";1,32;"3434";"Utah Jazz";3,15;2023-11-05 01:15:00;2023-11-04 17:55:09
+"43065517";"274904843";"Denver Nuggets - Chicago Bulls";"3417";"Denver Nuggets";1,26;"3409";"Chicago Bulls";3,55;2023-11-05 02:15:00;2023-11-04 17:55:09
+"43065519";"275228114";"Detroit Pistons - Phoenix Suns";"3424";"Detroit Pistons";2,2;"3416";"Phoenix Suns";1,64;2023-11-05 21:15:00;2023-11-05 19:26:18
+"43065521";"275187352";"San Antonio Spurs - Toronto Raptors";"3429";"San Antonio Spurs";2,3;"3433";"Toronto Raptors";1,58;2023-11-05 21:45:00;2023-11-05 19:26:18
+"43065523";"275234171";"Cleveland Cavaliers - Golden State Warriors";"3432";"Cleveland Cavaliers";1,78;"3428";"Golden State Warriors";1,98;2023-11-06 00:15:00;2023-11-05 19:26:18
+"43065525";"275191888";"Dallas Mavericks - Charlotte Hornets";"3411";"Dallas Mavericks";1,15;"3430";"Charlotte Hornets";5,2;2023-11-06 01:45:00;2023-11-05 19:26:18
+"43065527";"275205929";"Portland Trail Blazers - Memphis Grizzlies";"3414";"Portland Trail Blazers";2,1;"3415";"Memphis Grizzlies";1,68;2023-11-06 03:15:00;2023-11-05 19:26:18
+"43065529";"275579821";"Detroit Pistons - Golden State Warriors";"3424";"Detroit Pistons";3,05;"3428";"Golden State Warriors";1,36;2023-11-07 01:15:00;2023-11-06 17:49:20
+"43065531";"275564301";"Indiana Pacers - San Antonio Spurs";"3419";"Indiana Pacers";1,27;"3429";"San Antonio Spurs";3,6;2023-11-07 01:15:00;2023-11-06 17:49:20
+"43065533";"275579793";"Orlando Magic - Dallas Mavericks";"3437";"Orlando Magic";1,76;"3411";"Dallas Mavericks";2;2023-11-07 01:15:00;2023-11-06 17:49:20
+"43065535";"275485112";"Philadelphia 76ers - Washington Wizards";"3420";"Philadelphia 76ers";1,18;"3431";"Washington Wizards";4,6;2023-11-07 01:15:00;2023-11-06 17:49:20
+"43065537";"275542756";"Brooklyn Nets - Milwaukee Bucks";"3436";"Brooklyn Nets";2,6;"3410";"Milwaukee Bucks";1,47;2023-11-07 01:45:00;2023-11-06 17:49:20
+"43065539";"275541871";"Miami Heat - Los Angeles Lakers";"3435";"Miami Heat";1,82;"3427";"Los Angeles Lakers";1,94;2023-11-07 01:45:00;2023-11-06 17:49:20
+"43065541";"275553340";"New York Knicks - Los Angeles Clippers";"3421";"New York Knicks";1,84;"3425";"Los Angeles Clippers";1,92;2023-11-07 01:45:00;2023-11-06 17:49:20
+"43065543";"275545259";"Chicago Bulls - Utah Jazz";"3409";"Chicago Bulls";1,54;"3434";"Utah Jazz";2,4;2023-11-07 02:15:00;2023-11-06 17:49:20
+"43065545";"275582502";"Houston Rockets - Sacramento Kings";"3412";"Houston Rockets";1,98;"3413";"Sacramento Kings";1,78;2023-11-07 02:15:00;2023-11-06 17:49:20
+"43065547";"275544661";"Minnesota Timberwolves - Boston Celtics";"3426";"Minnesota Timberwolves";2,3;"3422";"Boston Celtics";1,58;2023-11-07 02:15:00;2023-11-06 17:49:20
+"43065549";"NULL";"Oklahoma City Thunder - Atlanta Hawks";"3418";"Oklahoma City Thunder";NA;"3423";"Atlanta Hawks";NA;2023-11-07 02:15:00;2023-11-06 17:49:20
+"43065551";"275580734";"Denver Nuggets - New Orleans Pelicans";"3417";"Denver Nuggets";1,42;"5539";"New Orleans Pelicans";2,75;2023-11-07 03:15:00;2023-11-06 17:49:20
+"43065553";"275805145";"Charlotte Hornets - Washington Wizards";"3430";"Charlotte Hornets";1,72;"3431";"Washington Wizards";2,05;2023-11-09 01:15:00;2023-11-08 20:49:08
+"43065555";"275806404";"Indiana Pacers - Utah Jazz";"3419";"Indiana Pacers";1,43;"3434";"Utah Jazz";2,75;2023-11-09 01:15:00;2023-11-08 20:49:08
+"43065557";"275740967";"Philadelphia 76ers - Boston Celtics";"3420";"Philadelphia 76ers";2,15;"3422";"Boston Celtics";1,66;2023-11-09 01:15:00;2023-11-08 20:49:08
+"43065559";"275843433";"Brooklyn Nets - Los Angeles Clippers";"3436";"Brooklyn Nets";2,6;"3425";"Los Angeles Clippers";1,46;2023-11-09 01:45:00;2023-11-08 20:49:08
+"43065561";"275806376";"New York Knicks - San Antonio Spurs";"3421";"New York Knicks";1,2;"3429";"San Antonio Spurs";4,3;2023-11-09 01:45:00;2023-11-08 20:49:08
+"43065571";"275809084";"Minnesota Timberwolves - New Orleans Pelicans";"3426";"Minnesota Timberwolves";1,23;"5539";"New Orleans Pelicans";4;2023-11-09 02:00:00;2023-11-08 20:49:08
+"43065563";"275807276";"Chicago Bulls - Phoenix Suns";"3409";"Chicago Bulls";1,88;"3416";"Phoenix Suns";1,88;2023-11-09 02:15:00;2023-11-08 20:49:08
+"43065565";"275742107";"Houston Rockets - Los Angeles Lakers";"3412";"Houston Rockets";2,4;"3427";"Los Angeles Lakers";1,52;2023-11-09 02:15:00;2023-11-08 20:49:08
+"43065567";"275807877";"Memphis Grizzlies - Miami Heat";"3415";"Memphis Grizzlies";1,94;"3435";"Miami Heat";1,82;2023-11-09 02:15:00;2023-11-08 20:49:08
+"43065569";"275874225";"Milwaukee Bucks - Detroit Pistons";"3410";"Milwaukee Bucks";1,11;"3424";"Detroit Pistons";6;2023-11-09 02:15:00;2023-11-08 20:49:08
+"43065573";"275808435";"Oklahoma City Thunder - Cleveland Cavaliers";"3418";"Oklahoma City Thunder";2,05;"3432";"Cleveland Cavaliers";1,74;2023-11-09 02:15:00;2023-11-08 20:49:08
+"43065575";"275809596";"Dallas Mavericks - Toronto Raptors";"3411";"Dallas Mavericks";1,52;"3433";"Toronto Raptors";2,45;2023-11-09 02:45:00;2023-11-08 20:49:08
+"43065577";"275743464";"Denver Nuggets - Golden State Warriors";"3417";"Denver Nuggets";1,58;"3428";"Golden State Warriors";2,3;2023-11-09 04:15:00;2023-11-08 20:49:08
+"43065579";"275809546";"Sacramento Kings - Portland Trail Blazers";"3413";"Sacramento Kings";1,29;"3414";"Portland Trail Blazers";3,5;2023-11-09 04:15:00;2023-11-08 20:49:08
+"43065581";"276376797";"Indiana Pacers - Milwaukee Bucks";"3419";"Indiana Pacers";2,2;"3410";"Milwaukee Bucks";1,62;2023-11-10 01:15:00;2023-11-09 17:47:36
+"43065583";"276292900";"Orlando Magic - Atlanta Hawks";"3437";"Orlando Magic";2,2;"3423";"Atlanta Hawks";1,62;2023-11-10 03:45:00;2023-11-09 17:47:36
+"43029571";"255057863";"Detroit Pistons - Philadelphia 76ers";"3424";"Detroit Pistons";3,75;"3420";"Philadelphia 76ers";1,25;2023-11-11 01:15:00;2023-11-10 17:52:07
+"43029573";"255057989";"Washington Wizards - Charlotte Hornets";"3431";"Washington Wizards";1,66;"3430";"Charlotte Hornets";2,15;2023-11-11 01:15:00;2023-11-10 17:52:07
+"43029575";"255059380";"Boston Celtics - Brooklyn Nets";"3422";"Boston Celtics";1,14;"3436";"Brooklyn Nets";5,4;2023-11-11 01:45:00;2023-11-10 17:52:07
+"43029577";"255059565";"Houston Rockets - New Orleans Pelicans";"3412";"Houston Rockets";1,56;"5539";"New Orleans Pelicans";2,1;2023-11-11 02:15:00;2023-11-10 17:52:07
+"43029579";"255059678";"Memphis Grizzlies - Utah Jazz";"3415";"Memphis Grizzlies";1,5;"3434";"Utah Jazz";2,5;2023-11-11 02:15:00;2023-11-10 17:52:07
+"43029581";"255059769";"San Antonio Spurs - Minnesota Timberwolves";"3429";"San Antonio Spurs";2,7;"3426";"Minnesota Timberwolves";1,35;2023-11-11 02:15:00;2023-11-10 17:52:07
+"43029583";"255060045";"Dallas Mavericks - Los Angeles Clippers";"3411";"Dallas Mavericks";1,84;"3425";"Los Angeles Clippers";1,9;2023-11-11 02:45:00;2023-11-10 17:52:07
+"43029585";"255060613";"Phoenix Suns - Los Angeles Lakers";"3416";"Phoenix Suns";1,6;"3427";"Los Angeles Lakers";2,25;2023-11-11 04:15:00;2023-11-10 17:52:07
+"43029587";"255060715";"Sacramento Kings - Oklahoma City Thunder";"3413";"Sacramento Kings";1,98;"3418";"Oklahoma City Thunder";1,78;2023-11-11 04:15:00;2023-11-10 17:52:07
+"43065585";"276965711";"Orlando Magic - Milwaukee Bucks";"3437";"Orlando Magic";2,3;"3410";"Milwaukee Bucks";1,58;2023-11-12 00:15:00;2023-11-11 17:48:09
+"43065587";"276840497";"Boston Celtics - Toronto Raptors";"3422";"Boston Celtics";1,31;"3433";"Toronto Raptors";3,35;2023-11-12 01:15:00;2023-11-11 17:48:09
+"43065589";"276840810";"Atlanta Hawks - Miami Heat";"3423";"Atlanta Hawks";1,33;"3435";"Miami Heat";3,15;2023-11-12 01:45:00;2023-11-11 17:48:09
+"43065591";"276841459";"Golden State Warriors - Cleveland Cavaliers";"3428";"Golden State Warriors";1,56;"3432";"Cleveland Cavaliers";2,35;2023-11-12 02:45:00;2023-11-11 17:48:09
+"43065593";"277142782";"New York Knicks - Charlotte Hornets";"3421";"New York Knicks";1,2;"3430";"Charlotte Hornets";4,3;2023-11-12 18:15:00;2023-11-12 17:47:02
+"43065595";"277142835";"Brooklyn Nets - Washington Wizards";"3436";"Brooklyn Nets";1,36;"3431";"Washington Wizards";3;2023-11-12 21:15:00;2023-11-12 17:47:02
+"43065597";"277142880";"Los Angeles Clippers - Memphis Grizzlies";"3425";"Los Angeles Clippers";1,29;"3415";"Memphis Grizzlies";3,45;2023-11-12 21:45:00;2023-11-12 17:47:02
+"43065599";"277143664";"Philadelphia 76ers - Indiana Pacers";"3420";"Philadelphia 76ers";1,36;"3419";"Indiana Pacers";3,05;2023-11-13 00:15:00;2023-11-12 17:47:02
+"43065601";"277218242";"Chicago Bulls - Detroit Pistons";"3409";"Chicago Bulls";1,36;"3424";"Detroit Pistons";3;2023-11-13 01:15:00;2023-11-12 17:47:02
+"43065603";"277143692";"Houston Rockets - Denver Nuggets";"3412";"Houston Rockets";2,45;"3417";"Denver Nuggets";1,52;2023-11-13 01:15:00;2023-11-12 17:47:02
+"43065605";"277219897";"New Orleans Pelicans - Dallas Mavericks";"5539";"New Orleans Pelicans";2,25;"3411";"Dallas Mavericks";1,62;2023-11-13 01:15:00;2023-11-12 17:47:02
+"43065607";"277270378";"San Antonio Spurs - Miami Heat";"3429";"San Antonio Spurs";1,88;"3435";"Miami Heat";1,88;2023-11-13 01:15:00;2023-11-12 17:47:02
+"43065609";"277223157";"Phoenix Suns - Oklahoma City Thunder";"3416";"Phoenix Suns";1,64;"3418";"Oklahoma City Thunder";2,15;2023-11-13 02:15:00;2023-11-12 17:47:02
+"43065611";"277223414";"Golden State Warriors - Minnesota Timberwolves";"3428";"Golden State Warriors";1,76;"3426";"Minnesota Timberwolves";2;2023-11-13 02:45:00;2023-11-12 17:47:02
+"43065613";"277234797";"Los Angeles Lakers - Portland Trail Blazers";"3427";"Los Angeles Lakers";1,22;"3414";"Portland Trail Blazers";4,1;2023-11-13 04:15:00;2023-11-12 17:47:02
+"43065615";"277504739";"Boston Celtics - New York Knicks";"3422";"Boston Celtics";1,23;"3421";"New York Knicks";3,95;2023-11-14 01:45:00;2023-11-13 17:58:39
+"43065617";"277507921";"Toronto Raptors - Washington Wizards";"3433";"Toronto Raptors";1,2;"3431";"Washington Wizards";4,3;2023-11-14 01:45:00;2023-11-13 17:58:39
+"43065619";"277509012";"Milwaukee Bucks - Chicago Bulls";"3410";"Milwaukee Bucks";1,21;"3409";"Chicago Bulls";4,2;2023-11-14 02:15:00;2023-11-13 17:58:39
+"43065621";"277509085";"Sacramento Kings - Cleveland Cavaliers";"3413";"Sacramento Kings";2,15;"3432";"Cleveland Cavaliers";1,66;2023-11-14 04:15:00;2023-11-13 17:58:39
+"43029589";"255062003";"Charlotte Hornets - Miami Heat";"3430";"Charlotte Hornets";2,4;"3435";"Miami Heat";1,54;2023-11-15 01:15:00;2023-11-14 18:00:22
+"43029595";"255062554";"Philadelphia 76ers - Indiana Pacers";"3420";"Philadelphia 76ers";1,49;"3419";"Indiana Pacers";2,55;2023-11-15 01:15:00;2023-11-14 18:00:22
+"43029597";"255062772";"Brooklyn Nets - Orlando Magic";"3436";"Brooklyn Nets";1,65;"3437";"Orlando Magic";2,25;2023-11-15 01:45:00;2023-11-14 18:00:22
+"43029599";"255062932";"Oklahoma City Thunder - San Antonio Spurs";"3418";"Oklahoma City Thunder";1,2;"3429";"San Antonio Spurs";4,25;2023-11-15 01:45:00;2023-11-14 18:00:22
+"43029601";"255063131";"New Orleans Pelicans - Dallas Mavericks";"5539";"New Orleans Pelicans";2,3;"3411";"Dallas Mavericks";1,58;2023-11-15 02:15:00;2023-11-14 18:00:22
+"43029603";"255063397";"Utah Jazz - Portland Trail Blazers";"3434";"Utah Jazz";1,42;"3414";"Portland Trail Blazers";2,8;2023-11-15 03:15:00;2023-11-14 18:00:22
+"43029605";"255063518";"Denver Nuggets - Los Angeles Clippers";"3417";"Denver Nuggets";1,5;"3425";"Los Angeles Clippers";2,5;2023-11-15 04:15:00;2023-11-14 18:00:22
+"43029607";"255063645";"Golden State Warriors - Minnesota Timberwolves";"3428";"Golden State Warriors";1,74;"3426";"Minnesota Timberwolves";2;2023-11-15 04:15:00;2023-11-14 18:00:22
+"43029609";"255064104";"Los Angeles Lakers - Memphis Grizzlies";"3427";"Los Angeles Lakers";1,48;"3415";"Memphis Grizzlies";2,6;2023-11-15 04:45:00;2023-11-14 18:00:22
+"43065623";"277905618";"Washington Wizards - Dallas Mavericks";"3431";"Washington Wizards";2,85;"3411";"Dallas Mavericks";1,4;2023-11-16 01:15:00;2023-11-15 18:04:40
+"43065625";"277914976";"Atlanta Hawks - New York Knicks";"3423";"Atlanta Hawks";1,88;"3421";"New York Knicks";1,86;2023-11-16 01:45:00;2023-11-15 18:04:40
+"43065627";"277910272";"Philadelphia 76ers - Boston Celtics";"3420";"Philadelphia 76ers";2,35;"3422";"Boston Celtics";1,54;2023-11-16 01:45:00;2023-11-15 18:04:40
+"43065629";"277908260";"Toronto Raptors - Milwaukee Bucks";"3433";"Toronto Raptors";2,45;"3410";"Milwaukee Bucks";1,52;2023-11-16 01:45:00;2023-11-15 18:04:40
+"43065631";"277919403";"Chicago Bulls - Orlando Magic";"3409";"Chicago Bulls";1,82;"3437";"Orlando Magic";1,94;2023-11-16 02:15:00;2023-11-15 18:04:40
+"43065633";"277927858";"Phoenix Suns - Minnesota Timberwolves";"3416";"Phoenix Suns";1,41;"3426";"Minnesota Timberwolves";2,8;2023-11-16 03:15:00;2023-11-15 18:04:40
+"43065635";"277930208";"Los Angeles Lakers - Sacramento Kings";"3427";"Los Angeles Lakers";1,82;"3413";"Sacramento Kings";1,94;2023-11-16 04:15:00;2023-11-15 18:04:40
+"43065637";"277927807";"Portland Trail Blazers - Cleveland Cavaliers";"3414";"Portland Trail Blazers";4,6;"3432";"Cleveland Cavaliers";1,18;2023-11-16 04:15:00;2023-11-15 18:04:40
+"43065639";"278260209";"Miami Heat - Brooklyn Nets";"3435";"Miami Heat";1,6;"3436";"Brooklyn Nets";2,25;2023-11-17 01:45:00;2023-11-16 17:57:10
+"43065641";"278259263";"Golden State Warriors - Oklahoma City Thunder";"3428";"Golden State Warriors";2,1;"3418";"Oklahoma City Thunder";1,68;2023-11-17 04:15:00;2023-11-16 17:57:10
+"43029611";"255064899";"Charlotte Hornets - Milwaukee Bucks";"3430";"Charlotte Hornets";3,35;"3410";"Milwaukee Bucks";1,31;2023-11-18 01:15:00;2023-11-17 18:00:58
+"43029613";"255065000";"Washington Wizards - New York Knicks";"3431";"Washington Wizards";3,05;"3421";"New York Knicks";1,35;2023-11-18 01:15:00;2023-11-17 18:00:58
+"43029615";"255066132";"Atlanta Hawks - Philadelphia 76ers";"3423";"Atlanta Hawks";1,88;"3420";"Philadelphia 76ers";1,88;2023-11-18 01:45:00;2023-11-17 18:00:58
+"43029617";"255066326";"Cleveland Cavaliers - Detroit Pistons";"3432";"Cleveland Cavaliers";1,26;"3424";"Detroit Pistons";3,7;2023-11-18 01:45:00;2023-11-17 18:00:58
+"43029619";"255066527";"Toronto Raptors - Boston Celtics";"3433";"Toronto Raptors";3,4;"3422";"Boston Celtics";1,29;2023-11-18 01:45:00;2023-11-17 18:00:58
+"43029621";"255066435";"San Antonio Spurs - Sacramento Kings";"3429";"San Antonio Spurs";3,65;"3413";"Sacramento Kings";1,26;2023-11-18 01:45:00;2023-11-17 18:00:58
+"43029623";"255067876";"Chicago Bulls - Orlando Magic";"3409";"Chicago Bulls";1,74;"3437";"Orlando Magic";2;2023-11-18 02:15:00;2023-11-17 18:00:58
+"43029625";"255066790";"New Orleans Pelicans - Denver Nuggets";"5539";"New Orleans Pelicans";2,55;"3417";"Denver Nuggets";1,48;2023-11-18 02:15:00;2023-11-17 18:00:58
+"43029627";"255066998";"Utah Jazz - Phoenix Suns";"3434";"Utah Jazz";2,65;"3416";"Phoenix Suns";1,46;2023-11-18 04:15:00;2023-11-17 18:00:58
+"43029629";"255066848";"Portland Trail Blazers - Los Angeles Lakers";"3414";"Portland Trail Blazers";3,6;"3427";"Los Angeles Lakers";1,27;2023-11-18 04:15:00;2023-11-17 18:00:58
+"43029631";"255067057";"Los Angeles Clippers - Houston Rockets";"3425";"Los Angeles Clippers";1,34;"3412";"Houston Rockets";3,15;2023-11-18 04:45:00;2023-11-17 18:00:58
+"43065643";"278846687";"Charlotte Hornets - New York Knicks";"3430";"Charlotte Hornets";3,1;"3421";"New York Knicks";1,34;2023-11-19 00:15:00;2023-11-18 17:55:23
+"43065645";"278847029";"New Orleans Pelicans - Minnesota Timberwolves";"5539";"New Orleans Pelicans";2,95;"3426";"Minnesota Timberwolves";1,37;2023-11-19 01:15:00;2023-11-18 17:55:23
+"43065647";"278847699";"Chicago Bulls - Miami Heat";"3409";"Chicago Bulls";2,1;"3435";"Miami Heat";1,68;2023-11-19 02:15:00;2023-11-18 17:55:23
+"43065649";"278848378";"Milwaukee Bucks - Dallas Mavericks";"3410";"Milwaukee Bucks";1,74;"3411";"Dallas Mavericks";2;2023-11-19 02:15:00;2023-11-18 17:55:23
+"43065651";"278848663";"San Antonio Spurs - Memphis Grizzlies";"3429";"San Antonio Spurs";2,15;"3415";"Memphis Grizzlies";1,66;2023-11-19 02:15:00;2023-11-18 17:55:23
+"43065653";"278686662";"Golden State Warriors - Oklahoma City Thunder";"3428";"Golden State Warriors";1,9;"3418";"Oklahoma City Thunder";1,86;2023-11-19 02:45:00;2023-11-18 17:55:23
+"43065655";"279096714";"Brooklyn Nets - Philadelphia 76ers";"3436";"Brooklyn Nets";2,3;"3420";"Philadelphia 76ers";1,58;2023-11-19 21:15:00;2023-11-19 17:51:07
+"43065661";"279098413";"Toronto Raptors - Detroit Pistons";"3433";"Toronto Raptors";1,25;"3424";"Detroit Pistons";3,75;2023-11-19 22:00:00;2023-11-19 17:51:07
+"43065657";"279097974";"Indiana Pacers - Orlando Magic";"3419";"Indiana Pacers";1,54;"3437";"Orlando Magic";2,4;2023-11-19 23:15:00;2023-11-19 17:51:07
+"43065659";"279098726";"Cleveland Cavaliers - Denver Nuggets";"3432";"Cleveland Cavaliers";2,15;"3417";"Denver Nuggets";1,66;2023-11-20 00:15:00;2023-11-19 17:51:07
+"43065663";"279105159";"Dallas Mavericks - Sacramento Kings";"3411";"Dallas Mavericks";1,98;"3413";"Sacramento Kings";1,78;2023-11-20 01:45:00;2023-11-19 17:51:07
+"43065665";"279151396";"Memphis Grizzlies - Boston Celtics";"3415";"Memphis Grizzlies";4,3;"3422";"Boston Celtics";1,2;2023-11-20 02:15:00;2023-11-19 17:51:07
+"43065667";"279099753";"Utah Jazz - Phoenix Suns";"3434";"Utah Jazz";2,5;"3416";"Phoenix Suns";1,5;2023-11-20 02:15:00;2023-11-19 17:51:07
+"43065669";"279105187";"Portland Trail Blazers - Oklahoma City Thunder";"3414";"Portland Trail Blazers";2,95;"3418";"Oklahoma City Thunder";1,38;2023-11-20 03:15:00;2023-11-19 17:51:07
+"43065671";"279100744";"Los Angeles Lakers - Houston Rockets";"3427";"Los Angeles Lakers";1,44;"3412";"Houston Rockets";2,7;2023-11-20 03:45:00;2023-11-19 17:51:07
+"43065673";"279461761";"Charlotte Hornets - Boston Celtics";"3430";"Charlotte Hornets";3,95;"3422";"Boston Celtics";1,23;2023-11-21 01:15:00;2023-11-20 17:57:55
+"43065675";"279461197";"Detroit Pistons - Denver Nuggets";"3424";"Detroit Pistons";4;"3417";"Denver Nuggets";1,23;2023-11-21 01:15:00;2023-11-20 17:57:55
+"43065677";"279422867";"Washington Wizards - Milwaukee Bucks";"3431";"Washington Wizards";4,4;"3410";"Milwaukee Bucks";1,2;2023-11-21 01:15:00;2023-11-20 17:57:55
+"43065679";"279429024";"Chicago Bulls - Miami Heat";"3409";"Chicago Bulls";1,96;"3435";"Miami Heat";1,8;2023-11-21 02:15:00;2023-11-20 17:57:55
+"43065681";"279427343";"Minnesota Timberwolves - New York Knicks";"3426";"Minnesota Timberwolves";1,7;"3421";"New York Knicks";2,05;2023-11-21 02:15:00;2023-11-20 17:57:55
+"43065683";"279435174";"New Orleans Pelicans - Sacramento Kings";"5539";"New Orleans Pelicans";1,92;"3413";"Sacramento Kings";1,84;2023-11-21 02:15:00;2023-11-20 17:57:55
+"43065687";"279435403";"San Antonio Spurs - Los Angeles Clippers";"3429";"San Antonio Spurs";3,65;"3425";"Los Angeles Clippers";1,26;2023-11-21 02:15:00;2023-11-20 17:57:55
+"43065689";"279434705";"Golden State Warriors - Houston Rockets";"3428";"Golden State Warriors";1,38;"3412";"Houston Rockets";2,95;2023-11-21 04:15:00;2023-11-20 17:57:55
+"43029633";"255125333";"Orlando Magic - Toronto Raptors";"3437";"Orlando Magic";1,8;"3433";"Toronto Raptors";1,96;2023-11-22 01:15:00;2023-11-21 20:28:37
+"43029635";"255125446";"Atlanta Hawks - Indiana Pacers";"3423";"Atlanta Hawks";1,58;"3419";"Indiana Pacers";2,3;2023-11-22 01:45:00;2023-11-21 20:28:37
+"43029637";"255125559";"Philadelphia 76ers - Cleveland Cavaliers";"3420";"Philadelphia 76ers";1,27;"3432";"Cleveland Cavaliers";3,6;2023-11-22 01:45:00;2023-11-21 20:28:37
+"43029639";"255125605";"Phoenix Suns - Portland Trail Blazers";"3416";"Phoenix Suns";1,1;"3414";"Portland Trail Blazers";6,5;2023-11-22 03:15:00;2023-11-21 20:28:37
+"43029641";"255125745";"Los Angeles Lakers - Utah Jazz";"3427";"Los Angeles Lakers";1,33;"3434";"Utah Jazz";3,2;2023-11-22 04:15:00;2023-11-21 20:28:37
+"43065691";"279580455";"Charlotte Hornets - Washington Wizards";"3430";"Charlotte Hornets";1,58;"3431";"Washington Wizards";2,3;2023-11-23 01:15:00;2023-11-22 17:59:06
+"43065693";"279580582";"Orlando Magic - Denver Nuggets";"3437";"Orlando Magic";2,3;"3417";"Denver Nuggets";1,58;2023-11-23 01:15:00;2023-11-22 17:59:06
+"43065695";"279580987";"Atlanta Hawks - Brooklyn Nets";"3423";"Atlanta Hawks";1,6;"3436";"Brooklyn Nets";2,25;2023-11-23 01:45:00;2023-11-22 17:59:06
+"43065697";"279830932";"Boston Celtics - Milwaukee Bucks";"3422";"Boston Celtics";1,47;"3410";"Milwaukee Bucks";2,6;2023-11-23 01:45:00;2023-11-22 17:59:06
+"43065699";"279581680";"Cleveland Cavaliers - Miami Heat";"3432";"Cleveland Cavaliers";2,05;"3435";"Miami Heat";1,7;2023-11-23 01:45:00;2023-11-22 17:59:06
+"43065701";"279581893";"Indiana Pacers - Toronto Raptors";"3419";"Indiana Pacers";1,6;"3433";"Toronto Raptors";2,25;2023-11-23 01:45:00;2023-11-22 17:59:06
+"43065703";"279582071";"Houston Rockets - Memphis Grizzlies";"3412";"Houston Rockets";1,5;"3415";"Memphis Grizzlies";2,6;2023-11-23 02:15:00;2023-11-22 17:59:06
+"43065705";"279582166";"Minnesota Timberwolves - Philadelphia 76ers";"3426";"Minnesota Timberwolves";1,46;"3420";"Philadelphia 76ers";2,65;2023-11-23 02:15:00;2023-11-22 17:59:06
+"43065707";"279817446";"New Orleans Pelicans - Sacramento Kings";"5539";"New Orleans Pelicans";1,98;"3413";"Sacramento Kings";1,78;2023-11-23 02:15:00;2023-11-22 17:59:06
+"43065709";"279583218";"Oklahoma City Thunder - Chicago Bulls";"3418";"Oklahoma City Thunder";1,35;"3409";"Chicago Bulls";3,1;2023-11-23 02:15:00;2023-11-22 17:59:06
+"43065711";"279817635";"San Antonio Spurs - Los Angeles Clippers";"3429";"San Antonio Spurs";3,65;"3425";"Los Angeles Clippers";1,26;2023-11-23 02:15:00;2023-11-22 17:59:06
+"43065713";"279583750";"Phoenix Suns - Golden State Warriors";"3416";"Phoenix Suns";1,78;"3428";"Golden State Warriors";2;2023-11-23 04:15:00;2023-11-22 17:59:06
+"43065715";"279584480";"Portland Trail Blazers - Utah Jazz";"3414";"Portland Trail Blazers";2,2;"3434";"Utah Jazz";1,65;2023-11-23 04:15:00;2023-11-22 17:59:06
+"43065717";"279584642";"Los Angeles Lakers - Dallas Mavericks";"3427";"Los Angeles Lakers";2,15;"3411";"Dallas Mavericks";1,64;2023-11-23 04:45:00;2023-11-22 17:59:06
+"43029643";"255125798";"Orlando Magic - Boston Celtics";"3437";"Orlando Magic";2,8;"3422";"Boston Celtics";1,41;2023-11-24 20:45:00;2023-11-24 17:54:45
+"43029645";"255125894";"Memphis Grizzlies - Phoenix Suns";"3415";"Memphis Grizzlies";2,95;"3416";"Phoenix Suns";1,38;2023-11-24 23:15:00;2023-11-24 17:54:45
+"43029647";"255125931";"New York Knicks - Miami Heat";"3421";"New York Knicks";1,46;"3435";"Miami Heat";2,65;2023-11-25 01:45:00;2023-11-24 17:54:45
+"43029649";"255126033";"Toronto Raptors - Chicago Bulls";"3433";"Toronto Raptors";1,41;"3409";"Chicago Bulls";2,8;2023-11-25 01:45:00;2023-11-24 17:54:45
+"43029651";"255126297";"Indiana Pacers - Detroit Pistons";"3419";"Indiana Pacers";1,29;"3424";"Detroit Pistons";3,4;2023-11-25 02:15:00;2023-11-24 17:54:45
+"43029655";"255126076";"Houston Rockets - Denver Nuggets";"3412";"Houston Rockets";2,15;"3417";"Denver Nuggets";1,66;2023-11-25 02:15:00;2023-11-24 17:54:45
+"43029657";"255126365";"Milwaukee Bucks - Washington Wizards";"3410";"Milwaukee Bucks";1,08;"3431";"Washington Wizards";7;2023-11-25 02:15:00;2023-11-24 17:54:45
+"43029659";"255126431";"Minnesota Timberwolves - Sacramento Kings";"3426";"Minnesota Timberwolves";1,52;"3413";"Sacramento Kings";2,5;2023-11-25 02:15:00;2023-11-24 17:54:45
+"43029661";"280276406";"Golden State Warriors - San Antonio Spurs";"3428";"Golden State Warriors";1,19;"3429";"San Antonio Spurs";4,4;2023-11-25 04:15:00;2023-11-24 17:54:45
+"43029663";"255126506";"Los Angeles Clippers - New Orleans Pelicans";"3425";"Los Angeles Clippers";1,45;"5539";"New Orleans Pelicans";2,65;2023-11-25 04:45:00;2023-11-24 17:54:45
+"43065719";"280351868";"Oklahoma City Thunder - Philadelphia 76ers";"3418";"Oklahoma City Thunder";1,92;"3420";"Philadelphia 76ers";1,82;2023-11-25 23:00:00;2023-11-25 18:01:53
+"43065721";"280760430";"Brooklyn Nets - Miami Heat";"3436";"Brooklyn Nets";1,58;"3435";"Miami Heat";2,3;2023-11-26 00:00:00;2023-11-25 18:01:53
+"43065723";"280756544";"Washington Wizards - Atlanta Hawks";"3431";"Washington Wizards";3,35;"3423";"Atlanta Hawks";1,3;2023-11-26 01:00:00;2023-11-25 18:01:53
+"43065725";"280754401";"Cleveland Cavaliers - Los Angeles Lakers";"3432";"Cleveland Cavaliers";1,6;"3427";"Los Angeles Lakers";2,3;2023-11-26 01:30:00;2023-11-25 18:01:53
+"43065727";"280775479";"Utah Jazz - New Orleans Pelicans";"3434";"Utah Jazz";1,88;"5539";"New Orleans Pelicans";1,86;2023-11-26 03:30:00;2023-11-25 18:01:53
+"43065729";"280755141";"Los Angeles Clippers - Dallas Mavericks";"3425";"Los Angeles Clippers";2;"3411";"Dallas Mavericks";1,76;2023-11-26 04:30:00;2023-11-25 18:01:53
+"43065731";"281134860";"Milwaukee Bucks - Portland Trail Blazers";"3410";"Milwaukee Bucks";1,12;"3414";"Portland Trail Blazers";6,25;2023-11-26 21:45:00;2023-11-26 17:52:21
+"43065733";"281141349";"Boston Celtics - Atlanta Hawks";"3422";"Boston Celtics";1,29;"3423";"Atlanta Hawks";3,45;2023-11-27 00:15:00;2023-11-26 17:52:21
+"43065735";"281153043";"New York Knicks - Phoenix Suns";"3421";"New York Knicks";1,6;"3416";"Phoenix Suns";2,25;2023-11-27 00:15:00;2023-11-26 17:52:21
+"43065737";"281140692";"Orlando Magic - Charlotte Hornets";"3437";"Orlando Magic";1,33;"3430";"Charlotte Hornets";3,2;2023-11-27 00:15:00;2023-11-26 17:52:21
+"43065739";"281150056";"Memphis Grizzlies - Minnesota Timberwolves";"3415";"Memphis Grizzlies";2,95;"3426";"Minnesota Timberwolves";1,38;2023-11-27 00:15:00;2023-11-26 17:52:21
+"43065741";"281147238";"Brooklyn Nets - Chicago Bulls";"3436";"Brooklyn Nets";1,56;"3409";"Chicago Bulls";2,35;2023-11-27 01:45:00;2023-11-26 17:52:21
+"43065743";"281147210";"Cleveland Cavaliers - Toronto Raptors";"3432";"Cleveland Cavaliers";1,82;"3433";"Toronto Raptors";1,94;2023-11-27 01:45:00;2023-11-26 17:52:21
+"43065745";"281145260";"Denver Nuggets - San Antonio Spurs";"3417";"Denver Nuggets";1,13;"3429";"San Antonio Spurs";5,75;2023-11-27 02:15:00;2023-11-26 17:52:21
+"43065747";"281394520";"Detroit Pistons - Washington Wizards";"3424";"Detroit Pistons";1,7;"3431";"Washington Wizards";2,1;2023-11-28 01:15:00;2023-11-27 18:06:40
+"43065749";"281403144";"Indiana Pacers - Portland Trail Blazers";"3419";"Indiana Pacers";1,14;"3414";"Portland Trail Blazers";5,4;2023-11-28 01:15:00;2023-11-27 18:06:40
+"43065751";"281392541";"Philadelphia 76ers - Los Angeles Lakers";"3420";"Philadelphia 76ers";1,43;"3427";"Los Angeles Lakers";2,7;2023-11-28 01:15:00;2023-11-27 18:06:40
+"43065753";"281398047";"Utah Jazz - New Orleans Pelicans";"3434";"Utah Jazz";2,45;"5539";"New Orleans Pelicans";1,52;2023-11-28 03:15:00;2023-11-27 18:06:40
+"43065755";"281444544";"Los Angeles Clippers - Denver Nuggets";"3425";"Los Angeles Clippers";1,43;"3417";"Denver Nuggets";2,75;2023-11-28 04:45:00;2023-11-27 18:06:40
+"43029665";"255126589";"Boston Celtics - Chicago Bulls";"3422";"Boston Celtics";1,09;"3409";"Chicago Bulls";6,5;2023-11-29 01:45:00;2023-11-28 17:59:16
+"43029667";"255126618";"Brooklyn Nets - Toronto Raptors";"3436";"Brooklyn Nets";1,8;"3433";"Toronto Raptors";1,96;2023-11-29 01:45:00;2023-11-28 17:59:16
+"43029669";"255126674";"Cleveland Cavaliers - Atlanta Hawks";"3432";"Cleveland Cavaliers";1,52;"3423";"Atlanta Hawks";2,5;2023-11-29 01:45:00;2023-11-28 17:59:16
+"43029671";"255126781";"Miami Heat - Milwaukee Bucks";"3435";"Miami Heat";2,15;"3410";"Milwaukee Bucks";1,68;2023-11-29 01:45:00;2023-11-28 17:59:16
+"43029673";"255126863";"New York Knicks - Charlotte Hornets";"3421";"New York Knicks";1,16;"3430";"Charlotte Hornets";4,9;2023-11-29 01:45:00;2023-11-28 17:59:16
+"43029675";"255126995";"Minnesota Timberwolves - Oklahoma City Thunder";"3426";"Minnesota Timberwolves";1,64;"3418";"Oklahoma City Thunder";2,15;2023-11-29 02:15:00;2023-11-28 17:59:16
+"43029677";"255127092";"Dallas Mavericks - Houston Rockets";"3411";"Dallas Mavericks";1,58;"3412";"Houston Rockets";2,3;2023-11-29 02:45:00;2023-11-28 17:59:16
+"43029679";"255127200";"Sacramento Kings - Golden State Warriors";"3413";"Sacramento Kings";1,78;"3428";"Golden State Warriors";1,98;2023-11-29 04:15:00;2023-11-28 17:59:16
+"43065757";"281884528";"Detroit Pistons - Los Angeles Lakers";"3424";"Detroit Pistons";3,1;"3427";"Los Angeles Lakers";1,35;2023-11-30 01:15:00;2023-11-29 17:58:31
+"43065759";"281878751";"Orlando Magic - Washington Wizards";"3437";"Orlando Magic";1,22;"3431";"Washington Wizards";4,25;2023-11-30 01:15:00;2023-11-29 17:58:31
+"43065761";"281887731";"Toronto Raptors - Phoenix Suns";"3433";"Toronto Raptors";2,15;"3416";"Phoenix Suns";1,66;2023-11-30 01:45:00;2023-11-29 17:58:31
+"43065763";"281888743";"Memphis Grizzlies - Utah Jazz";"3415";"Memphis Grizzlies";1,55;"3434";"Utah Jazz";2,45;2023-11-30 02:15:00;2023-11-29 17:58:31
+"43065765";"281887922";"New Orleans Pelicans - Philadelphia 76ers";"5539";"New Orleans Pelicans";2,05;"3420";"Philadelphia 76ers";1,7;2023-11-30 02:15:00;2023-11-29 17:58:31
+"43065767";"281933928";"Denver Nuggets - Houston Rockets";"3417";"Denver Nuggets";1,35;"3412";"Houston Rockets";3,1;2023-11-30 03:15:00;2023-11-29 17:58:31
+"43065769";"281893725";"Sacramento Kings - Los Angeles Clippers";"3413";"Sacramento Kings";2;"3425";"Los Angeles Clippers";1,76;2023-11-30 04:15:00;2023-11-29 17:58:31
+"43065771";"282314291";"Cleveland Cavaliers - Portland Trail Blazers";"3432";"Cleveland Cavaliers";1,16;"3414";"Portland Trail Blazers";5;2023-12-01 01:15:00;2023-11-30 18:04:46
+"43065773";"282239748";"Brooklyn Nets - Charlotte Hornets";"3436";"Brooklyn Nets";1,29;"3430";"Charlotte Hornets";3,4;2023-12-01 01:45:00;2023-11-30 18:04:46
+"43065775";"282295356";"Miami Heat - Indiana Pacers";"3435";"Miami Heat";1,7;"3419";"Indiana Pacers";2,05;2023-12-01 01:45:00;2023-11-30 18:04:46
+"43065777";"282239270";"New York Knicks - Detroit Pistons";"3421";"New York Knicks";1,08;"3424";"Detroit Pistons";7;2023-12-01 01:45:00;2023-11-30 18:04:46
+"43065779";"282264375";"Chicago Bulls - Milwaukee Bucks";"3409";"Chicago Bulls";3,45;"3410";"Milwaukee Bucks";1,29;2023-12-01 02:15:00;2023-11-30 18:04:46
+"43065781";"282304145";"Minnesota Timberwolves - Utah Jazz";"3426";"Minnesota Timberwolves";1,17;"3434";"Utah Jazz";4,7;2023-12-01 02:15:00;2023-11-30 18:04:46
+"43065783";"282243547";"Oklahoma City Thunder - Los Angeles Lakers";"3418";"Oklahoma City Thunder";1,44;"3427";"Los Angeles Lakers";2,7;2023-12-01 02:15:00;2023-11-30 18:04:46
+"43065785";"282241368";"San Antonio Spurs - Atlanta Hawks";"3429";"San Antonio Spurs";3,15;"3423";"Atlanta Hawks";1,34;2023-12-01 02:15:00;2023-11-30 18:04:46
+"43065787";"282307051";"Golden State Warriors - Los Angeles Clippers";"3428";"Golden State Warriors";1,48;"3425";"Los Angeles Clippers";2,55;2023-12-01 04:15:00;2023-11-30 18:04:46
+"43065789";"282581727";"Orlando Magic - Washington Wizards";"3437";"Orlando Magic";1,16;"3431";"Washington Wizards";4,9;2023-12-02 01:15:00;2023-12-01 18:05:06
+"43065791";"282583130";"Boston Celtics - Philadelphia 76ers";"3422";"Boston Celtics";1,36;"3420";"Philadelphia 76ers";3;2023-12-02 01:45:00;2023-12-01 18:05:06
+"43065793";"282592312";"Toronto Raptors - New York Knicks";"3433";"Toronto Raptors";1,72;"3421";"New York Knicks";2,05;2023-12-02 01:45:00;2023-12-01 18:05:06
+"43065795";"282563890";"Dallas Mavericks - Memphis Grizzlies";"3411";"Dallas Mavericks";1,19;"3415";"Memphis Grizzlies";4,4;2023-12-02 01:45:00;2023-12-01 18:05:06
+"43065797";"282645717";"New Orleans Pelicans - San Antonio Spurs";"5539";"New Orleans Pelicans";1,12;"3429";"San Antonio Spurs";5,7;2023-12-02 02:15:00;2023-12-01 18:05:06
+"43065799";"282608136";"Phoenix Suns - Denver Nuggets";"3416";"Phoenix Suns";2,05;"3417";"Denver Nuggets";1,74;2023-12-02 04:15:00;2023-12-01 18:05:06
+"43065801";"282813636";"Los Angeles Clippers - Golden State Warriors";"3425";"Los Angeles Clippers";1,45;"3428";"Golden State Warriors";2,7;2023-12-02 22:15:00;2023-12-02 17:52:21
+"43065805";"282814367";"Brooklyn Nets - Orlando Magic";"3436";"Brooklyn Nets";1,7;"3437";"Orlando Magic";2,1;2023-12-03 01:15:00;2023-12-02 17:52:21
+"43065807";"282814201";"Detroit Pistons - Cleveland Cavaliers";"3424";"Detroit Pistons";4;"3432";"Cleveland Cavaliers";1,23;2023-12-03 01:15:00;2023-12-02 17:52:21
+"43065811";"282866066";"Chicago Bulls - New Orleans Pelicans";"3409";"Chicago Bulls";2,2;"5539";"New Orleans Pelicans";1,64;2023-12-03 02:15:00;2023-12-02 17:52:21
+"43065813";"282814336";"Milwaukee Bucks - Atlanta Hawks";"3410";"Milwaukee Bucks";1,38;"3423";"Atlanta Hawks";3;2023-12-03 02:15:00;2023-12-02 17:52:21
+"43065815";"282921346";"Dallas Mavericks - Oklahoma City Thunder";"3411";"Dallas Mavericks";2,3;"3418";"Oklahoma City Thunder";1,58;2023-12-03 03:15:00;2023-12-02 17:52:21
+"43065817";"282921316";"Phoenix Suns - Memphis Grizzlies";"3416";"Phoenix Suns";1,26;"3415";"Memphis Grizzlies";3,7;2023-12-03 03:15:00;2023-12-02 17:52:21
+"43065819";"282914774";"Utah Jazz - Portland Trail Blazers";"3434";"Utah Jazz";1,76;"3414";"Portland Trail Blazers";2;2023-12-03 03:45:00;2023-12-02 17:52:21
+"43065821";"282943543";"Sacramento Kings - Denver Nuggets";"3413";"Sacramento Kings";4,5;"3417";"Denver Nuggets";1,11;2023-12-03 04:15:00;2023-12-02 17:52:21
+"43065823";"282863255";"Los Angeles Lakers - Houston Rockets";"3427";"Los Angeles Lakers";1,49;"3412";"Houston Rockets";2,55;2023-12-03 04:45:00;2023-12-02 17:52:21
+"45785006";"282013404";"Indiana Pacers - Boston Celtics";"3419";"Indiana Pacers";2,75;"3422";"Boston Celtics";1,42;2023-12-05 01:45:00;2023-12-04 17:59:11
+"45785094";"282014847";"Sacramento Kings - New Orleans Pelicans";"3413";"Sacramento Kings";1,58;"5539";"New Orleans Pelicans";2,3;2023-12-05 04:15:00;2023-12-04 17:59:11
+"45785090";"282015605";"Milwaukee Bucks - New York Knicks";"3410";"Milwaukee Bucks";1,45;"3421";"New York Knicks";2,65;2023-12-06 01:45:00;2023-12-06 01:05:40
+"45785092";"282016116";"Los Angeles Lakers - Phoenix Suns";"3427";"Los Angeles Lakers";1,8;"3416";"Phoenix Suns";1,96;2023-12-06 04:15:00;2023-12-06 01:05:40
+"45785599";"283657456";"Detroit Pistons - Memphis Grizzlies";"3424";"Detroit Pistons";2,05;"3415";"Memphis Grizzlies";1,72;2023-12-07 01:15:00;2023-12-06 18:00:47
+"45785603";"283658793";"Washington Wizards - Philadelphia 76ers";"3431";"Washington Wizards";4,3;"3420";"Philadelphia 76ers";1,2;2023-12-07 01:15:00;2023-12-06 18:00:47
+"45785605";"283656259";"Cleveland Cavaliers - Orlando Magic";"3432";"Cleveland Cavaliers";1,52;"3437";"Orlando Magic";2,45;2023-12-07 01:15:00;2023-12-06 18:00:47
+"45785601";"283664622";"Toronto Raptors - Miami Heat";"3433";"Toronto Raptors";1,62;"3435";"Miami Heat";2,25;2023-12-07 01:45:00;2023-12-06 18:00:47
+"45785607";"283661817";"Atlanta Hawks - Brooklyn Nets";"3423";"Atlanta Hawks";1,6;"3436";"Brooklyn Nets";2,3;2023-12-07 01:45:00;2023-12-06 18:00:47
+"45785609";"283662566";"Minnesota Timberwolves - San Antonio Spurs";"3426";"Minnesota Timberwolves";1,11;"3429";"San Antonio Spurs";6;2023-12-07 01:45:00;2023-12-06 18:00:47
+"45785611";"283666640";"Chicago Bulls - Charlotte Hornets";"3409";"Chicago Bulls";1,5;"3430";"Charlotte Hornets";2,45;2023-12-07 02:15:00;2023-12-06 18:00:47
+"45785613";"283668605";"Houston Rockets - Oklahoma City Thunder";"3412";"Houston Rockets";2,15;"3418";"Oklahoma City Thunder";1,66;2023-12-07 02:15:00;2023-12-06 18:00:47
+"45785615";"283671809";"Dallas Mavericks - Utah Jazz";"3411";"Dallas Mavericks";1,15;"3434";"Utah Jazz";4,75;2023-12-07 02:45:00;2023-12-06 18:00:47
+"45785617";"283673077";"Golden State Warriors - Portland Trail Blazers";"3428";"Golden State Warriors";1,12;"3414";"Portland Trail Blazers";6;2023-12-07 04:15:00;2023-12-06 18:00:47
+"45785619";"283674237";"Los Angeles Clippers - Denver Nuggets";"3425";"Los Angeles Clippers";1,86;"3417";"Denver Nuggets";1,9;2023-12-07 04:15:00;2023-12-06 18:00:47
+"45974097";"283889467";"Milwaukee Bucks - Indiana Pacers";"3410";"Milwaukee Bucks";1,45;"3419";"Indiana Pacers";2,7;2023-12-07 23:15:00;2023-12-07 17:57:27
+"45979419";"283904780";"Los Angeles Lakers - New Orleans Pelicans";"3427";"Los Angeles Lakers";1,72;"5539";"New Orleans Pelicans";2,05;2023-12-08 03:15:00;2023-12-07 17:57:27
+"45785621";"284320900";"Charlotte Hornets - Toronto Raptors";"3430";"Charlotte Hornets";2,75;"3433";"Toronto Raptors";1,45;2023-12-09 01:15:00;2023-12-08 18:01:25
+"45785623";"284324673";"Philadelphia 76ers - Atlanta Hawks";"3420";"Philadelphia 76ers";1,27;"3423";"Atlanta Hawks";3,6;2023-12-09 01:15:00;2023-12-08 18:01:25
+"45785625";"284327172";"Orlando Magic - Detroit Pistons";"3437";"Orlando Magic";1,15;"3424";"Detroit Pistons";5;2023-12-09 01:15:00;2023-12-08 18:01:25
+"45785627";"284329429";"Brooklyn Nets - Washington Wizards";"3436";"Brooklyn Nets";1,2;"3431";"Washington Wizards";4,25;2023-12-09 01:45:00;2023-12-08 18:01:25
+"45974089";"284329957";"Boston Celtics - New York Knicks";"3422";"Boston Celtics";1,33;"3421";"New York Knicks";3,25;2023-12-09 01:45:00;2023-12-08 18:01:25
+"45785629";"284334967";"Miami Heat - Cleveland Cavaliers";"3435";"Miami Heat";1,92;"3432";"Cleveland Cavaliers";1,84;2023-12-09 02:15:00;2023-12-08 18:01:25
+"45785631";"284337942";"Memphis Grizzlies - Minnesota Timberwolves";"3415";"Memphis Grizzlies";2,8;"3426";"Minnesota Timberwolves";1,42;2023-12-09 02:15:00;2023-12-08 18:01:25
+"45785633";"284338619";"Oklahoma City Thunder - Golden State Warriors";"3418";"Oklahoma City Thunder";1,62;"3428";"Golden State Warriors";2,2;2023-12-09 02:15:00;2023-12-08 18:01:25
+"45785635";"284337886";"San Antonio Spurs - Chicago Bulls";"3429";"San Antonio Spurs";2,1;"3409";"Chicago Bulls";1,7;2023-12-09 02:45:00;2023-12-08 18:01:25
+"45785637";"284337914";"Denver Nuggets - Houston Rockets";"3417";"Denver Nuggets";1,23;"3412";"Houston Rockets";3,95;2023-12-09 03:15:00;2023-12-08 18:01:25
+"45979557";"284348252";"Phoenix Suns - Sacramento Kings";"3416";"Phoenix Suns";2,05;"3413";"Sacramento Kings";1,74;2023-12-09 03:15:00;2023-12-08 18:01:25
+"45785639";"284349622";"Utah Jazz - Los Angeles Clippers";"3434";"Utah Jazz";3,3;"3425";"Los Angeles Clippers";1,31;2023-12-09 04:15:00;2023-12-08 18:01:25
+"45785641";"284349900";"Portland Trail Blazers - Dallas Mavericks";"3414";"Portland Trail Blazers";3,6;"3411";"Dallas Mavericks";1,27;2023-12-09 04:15:00;2023-12-08 18:01:25
+"43065825";"284965002";"Charlotte Hornets - Miami Heat";"3430";"Charlotte Hornets";2,3;"3435";"Miami Heat";1,58;2023-12-12 01:15:00;2023-12-11 18:00:47
+"43065827";"284894469";"Detroit Pistons - Indiana Pacers";"3424";"Detroit Pistons";3,1;"3419";"Indiana Pacers";1,35;2023-12-12 01:15:00;2023-12-11 18:00:47
+"43065829";"284895504";"Orlando Magic - Cleveland Cavaliers";"3437";"Orlando Magic";1,76;"3432";"Cleveland Cavaliers";2;2023-12-12 01:15:00;2023-12-11 18:00:47
+"43065831";"284866385";"Philadelphia 76ers - Washington Wizards";"3420";"Philadelphia 76ers";1,12;"3431";"Washington Wizards";5,5;2023-12-12 01:15:00;2023-12-11 18:00:47
+"43065833";"284901178";"Atlanta Hawks - Denver Nuggets";"3423";"Atlanta Hawks";2,15;"3417";"Denver Nuggets";1,66;2023-12-12 01:45:00;2023-12-11 18:00:47
+"43065835";"284901676";"New York Knicks - Toronto Raptors";"3421";"New York Knicks";1,52;"3433";"Toronto Raptors";2,45;2023-12-12 01:45:00;2023-12-11 18:00:47
+"43065837";"284901920";"Houston Rockets - San Antonio Spurs";"3412";"Houston Rockets";1,26;"3429";"San Antonio Spurs";3,65;2023-12-12 02:15:00;2023-12-11 18:00:47
+"43065839";"284973018";"Memphis Grizzlies - Dallas Mavericks";"3415";"Memphis Grizzlies";2;"3411";"Dallas Mavericks";1,76;2023-12-12 02:15:00;2023-12-11 18:00:47
+"43065841";"284907885";"Milwaukee Bucks - Chicago Bulls";"3410";"Milwaukee Bucks";1,15;"3409";"Chicago Bulls";5,1;2023-12-12 02:15:00;2023-12-11 18:00:47
+"43065843";"284940323";"New Orleans Pelicans - Minnesota Timberwolves";"5539";"New Orleans Pelicans";1,6;"3426";"Minnesota Timberwolves";2,25;2023-12-12 02:15:00;2023-12-11 18:00:47
+"43065845";"284907850";"Oklahoma City Thunder - Utah Jazz";"3418";"Oklahoma City Thunder";1,12;"3434";"Utah Jazz";6;2023-12-12 02:15:00;2023-12-11 18:00:47
+"43065847";"284910254";"Sacramento Kings - Brooklyn Nets";"3413";"Sacramento Kings";1,52;"3436";"Brooklyn Nets";2,45;2023-12-12 04:15:00;2023-12-11 18:00:47
+"43065849";"284963867";"Los Angeles Clippers - Portland Trail Blazers";"3425";"Los Angeles Clippers";1,09;"3414";"Portland Trail Blazers";6,75;2023-12-12 04:45:00;2023-12-11 18:00:47
+"43065851";"285329504";"Boston Celtics - Cleveland Cavaliers";"3422";"Boston Celtics";1,17;"3432";"Cleveland Cavaliers";4,75;2023-12-13 01:45:00;2023-12-12 18:05:18
+"43065853";"285323769";"Dallas Mavericks - Los Angeles Lakers";"3411";"Dallas Mavericks";2;"3427";"Los Angeles Lakers";1,74;2023-12-13 01:45:00;2023-12-12 18:05:18
+"43065855";"285330620";"Chicago Bulls - Denver Nuggets";"3409";"Chicago Bulls";3,4;"3417";"Denver Nuggets";1,3;2023-12-13 02:15:00;2023-12-12 18:05:18
+"43065857";"285331356";"Phoenix Suns - Golden State Warriors";"3416";"Phoenix Suns";1,6;"3428";"Golden State Warriors";2,25;2023-12-13 04:15:00;2023-12-12 18:05:18
+"43065859";"285325672";"Los Angeles Clippers - Sacramento Kings";"3425";"Los Angeles Clippers";1,64;"3413";"Sacramento Kings";2,2;2023-12-13 04:45:00;2023-12-12 18:05:18
+"43065861";"285515135";"Detroit Pistons - Philadelphia 76ers";"3424";"Detroit Pistons";6;"3420";"Philadelphia 76ers";1,12;2023-12-14 01:15:00;2023-12-14 00:41:15
+"43065863";"285515169";"Washington Wizards - New Orleans Pelicans";"3431";"Washington Wizards";2,95;"5539";"New Orleans Pelicans";1,37;2023-12-14 01:15:00;2023-12-14 00:41:15
+"43065865";"285516003";"Miami Heat - Charlotte Hornets";"3435";"Miami Heat";1,28;"3430";"Charlotte Hornets";3,5;2023-12-14 01:45:00;2023-12-14 00:41:15
+"43065867";"285516638";"Toronto Raptors - Atlanta Hawks";"3433";"Toronto Raptors";1,7;"3423";"Atlanta Hawks";2,1;2023-12-14 01:45:00;2023-12-14 00:41:15
+"43065871";"285517198";"Milwaukee Bucks - Indiana Pacers";"3410";"Milwaukee Bucks";1,38;"3419";"Indiana Pacers";2,95;2023-12-14 02:15:00;2023-12-14 00:41:15
+"43065873";"285550578";"San Antonio Spurs - Los Angeles Lakers";"3429";"San Antonio Spurs";2,25;"3427";"Los Angeles Lakers";1,6;2023-12-14 02:15:00;2023-12-14 00:41:15
+"43065875";"285587560";"Phoenix Suns - Brooklyn Nets";"3416";"Phoenix Suns";1,48;"3436";"Brooklyn Nets";2,6;2023-12-14 03:15:00;2023-12-14 00:41:15
+"43065877";"285520417";"Utah Jazz - New York Knicks";"3434";"Utah Jazz";2,8;"3421";"New York Knicks";1,42;2023-12-14 03:15:00;2023-12-14 00:41:15
+"43065879";"285790469";"Boston Celtics - Cleveland Cavaliers";"3422";"Boston Celtics";1,22;"3432";"Cleveland Cavaliers";4,25;2023-12-15 01:45:00;2023-12-14 17:55:16
+"43065881";"285790441";"Miami Heat - Chicago Bulls";"3435";"Miami Heat";1,5;"3409";"Chicago Bulls";2,5;2023-12-15 01:45:00;2023-12-14 17:55:16
+"43065883";"285813797";"Dallas Mavericks - Minnesota Timberwolves";"3411";"Dallas Mavericks";1,78;"3426";"Minnesota Timberwolves";1,98;2023-12-15 02:45:00;2023-12-14 17:55:16
+"43065885";"285792783";"Denver Nuggets - Brooklyn Nets";"3417";"Denver Nuggets";1,22;"3436";"Brooklyn Nets";4;2023-12-15 03:15:00;2023-12-14 17:55:16
+"43065887";"285793052";"Portland Trail Blazers - Utah Jazz";"3414";"Portland Trail Blazers";1,58;"3434";"Utah Jazz";2,3;2023-12-15 04:15:00;2023-12-14 17:55:16
+"43065889";"285792754";"Sacramento Kings - Oklahoma City Thunder";"3413";"Sacramento Kings";1,76;"3418";"Oklahoma City Thunder";2;2023-12-15 04:15:00;2023-12-14 17:55:16
+"43065891";"285822168";"Los Angeles Clippers - Golden State Warriors";"3425";"Los Angeles Clippers";1,42;"3428";"Golden State Warriors";2,75;2023-12-15 04:45:00;2023-12-14 17:55:16
+"43065893";"286029933";"Charlotte Hornets - New Orleans Pelicans";"3430";"Charlotte Hornets";3,2;"5539";"New Orleans Pelicans";1,33;2023-12-16 01:15:00;2023-12-15 17:57:29
+"43065895";"286025089";"Philadelphia 76ers - Detroit Pistons";"3420";"Philadelphia 76ers";1,06;"3424";"Detroit Pistons";8;2023-12-16 01:15:00;2023-12-15 17:57:29
+"43065897";"286026353";"Washington Wizards - Indiana Pacers";"3431";"Washington Wizards";3,55;"3419";"Indiana Pacers";1,28;2023-12-16 01:15:00;2023-12-15 17:57:29
+"43065899";"286031455";"Boston Celtics - Orlando Magic";"3422";"Boston Celtics";1,4;"3437";"Orlando Magic";2,85;2023-12-16 01:45:00;2023-12-15 17:57:29
+"43065901";"286026989";"Toronto Raptors - Atlanta Hawks";"3433";"Toronto Raptors";1,74;"3423";"Atlanta Hawks";2;2023-12-16 01:45:00;2023-12-15 17:57:29
+"43065903";"286044996";"San Antonio Spurs - Los Angeles Lakers";"3429";"San Antonio Spurs";3,35;"3427";"Los Angeles Lakers";1,31;2023-12-16 01:45:00;2023-12-15 17:57:29
+"43065905";"286033743";"Memphis Grizzlies - Houston Rockets";"3415";"Memphis Grizzlies";2,3;"3412";"Houston Rockets";1,58;2023-12-16 02:15:00;2023-12-15 17:57:29
+"43065907";"286027062";"Phoenix Suns - New York Knicks";"3416";"Phoenix Suns";1,47;"3421";"New York Knicks";2,6;2023-12-16 04:15:00;2023-12-15 17:57:29
+"43065909";"286282182";"Milwaukee Bucks - Detroit Pistons";"3410";"Milwaukee Bucks";1,04;"3424";"Detroit Pistons";10,5;2023-12-17 00:15:00;2023-12-16 17:54:34
+"43065911";"286288075";"Charlotte Hornets - Philadelphia 76ers";"3430";"Charlotte Hornets";4,5;"3420";"Philadelphia 76ers";1,2;2023-12-17 01:15:00;2023-12-16 17:54:34
+"43065913";"286283220";"Cleveland Cavaliers - Atlanta Hawks";"3432";"Cleveland Cavaliers";1,7;"3423";"Atlanta Hawks";2,1;2023-12-17 01:45:00;2023-12-16 17:54:34
+"43065915";"286242180";"Miami Heat - Chicago Bulls";"3435";"Miami Heat";1,48;"3409";"Chicago Bulls";2,6;2023-12-17 02:15:00;2023-12-16 17:54:34
+"43065917";"286260685";"Minnesota Timberwolves - Indiana Pacers";"3426";"Minnesota Timberwolves";1,27;"3419";"Indiana Pacers";3,75;2023-12-17 02:15:00;2023-12-16 17:54:34
+"43065919";"286242245";"Golden State Warriors - Brooklyn Nets";"3428";"Golden State Warriors";1,62;"3436";"Brooklyn Nets";2,25;2023-12-17 02:45:00;2023-12-16 17:54:34
+"43065921";"286242356";"Denver Nuggets - Oklahoma City Thunder";"3417";"Denver Nuggets";1,49;"3418";"Oklahoma City Thunder";2,6;2023-12-17 03:15:00;2023-12-16 17:54:34
+"43065923";"286242633";"Portland Trail Blazers - Dallas Mavericks";"3414";"Portland Trail Blazers";2,75;"3411";"Dallas Mavericks";1,44;2023-12-17 03:15:00;2023-12-16 17:54:34
+"43065925";"286243622";"Sacramento Kings - Utah Jazz";"3413";"Sacramento Kings";1,23;"3434";"Utah Jazz";4,1;2023-12-17 04:15:00;2023-12-16 17:54:34
+"43065927";"286306170";"Los Angeles Clippers - New York Knicks";"3425";"Los Angeles Clippers";1,42;"3421";"New York Knicks";2,85;2023-12-17 04:45:00;2023-12-16 17:54:34
+"43065929";"286582791";"Boston Celtics - Orlando Magic";"3422";"Boston Celtics";1,24;"3437";"Orlando Magic";4;2023-12-17 21:15:00;2023-12-17 17:54:17
+"43065931";"286582819";"San Antonio Spurs - New Orleans Pelicans";"3429";"San Antonio Spurs";3,4;"5539";"New Orleans Pelicans";1,32;2023-12-17 21:45:00;2023-12-17 17:54:17
+"43065933";"286625173";"Milwaukee Bucks - Houston Rockets";"3410";"Milwaukee Bucks";1,35;"3412";"Houston Rockets";3,2;2023-12-18 01:15:00;2023-12-17 17:54:17
+"43065935";"286610326";"Phoenix Suns - Washington Wizards";"3416";"Phoenix Suns";1,12;"3431";"Washington Wizards";6,25;2023-12-18 02:15:00;2023-12-17 17:54:17
+"43065937";"286592435";"Portland Trail Blazers - Golden State Warriors";"3414";"Portland Trail Blazers";2,7;"3428";"Golden State Warriors";1,45;2023-12-18 03:15:00;2023-12-17 17:54:17
+"43065961";"286987954";"New Orleans Pelicans - Memphis Grizzlies";"5539";"New Orleans Pelicans";1,27;"3415";"Memphis Grizzlies";3,75;2023-12-20 01:45:00;2023-12-19 17:59:46
+"43065963";"286985129";"Milwaukee Bucks - San Antonio Spurs";"3410";"Milwaukee Bucks";1,05;"3429";"San Antonio Spurs";9,5;2023-12-20 02:15:00;2023-12-19 17:59:46
+"43065965";"286985167";"Golden State Warriors - Boston Celtics";"3428";"Golden State Warriors";2,7;"3422";"Boston Celtics";1,46;2023-12-20 04:15:00;2023-12-19 17:59:46
+"43065967";"286985101";"Portland Trail Blazers - Phoenix Suns";"3414";"Portland Trail Blazers";3,3;"3416";"Phoenix Suns";1,33;2023-12-20 04:15:00;2023-12-19 17:59:46
+"43065969";"287213981";"Cleveland Cavaliers - Utah Jazz";"3432";"Cleveland Cavaliers";1,5;"3434";"Utah Jazz";2,55;2023-12-21 01:15:00;2023-12-20 17:57:36
+"43065971";"287213002";"Indiana Pacers - Charlotte Hornets";"3419";"Indiana Pacers";1,19;"3430";"Charlotte Hornets";4,6;2023-12-21 01:15:00;2023-12-20 17:57:36
+"43065973";"287212119";"Orlando Magic - Miami Heat";"3437";"Orlando Magic";1,49;"3435";"Miami Heat";2,6;2023-12-21 01:15:00;2023-12-20 17:57:36
+"43065975";"287204740";"Philadelphia 76ers - Minnesota Timberwolves";"3420";"Philadelphia 76ers";1,62;"3426";"Minnesota Timberwolves";2,25;2023-12-21 01:15:00;2023-12-20 17:57:36
+"43065977";"287214009";"Brooklyn Nets - New York Knicks";"3436";"Brooklyn Nets";1,96;"3421";"New York Knicks";1,82;2023-12-21 01:45:00;2023-12-20 17:57:36
+"43065979";"287204711";"Toronto Raptors - Denver Nuggets";"3433";"Toronto Raptors";2,45;"3417";"Denver Nuggets";1,54;2023-12-21 01:45:00;2023-12-20 17:57:36
+"43065981";"287207167";"Chicago Bulls - Los Angeles Lakers";"3409";"Chicago Bulls";2,5;"3427";"Los Angeles Lakers";1,52;2023-12-21 02:15:00;2023-12-20 17:57:36
+"43065983";"287209762";"Houston Rockets - Atlanta Hawks";"3412";"Houston Rockets";1,64;"3423";"Atlanta Hawks";2,25;2023-12-21 02:15:00;2023-12-20 17:57:36
+"43065985";"287215446";"Dallas Mavericks - Los Angeles Clippers";"3411";"Dallas Mavericks";2,25;"3425";"Los Angeles Clippers";1,62;2023-12-21 02:45:00;2023-12-20 17:57:36
+"43065987";"287224355";"Sacramento Kings - Boston Celtics";"3413";"Sacramento Kings";1,7;"3422";"Boston Celtics";2,1;2023-12-21 04:15:00;2023-12-20 17:57:36
+"43065989";"287438258";"Detroit Pistons - Utah Jazz";"3424";"Detroit Pistons";1,78;"3434";"Utah Jazz";2;2023-12-22 01:15:00;2023-12-22 00:26:48
+"43065991";"287489740";"Cleveland Cavaliers - New Orleans Pelicans";"3432";"Cleveland Cavaliers";2,2;"5539";"New Orleans Pelicans";1,65;2023-12-22 01:45:00;2023-12-22 00:26:48
+"43065993";"287440365";"Chicago Bulls - San Antonio Spurs";"3409";"Chicago Bulls";1,4;"3429";"San Antonio Spurs";2,95;2023-12-22 02:15:00;2023-12-22 00:26:48
+"43065995";"287428847";"Memphis Grizzlies - Indiana Pacers";"3415";"Memphis Grizzlies";1,68;"3419";"Indiana Pacers";2,15;2023-12-22 02:15:00;2023-12-22 00:26:48
+"43065997";"287421219";"Milwaukee Bucks - Orlando Magic";"3410";"Milwaukee Bucks";1,25;"3437";"Orlando Magic";3,9;2023-12-22 02:15:00;2023-12-22 00:26:48
+"43065999";"287490263";"Oklahoma City Thunder - Los Angeles Clippers";"3418";"Oklahoma City Thunder";1,41;"3425";"Los Angeles Clippers";2,9;2023-12-22 02:15:00;2023-12-22 00:26:48
+"43066001";"287490377";"Minnesota Timberwolves - Los Angeles Lakers";"3426";"Minnesota Timberwolves";1,28;"3427";"Los Angeles Lakers";3,7;2023-12-22 03:15:00;2023-12-22 00:26:48
+"43066003";"287429814";"Portland Trail Blazers - Washington Wizards";"3414";"Portland Trail Blazers";1,54;"3431";"Washington Wizards";2,45;2023-12-22 04:15:00;2023-12-22 00:26:48
+"43066005";"287641916";"Philadelphia 76ers - Toronto Raptors";"3420";"Philadelphia 76ers";1,25;"3433";"Toronto Raptors";3,95;2023-12-23 01:15:00;2023-12-22 17:58:08
+"43066007";"287642356";"Brooklyn Nets - Denver Nuggets";"3436";"Brooklyn Nets";2,6;"3417";"Denver Nuggets";1,5;2023-12-23 01:45:00;2023-12-22 17:58:08
+"43066009";"287654615";"Miami Heat - Atlanta Hawks";"3435";"Miami Heat";1,82;"3423";"Atlanta Hawks";1,98;2023-12-23 02:15:00;2023-12-22 17:58:08
+"43066011";"287643060";"Houston Rockets - Dallas Mavericks";"3412";"Houston Rockets";1,27;"3411";"Dallas Mavericks";3,75;2023-12-23 02:15:00;2023-12-22 17:58:08
+"43066013";"287647118";"Golden State Warriors - Washington Wizards";"3428";"Golden State Warriors";1,14;"3431";"Washington Wizards";5,6;2023-12-23 04:15:00;2023-12-22 17:58:08
+"43066015";"287646418";"Sacramento Kings - Phoenix Suns";"3413";"Sacramento Kings";1,58;"3416";"Phoenix Suns";2,35;2023-12-23 04:15:00;2023-12-22 17:58:08
+"43066017";"287855104";"New York Knicks - Milwaukee Bucks";"3421";"New York Knicks";2,1;"3410";"Milwaukee Bucks";1,72;2023-12-23 18:45:00;2023-12-23 18:05:30
+"43066019";"287890163";"Los Angeles Clippers - Boston Celtics";"3425";"Los Angeles Clippers";2,1;"3422";"Boston Celtics";1,72;2023-12-23 21:45:00;2023-12-23 18:05:30
+"43066021";"287856136";"Charlotte Hornets - Denver Nuggets";"3430";"Charlotte Hornets";3,8;"3417";"Denver Nuggets";1,26;2023-12-24 01:15:00;2023-12-23 18:05:30
+"43066023";"287855520";"Indiana Pacers - Orlando Magic";"3419";"Indiana Pacers";1,76;"3437";"Orlando Magic";2,05;2023-12-24 01:15:00;2023-12-23 18:05:30
+"43066025";"287896905";"New Orleans Pelicans - Houston Rockets";"5539";"New Orleans Pelicans";1,35;"3412";"Houston Rockets";3,15;2023-12-24 01:15:00;2023-12-23 18:05:30
+"43066027";"287857013";"Atlanta Hawks - Memphis Grizzlies";"3423";"Atlanta Hawks";1,86;"3415";"Memphis Grizzlies";1,92;2023-12-24 01:45:00;2023-12-23 18:05:30
+"43066029";"287856539";"Brooklyn Nets - Detroit Pistons";"3436";"Brooklyn Nets";1,21;"3424";"Detroit Pistons";4,4;2023-12-24 01:45:00;2023-12-23 18:05:30
+"43066031";"287858894";"Toronto Raptors - Utah Jazz";"3433";"Toronto Raptors";1,43;"3434";"Utah Jazz";2,8;2023-12-24 01:45:00;2023-12-23 18:05:30
+"43066033";"287888661";"Chicago Bulls - Cleveland Cavaliers";"3409";"Chicago Bulls";1,56;"3432";"Cleveland Cavaliers";2,4;2023-12-24 02:15:00;2023-12-23 18:05:30
+"43066035";"287876284";"Oklahoma City Thunder - Los Angeles Lakers";"3418";"Oklahoma City Thunder";1,62;"3427";"Los Angeles Lakers";2,3;2023-12-24 02:15:00;2023-12-23 18:05:30
+"43066037";"287915706";"Dallas Mavericks - San Antonio Spurs";"3411";"Dallas Mavericks";1,34;"3429";"San Antonio Spurs";3,2;2023-12-24 02:45:00;2023-12-23 18:05:30
+"43066039";"287860640";"Golden State Warriors - Portland Trail Blazers";"3428";"Golden State Warriors";1,24;"3414";"Portland Trail Blazers";4;2023-12-24 02:45:00;2023-12-23 18:05:30
+"43066041";"287933034";"Sacramento Kings - Minnesota Timberwolves";"3413";"Sacramento Kings";1,62;"3426";"Minnesota Timberwolves";2,25;2023-12-24 04:15:00;2023-12-23 18:05:30
+"43066043";"287079959";"New York Knicks - Milwaukee Bucks";"3421";"New York Knicks";2,35;"3410";"Milwaukee Bucks";1,6;2023-12-25 18:15:00;2023-12-25 17:53:37
+"43066045";"268317543";"Denver Nuggets - Golden State Warriors";"3417";"Denver Nuggets";1,34;"3428";"Golden State Warriors";3,35;2023-12-25 20:45:00;2023-12-25 17:53:37
+"43066047";"255639202";"Los Angeles Lakers - Boston Celtics";"3427";"Los Angeles Lakers";2,35;"3422";"Boston Celtics";1,6;2023-12-25 23:15:00;2023-12-25 17:53:37
+"43066049";"255638387";"Miami Heat - Philadelphia 76ers";"3435";"Miami Heat";1,68;"3420";"Philadelphia 76ers";2,2;2023-12-26 02:15:00;2023-12-25 17:53:37
+"43066051";"255639403";"Phoenix Suns - Dallas Mavericks";"3416";"Phoenix Suns";1,54;"3411";"Dallas Mavericks";2,5;2023-12-26 04:45:00;2023-12-25 17:53:37
+"43066053";"288206765";"Detroit Pistons - Brooklyn Nets";"3424";"Detroit Pistons";2,9;"3436";"Brooklyn Nets";1,4;2023-12-27 01:15:00;2023-12-26 17:58:04
+"43066055";"288206793";"Washington Wizards - Orlando Magic";"3431";"Washington Wizards";3,45;"3437";"Orlando Magic";1,31;2023-12-27 01:15:00;2023-12-26 17:58:04
+"43066057";"288210098";"Chicago Bulls - Atlanta Hawks";"3409";"Chicago Bulls";1,8;"3423";"Atlanta Hawks";2;2023-12-27 02:15:00;2023-12-26 17:58:04
+"43066059";"288209985";"Houston Rockets - Indiana Pacers";"3412";"Houston Rockets";1,64;"3419";"Indiana Pacers";2,25;2023-12-27 02:15:00;2023-12-26 17:58:04
+"43066061";"288207775";"New Orleans Pelicans - Memphis Grizzlies";"5539";"New Orleans Pelicans";1,5;"3415";"Memphis Grizzlies";2,55;2023-12-27 02:15:00;2023-12-26 17:58:04
+"43066063";"288207119";"Oklahoma City Thunder - Minnesota Timberwolves";"3418";"Oklahoma City Thunder";1,74;"3426";"Minnesota Timberwolves";2,05;2023-12-27 02:15:00;2023-12-26 17:58:04
+"43066065";"288208925";"San Antonio Spurs - Utah Jazz";"3429";"San Antonio Spurs";2,2;"3434";"Utah Jazz";1,64;2023-12-27 02:15:00;2023-12-26 17:58:04
+"43066067";"288210290";"Portland Trail Blazers - Sacramento Kings";"3414";"Portland Trail Blazers";3,55;"3413";"Sacramento Kings";1,29;2023-12-27 04:15:00;2023-12-26 17:58:04
+"43066069";"288210531";"Los Angeles Clippers - Charlotte Hornets";"3425";"Los Angeles Clippers";1,14;"3430";"Charlotte Hornets";5,6;2023-12-27 04:45:00;2023-12-26 17:58:04
+"43066071";"288416952";"Orlando Magic - Philadelphia 76ers";"3437";"Orlando Magic";1,74;"3420";"Philadelphia 76ers";2,05;2023-12-28 01:15:00;2023-12-27 17:54:28
+"43066073";"288417189";"Washington Wizards - Toronto Raptors";"3431";"Washington Wizards";3,2;"3433";"Toronto Raptors";1,35;2023-12-28 01:15:00;2023-12-27 17:54:28
+"43066075";"288418036";"Brooklyn Nets - Milwaukee Bucks";"3436";"Brooklyn Nets";2,55;"3410";"Milwaukee Bucks";1,5;2023-12-28 01:45:00;2023-12-27 17:54:28
+"43066077";"288418170";"Houston Rockets - Phoenix Suns";"3412";"Houston Rockets";2,15;"3416";"Phoenix Suns";1,68;2023-12-28 02:15:00;2023-12-27 17:54:28
+"43066079";"288418037";"Oklahoma City Thunder - New York Knicks";"3418";"Oklahoma City Thunder";1,62;"3421";"New York Knicks";2,25;2023-12-28 02:15:00;2023-12-27 17:54:28
+"43066081";"288419070";"Dallas Mavericks - Cleveland Cavaliers";"3411";"Dallas Mavericks";1,58;"3432";"Cleveland Cavaliers";2,35;2023-12-28 02:45:00;2023-12-27 17:54:28
+"43066083";"288563273";"Boston Celtics - Detroit Pistons";"3422";"Boston Celtics";1,05;"3424";"Detroit Pistons";9,5;2023-12-29 01:45:00;2023-12-28 18:05:13
+"43066085";"288563698";"Chicago Bulls - Indiana Pacers";"3409";"Chicago Bulls";1,98;"3419";"Indiana Pacers";1,82;2023-12-29 02:15:00;2023-12-28 18:05:13
+"43066087";"288598032";"Minnesota Timberwolves - Dallas Mavericks";"3426";"Minnesota Timberwolves";1,21;"3411";"Dallas Mavericks";4,3;2023-12-29 02:15:00;2023-12-28 18:05:13
+"43066089";"288563334";"New Orleans Pelicans - Utah Jazz";"5539";"New Orleans Pelicans";1,27;"3434";"Utah Jazz";3,75;2023-12-29 02:15:00;2023-12-28 18:05:13
+"43066091";"288564292";"Denver Nuggets - Memphis Grizzlies";"3417";"Denver Nuggets";1,32;"3415";"Memphis Grizzlies";3,35;2023-12-29 03:15:00;2023-12-28 18:05:13
+"43066093";"288567337";"Golden State Warriors - Miami Heat";"3428";"Golden State Warriors";1,64;"3435";"Miami Heat";2,2;2023-12-29 04:15:00;2023-12-28 18:05:13
+"43066095";"288564592";"Portland Trail Blazers - San Antonio Spurs";"3414";"Portland Trail Blazers";1,54;"3429";"San Antonio Spurs";2,45;2023-12-29 04:15:00;2023-12-28 18:05:13
+"43066097";"288565010";"Los Angeles Lakers - Charlotte Hornets";"3427";"Los Angeles Lakers";1,12;"3430";"Charlotte Hornets";6;2023-12-29 04:45:00;2023-12-28 18:05:13
+"43066099";"288713241";"Orlando Magic - New York Knicks";"3437";"Orlando Magic";1,82;"3421";"New York Knicks";1,98;2023-12-30 01:15:00;2023-12-29 18:05:04
+"43066101";"288714133";"Washington Wizards - Brooklyn Nets";"3431";"Washington Wizards";2,9;"3436";"Brooklyn Nets";1,41;2023-12-30 01:15:00;2023-12-29 18:05:04
+"43066103";"288715272";"Cleveland Cavaliers - Milwaukee Bucks";"3432";"Cleveland Cavaliers";2,95;"3410";"Milwaukee Bucks";1,4;2023-12-30 01:45:00;2023-12-29 18:05:04
+"43066105";"288715170";"Atlanta Hawks - Sacramento Kings";"3423";"Atlanta Hawks";1,86;"3413";"Sacramento Kings";1,94;2023-12-30 01:45:00;2023-12-29 18:05:04
+"43066107";"288754300";"Boston Celtics - Toronto Raptors";"3422";"Boston Celtics";1,3;"3433";"Toronto Raptors";3,5;2023-12-30 01:45:00;2023-12-29 18:05:04
+"43066109";"288718656";"Houston Rockets - Philadelphia 76ers";"3412";"Houston Rockets";2,05;"3420";"Philadelphia 76ers";14,5;2023-12-30 02:15:00;2023-12-29 18:05:04
+"43066111";"288715590";"Denver Nuggets - Oklahoma City Thunder";"3417";"Denver Nuggets";1,62;"3418";"Oklahoma City Thunder";2,25;2023-12-30 03:15:00;2023-12-29 18:05:04
+"43066113";"288715371";"Phoenix Suns - Charlotte Hornets";"3416";"Phoenix Suns";1,07;"3430";"Charlotte Hornets";8;2023-12-30 03:15:00;2023-12-29 18:05:04
+"43066115";"288741390";"Portland Trail Blazers - San Antonio Spurs";"3414";"Portland Trail Blazers";1,43;"3429";"San Antonio Spurs";2,8;2023-12-30 04:15:00;2023-12-29 18:05:04
+"43066117";"288757563";"Los Angeles Clippers - Memphis Grizzlies";"3425";"Los Angeles Clippers";1,33;"3415";"Memphis Grizzlies";3,3;2023-12-30 04:45:00;2023-12-29 18:05:04
+"43066119";"288916673";"Utah Jazz - Miami Heat";"3434";"Utah Jazz";2,1;"3435";"Miami Heat";1,72;2023-12-30 23:15:00;2023-12-30 17:55:54
+"43066121";"288887225";"Detroit Pistons - Toronto Raptors";"3424";"Detroit Pistons";2,7;"3433";"Toronto Raptors";1,46;2023-12-31 00:15:00;2023-12-30 17:55:54
+"43066123";"288881891";"Indiana Pacers - New York Knicks";"3419";"Indiana Pacers";1,6;"3421";"New York Knicks";2,3;2023-12-31 01:15:00;2023-12-30 17:55:54
+"43066125";"288927189";"Chicago Bulls - Philadelphia 76ers";"3409";"Chicago Bulls";1,7;"3420";"Philadelphia 76ers";2,1;2023-12-31 02:15:00;2023-12-30 17:55:54
+"43066127";"288884201";"Minnesota Timberwolves - Los Angeles Lakers";"3426";"Minnesota Timberwolves";1,6;"3427";"Los Angeles Lakers";2,3;2023-12-31 02:15:00;2023-12-30 17:55:54
+"43066129";"288913068";"Golden State Warriors - Dallas Mavericks";"3428";"Golden State Warriors";1,56;"3411";"Dallas Mavericks";2,4;2023-12-31 02:30:00;2023-12-30 17:55:54
+"43066131";"289095469";"Washington Wizards - Atlanta Hawks";"3431";"Washington Wizards";3,15;"3423";"Atlanta Hawks";1,36;2023-12-31 21:15:00;2023-12-31 17:52:09
+"43066133";"289176772";"New Orleans Pelicans - Los Angeles Lakers";"5539";"New Orleans Pelicans";1,35;"3427";"Los Angeles Lakers";3,15;2024-01-01 01:15:00;2023-12-31 17:52:09
+"43066135";"289099089";"Oklahoma City Thunder - Brooklyn Nets";"3418";"Oklahoma City Thunder";1,31;"3436";"Brooklyn Nets";3,45;2024-01-01 01:15:00;2023-12-31 17:52:09
+"43066137";"289133244";"San Antonio Spurs - Boston Celtics";"3429";"San Antonio Spurs";7,5;"3422";"Boston Celtics";1,08;2024-01-01 01:15:00;2023-12-31 17:52:09
+"43066139";"289104189";"Memphis Grizzlies - Sacramento Kings";"3415";"Memphis Grizzlies";1,9;"3413";"Sacramento Kings";1,9;2024-01-01 02:15:00;2023-12-31 17:52:09
+"43066141";"289101605";"Phoenix Suns - Orlando Magic";"3416";"Phoenix Suns";1,42;"3437";"Orlando Magic";2,85;2024-01-01 02:15:00;2023-12-31 17:52:09
+"43066143";"289276192";"New York Knicks - Minnesota Timberwolves";"3421";"New York Knicks";1,98;"3426";"Minnesota Timberwolves";1,82;2024-01-01 21:15:00;2024-01-01 18:03:42
+"43066145";"289277174";"Toronto Raptors - Cleveland Cavaliers";"3433";"Toronto Raptors";1,68;"3432";"Cleveland Cavaliers";2,15;2024-01-02 01:45:00;2024-01-01 18:03:42
+"43066147";"289277877";"Houston Rockets - Detroit Pistons";"3412";"Houston Rockets";1,24;"3424";"Detroit Pistons";4;2024-01-02 02:15:00;2024-01-01 18:03:42
+"43066149";"289277849";"Milwaukee Bucks - Indiana Pacers";"3410";"Milwaukee Bucks";1,28;"3419";"Indiana Pacers";3,65;2024-01-02 02:15:00;2024-01-01 18:03:42
+"43066151";"289277936";"Denver Nuggets - Charlotte Hornets";"3417";"Denver Nuggets";1,06;"3430";"Charlotte Hornets";9;2024-01-02 03:15:00;2024-01-01 18:03:42
+"43066153";"289315617";"Phoenix Suns - Portland Trail Blazers";"3416";"Phoenix Suns";1,14;"3414";"Portland Trail Blazers";5,7;2024-01-02 03:15:00;2024-01-01 18:03:42
+"43066155";"289277908";"Utah Jazz - Dallas Mavericks";"3434";"Utah Jazz";2,3;"3411";"Dallas Mavericks";1,62;2024-01-02 03:15:00;2024-01-01 18:03:42
+"43066157";"289294869";"Los Angeles Clippers - Miami Heat";"3425";"Los Angeles Clippers";1,33;"3435";"Miami Heat";3,3;2024-01-02 04:45:00;2024-01-01 18:03:42
+"43066159";"289416967";"Philadelphia 76ers - Chicago Bulls";"3420";"Philadelphia 76ers";1,18;"3409";"Chicago Bulls";4,7;2024-01-03 01:15:00;2024-01-02 17:56:05
+"43066161";"289418593";"Memphis Grizzlies - San Antonio Spurs";"3415";"Memphis Grizzlies";1,16;"3429";"San Antonio Spurs";5,2;2024-01-03 02:15:00;2024-01-02 17:56:05
+"43066163";"289419047";"New Orleans Pelicans - Brooklyn Nets";"5539";"New Orleans Pelicans";1,42;"3436";"Brooklyn Nets";2,85;2024-01-03 02:15:00;2024-01-02 17:56:05
+"43066165";"289418921";"Oklahoma City Thunder - Boston Celtics";"3418";"Oklahoma City Thunder";2,4;"3422";"Boston Celtics";1,56;2024-01-03 02:15:00;2024-01-02 17:56:05
+"43066167";"289419170";"Golden State Warriors - Orlando Magic";"3428";"Golden State Warriors";1,64;"3437";"Orlando Magic";2,25;2024-01-03 04:15:00;2024-01-02 17:56:05
+"43066169";"289445009";"Sacramento Kings - Charlotte Hornets";"3413";"Sacramento Kings";1,05;"3430";"Charlotte Hornets";9,5;2024-01-03 04:15:00;2024-01-02 17:56:05
+"43066171";"289572719";"Cleveland Cavaliers - Washington Wizards";"3432";"Cleveland Cavaliers";1,2;"3431";"Washington Wizards";4,5;2024-01-04 01:15:00;2024-01-03 18:06:24
+"43066173";"289572691";"Indiana Pacers - Milwaukee Bucks";"3419";"Indiana Pacers";2,3;"3410";"Milwaukee Bucks";1,6;2024-01-04 01:15:00;2024-01-03 18:06:24
+"43066175";"289573136";"Atlanta Hawks - Oklahoma City Thunder";"3423";"Atlanta Hawks";1,9;"3418";"Oklahoma City Thunder";1,88;2024-01-04 01:45:00;2024-01-03 18:06:24
+"43066179";"289573164";"Houston Rockets - Brooklyn Nets";"3412";"Houston Rockets";1,46;"3436";"Brooklyn Nets";2,7;2024-01-04 02:15:00;2024-01-03 18:06:24
+"43066181";"289573371";"Memphis Grizzlies - Toronto Raptors";"3415";"Memphis Grizzlies";1,86;"3433";"Toronto Raptors";1,92;2024-01-04 02:15:00;2024-01-03 18:06:24
+"43066183";"289573796";"Minnesota Timberwolves - New Orleans Pelicans";"3426";"Minnesota Timberwolves";1,37;"5539";"New Orleans Pelicans";3,1;2024-01-04 02:15:00;2024-01-03 18:06:24
+"43066177";"289574692";"New York Knicks - Chicago Bulls";"3421";"New York Knicks";1,22;"3409";"Chicago Bulls";4,2;2024-01-04 02:45:00;2024-01-03 18:06:24
+"43066185";"289590188";"Dallas Mavericks - Portland Trail Blazers";"3411";"Dallas Mavericks";1,14;"3414";"Portland Trail Blazers";5,6;2024-01-04 02:45:00;2024-01-03 18:06:24
+"43066187";"289590414";"Phoenix Suns - Los Angeles Clippers";"3416";"Phoenix Suns";2,35;"3425";"Los Angeles Clippers";1,58;2024-01-04 03:15:00;2024-01-03 18:06:24
+"43066189";"289575912";"Utah Jazz - Detroit Pistons";"3434";"Utah Jazz";1,26;"3424";"Detroit Pistons";3,85;2024-01-04 03:15:00;2024-01-03 18:06:24
+"43066191";"289592747";"Los Angeles Lakers - Miami Heat";"3427";"Los Angeles Lakers";1,45;"3435";"Miami Heat";2,75;2024-01-04 04:15:00;2024-01-03 18:06:24
+"43066193";"289574720";"Sacramento Kings - Orlando Magic";"3413";"Sacramento Kings";1,5;"3437";"Orlando Magic";2,6;2024-01-04 04:15:00;2024-01-03 18:06:24
+"43066195";"289811765";"San Antonio Spurs - Milwaukee Bucks";"3429";"San Antonio Spurs";4,3;"3410";"Milwaukee Bucks";1,22;2024-01-05 01:45:00;2024-01-04 18:01:13
+"43066197";"289808866";"Golden State Warriors - Denver Nuggets";"3428";"Golden State Warriors";2,3;"3417";"Denver Nuggets";1,6;2024-01-05 04:15:00;2024-01-04 18:01:13
+"43066199";"289985088";"Boston Celtics - Utah Jazz";"3422";"Boston Celtics";1,09;"3434";"Utah Jazz";7,25;2024-01-06 01:15:00;2024-01-05 17:55:51
+"43066201";"289985117";"Indiana Pacers - Atlanta Hawks";"3419";"Indiana Pacers";1,64;"3423";"Atlanta Hawks";2,25;2024-01-06 01:15:00;2024-01-05 17:55:51
+"43066203";"289987716";"Brooklyn Nets - Oklahoma City Thunder";"3436";"Brooklyn Nets";2,7;"3418";"Oklahoma City Thunder";1,46;2024-01-06 01:45:00;2024-01-05 17:55:51
+"43066205";"289985783";"Cleveland Cavaliers - Washington Wizards";"3432";"Cleveland Cavaliers";1,22;"3431";"Washington Wizards";4,2;2024-01-06 01:45:00;2024-01-05 17:55:51
+"43066207";"289985755";"Philadelphia 76ers - New York Knicks";"3420";"Philadelphia 76ers";1,42;"3421";"New York Knicks";2,85;2024-01-06 01:45:00;2024-01-05 17:55:51
+"43066209";"290003304";"Chicago Bulls - Charlotte Hornets";"3409";"Chicago Bulls";1,27;"3430";"Charlotte Hornets";3,75;2024-01-06 02:15:00;2024-01-05 17:55:51
+"43066211";"289989908";"Houston Rockets - Minnesota Timberwolves";"3412";"Houston Rockets";2,3;"3426";"Minnesota Timberwolves";1,6;2024-01-06 02:15:00;2024-01-05 17:55:51
+"43066213";"289986049";"New Orleans Pelicans - Los Angeles Clippers";"5539";"New Orleans Pelicans";1,9;"3425";"Los Angeles Clippers";1,88;2024-01-06 02:15:00;2024-01-05 17:55:51
+"43066215";"289990225";"Dallas Mavericks - Portland Trail Blazers";"3411";"Dallas Mavericks";1,18;"3414";"Portland Trail Blazers";4,9;2024-01-06 02:45:00;2024-01-05 17:55:51
+"43066217";"290006691";"Denver Nuggets - Orlando Magic";"3417";"Denver Nuggets";1,21;"3437";"Orlando Magic";4,4;2024-01-06 03:15:00;2024-01-05 17:55:51
+"43066219";"290014320";"Phoenix Suns - Miami Heat";"3416";"Phoenix Suns";1,56;"3435";"Miami Heat";2,4;2024-01-06 03:15:00;2024-01-05 17:55:51
+"43066221";"289996440";"Golden State Warriors - Detroit Pistons";"3428";"Golden State Warriors";1,21;"3424";"Detroit Pistons";4,4;2024-01-06 04:15:00;2024-01-05 17:55:51
+"43066223";"289991216";"Los Angeles Lakers - Memphis Grizzlies";"3427";"Los Angeles Lakers";1,54;"3415";"Memphis Grizzlies";2,45;2024-01-06 04:15:00;2024-01-05 17:55:51
+"43066225";"289988079";"Sacramento Kings - Toronto Raptors";"3413";"Sacramento Kings";1,48;"3433";"Toronto Raptors";2,65;2024-01-06 04:15:00;2024-01-05 17:55:51
+"43066227";"290204135";"Indiana Pacers - Boston Celtics";"3419";"Indiana Pacers";2,85;"3422";"Boston Celtics";1,43;2024-01-07 01:15:00;2024-01-06 17:54:40
+"43066229";"290201881";"Washington Wizards - New York Knicks";"3431";"Washington Wizards";3,95;"3421";"New York Knicks";1,25;2024-01-07 01:15:00;2024-01-06 17:54:40
+"43066231";"290201947";"Philadelphia 76ers - Utah Jazz";"3420";"Philadelphia 76ers";1,14;"3434";"Utah Jazz";5,6;2024-01-07 01:45:00;2024-01-06 17:54:40
+"43066233";"290202050";"Houston Rockets - Milwaukee Bucks";"3412";"Houston Rockets";3,05;"3410";"Milwaukee Bucks";1,38;2024-01-07 02:15:00;2024-01-06 17:54:40
+"43066235";"290438953";"Cleveland Cavaliers - San Antonio Spurs";"3432";"Cleveland Cavaliers";1,17;"3429";"San Antonio Spurs";5;2024-01-07 19:15:00;2024-01-07 18:07:39
+"43066237";"290418388";"Brooklyn Nets - Portland Trail Blazers";"3436";"Brooklyn Nets";1,28;"3414";"Portland Trail Blazers";3,65;2024-01-07 21:15:00;2024-01-07 18:07:39
+"43066239";"290442563";"Orlando Magic - Atlanta Hawks";"3437";"Orlando Magic";2,05;"3423";"Atlanta Hawks";1,76;2024-01-08 00:15:00;2024-01-07 18:07:39
+"43066241";"290444492";"Sacramento Kings - New Orleans Pelicans";"3413";"Sacramento Kings";1,6;"5539";"New Orleans Pelicans";2,3;2024-01-08 00:15:00;2024-01-07 18:07:39
+"43066247";"290480423";"Dallas Mavericks - Minnesota Timberwolves";"3411";"Dallas Mavericks";2,2;"3426";"Minnesota Timberwolves";1,66;2024-01-08 01:45:00;2024-01-07 18:07:39
+"43066249";"290445216";"Denver Nuggets - Detroit Pistons";"3417";"Denver Nuggets";1,05;"3424";"Detroit Pistons";9,5;2024-01-08 02:15:00;2024-01-07 18:07:39
+"43066251";"290473487";"Phoenix Suns - Memphis Grizzlies";"3416";"Phoenix Suns";1,52;"3415";"Memphis Grizzlies";2,5;2024-01-08 02:15:00;2024-01-07 18:07:39
+"43066253";"290415140";"Golden State Warriors - Toronto Raptors";"3428";"Golden State Warriors";1,72;"3433";"Toronto Raptors";2,1;2024-01-08 02:45:00;2024-01-07 18:07:39
+"43066255";"290414304";"Los Angeles Lakers - Los Angeles Clippers";"3427";"Los Angeles Lakers";2,65;"3425";"Los Angeles Clippers";1,47;2024-01-08 03:45:00;2024-01-07 18:07:39
+"43066257";"290688583";"Charlotte Hornets - Chicago Bulls";"3430";"Charlotte Hornets";3,15;"3409";"Chicago Bulls";1,36;2024-01-09 01:15:00;2024-01-08 18:00:36
+"43066259";"290691190";"Indiana Pacers - Boston Celtics";"3419";"Indiana Pacers";2,3;"3422";"Boston Celtics";1,6;2024-01-09 01:15:00;2024-01-08 18:00:36
+"43066261";"290691378";"Washington Wizards - Oklahoma City Thunder";"3431";"Washington Wizards";5,6;"3418";"Oklahoma City Thunder";1,14;2024-01-09 01:15:00;2024-01-08 18:00:36
+"43066263";"290692345";"Miami Heat - Houston Rockets";"3435";"Miami Heat";1,56;"3412";"Houston Rockets";2,4;2024-01-09 01:45:00;2024-01-08 18:00:36
+"43066265";"290693695";"Milwaukee Bucks - Utah Jazz";"3410";"Milwaukee Bucks";1,25;"3434";"Utah Jazz";3,95;2024-01-09 02:15:00;2024-01-08 18:00:36
+"43066267";"290720214";"Los Angeles Clippers - Phoenix Suns";"3425";"Los Angeles Clippers";1,39;"3416";"Phoenix Suns";2,95;2024-01-09 04:45:00;2024-01-08 18:00:36
+"43066269";"290865498";"Detroit Pistons - Sacramento Kings";"3424";"Detroit Pistons";5,2;"3413";"Sacramento Kings";1,16;2024-01-10 01:15:00;2024-01-09 18:03:17
+"43066271";"290865894";"Orlando Magic - Minnesota Timberwolves";"3437";"Orlando Magic";2,6;"3426";"Minnesota Timberwolves";1,49;2024-01-10 01:15:00;2024-01-09 18:03:17
+"43066273";"290866613";"New York Knicks - Portland Trail Blazers";"3421";"New York Knicks";1,14;"3414";"Portland Trail Blazers";5,6;2024-01-10 01:45:00;2024-01-09 18:03:17
+"43066275";"290872596";"Dallas Mavericks - Memphis Grizzlies";"3411";"Dallas Mavericks";1,26;"3415";"Memphis Grizzlies";3,8;2024-01-10 02:45:00;2024-01-09 18:03:17
+"43066277";"290873149";"Los Angeles Lakers - Toronto Raptors";"3427";"Los Angeles Lakers";1,49;"3433";"Toronto Raptors";2,6;2024-01-10 04:45:00;2024-01-09 18:03:17
+"43066279";"291096568";"Boston Celtics - Minnesota Timberwolves";"3422";"Boston Celtics";1,25;"3426";"Minnesota Timberwolves";3,9;2024-01-11 01:00:00;2024-01-10 18:04:54
+"43066281";"291130118";"Charlotte Hornets - Sacramento Kings";"3430";"Charlotte Hornets";3,3;"3413";"Sacramento Kings";1,33;2024-01-11 01:00:00;2024-01-10 18:04:54
+"43066283";"291106365";"Detroit Pistons - San Antonio Spurs";"3424";"Detroit Pistons";2,15;"3429";"San Antonio Spurs";1,66;2024-01-11 01:00:00;2024-01-10 18:04:54
+"43066285";"291103756";"Indiana Pacers - Washington Wizards";"3419";"Indiana Pacers";1,3;"3431";"Washington Wizards";3,5;2024-01-11 01:00:00;2024-01-10 18:04:54
+"43066289";"291098806";"Miami Heat - Oklahoma City Thunder";"3435";"Miami Heat";2,45;"3418";"Oklahoma City Thunder";1,54;2024-01-11 01:30:00;2024-01-10 18:04:54
+"43066287";"291106241";"Atlanta Hawks - Philadelphia 76ers";"3423";"Atlanta Hawks";1,76;"3420";"Philadelphia 76ers";2,05;2024-01-11 01:40:00;2024-01-10 18:04:54
+"43066291";"291102479";"Chicago Bulls - Houston Rockets";"3409";"Chicago Bulls";1,6;"3412";"Houston Rockets";2,3;2024-01-11 02:15:00;2024-01-10 18:04:54
+"43066295";"291146808";"Golden State Warriors - New Orleans Pelicans";"3428";"Golden State Warriors";2,05;"5539";"New Orleans Pelicans";1,74;2024-01-11 02:45:00;2024-01-10 18:04:54
+"43066293";"291107202";"Utah Jazz - Denver Nuggets";"3434";"Utah Jazz";3,1;"3417";"Denver Nuggets";1,37;2024-01-11 04:15:00;2024-01-10 18:04:54
+"43066297";"291111563";"Los Angeles Clippers - Toronto Raptors";"3425";"Los Angeles Clippers";1,19;"3433";"Toronto Raptors";4,6;2024-01-11 04:45:00;2024-01-10 18:04:54
+"43066299";"291380506";"Cleveland Cavaliers - Brooklyn Nets";"3432";"Cleveland Cavaliers";1,66;"3436";"Brooklyn Nets";2,3;2024-01-11 20:15:00;2024-01-11 18:09:41
+"43066301";"291465935";"Milwaukee Bucks - Boston Celtics";"3410";"Milwaukee Bucks";1,5;"3422";"Boston Celtics";2,55;2024-01-12 01:45:00;2024-01-11 18:09:41
+"43066303";"291388218";"Oklahoma City Thunder - Portland Trail Blazers";"3418";"Oklahoma City Thunder";1,11;"3414";"Portland Trail Blazers";6,5;2024-01-12 02:15:00;2024-01-11 18:09:41
+"43066305";"291404605";"Dallas Mavericks - New York Knicks";"3411";"Dallas Mavericks";2,4;"3421";"New York Knicks";1,56;2024-01-12 02:45:00;2024-01-11 18:09:41
+"43066307";"291388534";"Los Angeles Lakers - Phoenix Suns";"3427";"Los Angeles Lakers";1,88;"3416";"Phoenix Suns";1,9;2024-01-12 04:15:00;2024-01-11 18:09:41
+"43066309";"291683883";"Philadelphia 76ers - Sacramento Kings";"3420";"Philadelphia 76ers";1,86;"3413";"Sacramento Kings";1,94;2024-01-13 01:45:00;2024-01-12 17:59:07
+"43066311";"291665435";"Atlanta Hawks - Indiana Pacers";"3423";"Atlanta Hawks";1,46;"3419";"Indiana Pacers";2,7;2024-01-13 01:45:00;2024-01-12 17:59:07
+"43066313";"291672511";"Detroit Pistons - Houston Rockets";"3424";"Detroit Pistons";3,3;"3412";"Houston Rockets";1,33;2024-01-13 01:45:00;2024-01-12 17:59:07
+"43066315";"291684282";"Miami Heat - Orlando Magic";"3435";"Miami Heat";1,62;"3437";"Orlando Magic";2,25;2024-01-13 02:15:00;2024-01-12 17:59:07
+"43066317";"291678779";"Chicago Bulls - Golden State Warriors";"3409";"Chicago Bulls";1,64;"3428";"Golden State Warriors";2,25;2024-01-13 02:15:00;2024-01-12 17:59:07
+"43066319";"291710021";"Memphis Grizzlies - Los Angeles Clippers";"3415";"Memphis Grizzlies";3,5;"3425";"Los Angeles Clippers";1,3;2024-01-13 02:15:00;2024-01-12 17:59:07
+"43066321";"291693703";"Minnesota Timberwolves - Portland Trail Blazers";"3426";"Minnesota Timberwolves";1,07;"3414";"Portland Trail Blazers";8;2024-01-13 02:15:00;2024-01-12 17:59:07
+"43066327";"291688352";"San Antonio Spurs - Charlotte Hornets";"3429";"San Antonio Spurs";1,64;"3430";"Charlotte Hornets";2,2;2024-01-13 02:15:00;2024-01-12 17:59:07
+"43066325";"291725637";"Utah Jazz - Toronto Raptors";"3434";"Utah Jazz";1,7;"3433";"Toronto Raptors";2,1;2024-01-13 03:45:00;2024-01-12 17:59:07
+"43066323";"291679066";"Denver Nuggets - New Orleans Pelicans";"3417";"Denver Nuggets";1,28;"5539";"New Orleans Pelicans";3,65;2024-01-13 04:15:00;2024-01-12 17:59:07
+"43066329";"291950901";"Boston Celtics - Houston Rockets";"3422";"Boston Celtics";1,07;"3412";"Houston Rockets";8;2024-01-14 01:15:00;2024-01-13 18:08:54
+"43066331";"291952312";"Atlanta Hawks - Washington Wizards";"3423";"Atlanta Hawks";1,32;"3431";"Washington Wizards";3,05;2024-01-14 01:45:00;2024-01-13 18:08:54
+"43066333";"291953156";"Memphis Grizzlies - New York Knicks";"3415";"Memphis Grizzlies";3,55;"3421";"New York Knicks";1,29;2024-01-14 02:15:00;2024-01-13 18:08:54
+"43066335";"291953488";"Milwaukee Bucks - Golden State Warriors";"3410";"Milwaukee Bucks";1,14;"3428";"Golden State Warriors";5,6;2024-01-14 02:15:00;2024-01-13 18:08:54
+"43066337";"291953722";"Oklahoma City Thunder - Orlando Magic";"3418";"Oklahoma City Thunder";1,15;"3437";"Orlando Magic";5,5;2024-01-14 02:15:00;2024-01-13 18:08:54
+"43066339";"292018187";"Dallas Mavericks - New Orleans Pelicans";"3411";"Dallas Mavericks";1,68;"5539";"New Orleans Pelicans";2,15;2024-01-14 02:45:00;2024-01-13 18:08:54
+"43066341";"291956768";"San Antonio Spurs - Chicago Bulls";"3429";"San Antonio Spurs";2,8;"3409";"Chicago Bulls";1,43;2024-01-14 02:45:00;2024-01-13 18:08:54
+"43066343";"291949964";"Utah Jazz - Los Angeles Lakers";"3434";"Utah Jazz";2;"3427";"Los Angeles Lakers";1,78;2024-01-14 03:45:00;2024-01-13 18:08:54
+"43066345";"292266046";"Denver Nuggets - Indiana Pacers";"3417";"Denver Nuggets";1,18;"3419";"Indiana Pacers";4,8;2024-01-14 21:45:00;2024-01-14 17:55:24
+"43066347";"292300729";"Miami Heat - Charlotte Hornets";"3435";"Miami Heat";1,28;"3430";"Charlotte Hornets";3,7;2024-01-15 00:15:00;2024-01-14 17:55:24
+"43066349";"292266780";"Milwaukee Bucks - Sacramento Kings";"3410";"Milwaukee Bucks";1,5;"3413";"Sacramento Kings";2,55;2024-01-15 01:15:00;2024-01-14 17:55:24
+"43066351";"292267100";"Minnesota Timberwolves - Los Angeles Clippers";"3426";"Minnesota Timberwolves";2,05;"3425";"Los Angeles Clippers";1,76;2024-01-15 01:15:00;2024-01-14 17:55:24
+"43066353";"292267241";"Portland Trail Blazers - Phoenix Suns";"3414";"Portland Trail Blazers";5,4;"3416";"Phoenix Suns";1,15;2024-01-15 03:15:00;2024-01-14 17:55:24
+"43066355";"292602245";"Philadelphia 76ers - Houston Rockets";"3420";"Philadelphia 76ers";1,32;"3412";"Houston Rockets";3,4;2024-01-15 19:15:00;2024-01-15 17:58:53
+"43066357";"292604744";"Dallas Mavericks - New Orleans Pelicans";"3411";"Dallas Mavericks";2,45;"5539";"New Orleans Pelicans";1,54;2024-01-15 20:45:00;2024-01-15 17:58:53
+"43066359";"292608892";"New York Knicks - Orlando Magic";"3421";"New York Knicks";1,39;"3437";"Orlando Magic";3;2024-01-15 21:15:00;2024-01-15 17:58:53
+"43066361";"292601958";"Washington Wizards - Detroit Pistons";"3431";"Washington Wizards";1,45;"3424";"Detroit Pistons";2,75;2024-01-15 21:15:00;2024-01-15 17:58:53
+"43066363";"292602545";"Atlanta Hawks - San Antonio Spurs";"3423";"Atlanta Hawks";1,3;"3429";"San Antonio Spurs";3,45;2024-01-15 21:45:00;2024-01-15 17:58:53
+"43066365";"292613354";"Memphis Grizzlies - Golden State Warriors";"3415";"Memphis Grizzlies";3,4;"3428";"Golden State Warriors";1,32;2024-01-16 00:15:00;2024-01-15 17:58:53
+"43066367";"292606736";"Cleveland Cavaliers - Chicago Bulls";"3432";"Cleveland Cavaliers";1,56;"3409";"Chicago Bulls";2,4;2024-01-16 01:15:00;2024-01-15 17:58:53
+"43066369";"292600725";"Brooklyn Nets - Miami Heat";"3436";"Brooklyn Nets";1,76;"3435";"Miami Heat";2,05;2024-01-16 01:45:00;2024-01-15 17:58:53
+"43066371";"292611887";"Toronto Raptors - Boston Celtics";"3433";"Toronto Raptors";3,3;"3422";"Boston Celtics";1,33;2024-01-16 01:45:00;2024-01-15 17:58:53
+"43066373";"292611859";"Utah Jazz - Indiana Pacers";"3434";"Utah Jazz";1,35;"3419";"Indiana Pacers";3,15;2024-01-16 03:15:00;2024-01-15 17:58:53
+"43066375";"292601562";"Los Angeles Lakers - Oklahoma City Thunder";"3427";"Los Angeles Lakers";1,92;"3418";"Oklahoma City Thunder";1,88;2024-01-16 04:45:00;2024-01-15 17:58:53
+"43066377";"292833460";"Philadelphia 76ers - Denver Nuggets";"3420";"Philadelphia 76ers";1,64;"3417";"Denver Nuggets";2,2;2024-01-17 01:45:00;2024-01-16 17:57:47
+"43066379";"292834071";"Phoenix Suns - Sacramento Kings";"3416";"Phoenix Suns";1,54;"3413";"Sacramento Kings";2,4;2024-01-17 03:15:00;2024-01-16 17:57:47
+"43066381";"292866868";"Los Angeles Clippers - Oklahoma City Thunder";"3425";"Los Angeles Clippers";1,39;"3418";"Oklahoma City Thunder";3;2024-01-17 04:15:00;2024-01-16 17:57:47
+"43066383";"293087608";"Detroit Pistons - Minnesota Timberwolves";"3424";"Detroit Pistons";5,8;"3426";"Minnesota Timberwolves";1,13;2024-01-18 01:15:00;2024-01-17 18:01:34
+"43066385";"293055906";"Atlanta Hawks - Orlando Magic";"3423";"Atlanta Hawks";1,58;"3437";"Orlando Magic";2,35;2024-01-18 01:45:00;2024-01-17 18:01:34
+"43066387";"293108256";"Boston Celtics - San Antonio Spurs";"3422";"Boston Celtics";1,06;"3429";"San Antonio Spurs";9;2024-01-18 01:45:00;2024-01-17 18:01:34
+"43066389";"293057911";"Cleveland Cavaliers - Milwaukee Bucks";"3432";"Cleveland Cavaliers";2,45;"3410";"Milwaukee Bucks";1,54;2024-01-18 01:45:00;2024-01-17 18:01:34
+"43066391";"293104785";"New York Knicks - Houston Rockets";"3421";"New York Knicks";1,47;"3412";"Houston Rockets";2,65;2024-01-18 01:45:00;2024-01-17 18:01:34
+"43066393";"293059572";"Toronto Raptors - Miami Heat";"3433";"Toronto Raptors";2,05;"3435";"Miami Heat";1,76;2024-01-18 01:45:00;2024-01-17 18:01:34
+"43066395";"293062109";"New Orleans Pelicans - Charlotte Hornets";"5539";"New Orleans Pelicans";1,12;"3430";"Charlotte Hornets";6;2024-01-18 02:15:00;2024-01-17 18:01:34
+"43066399";"293112290";"Los Angeles Lakers - Dallas Mavericks";"3427";"Los Angeles Lakers";1,58;"3411";"Dallas Mavericks";2,35;2024-01-18 02:45:00;2024-01-17 18:01:34
+"43066397";"293062281";"Utah Jazz - Golden State Warriors";"3434";"Utah Jazz";1,6;"3428";"Golden State Warriors";2,35;2024-01-18 03:15:00;2024-01-17 18:01:34
+"43066401";"293119286";"Portland Trail Blazers - Brooklyn Nets";"3414";"Portland Trail Blazers";2,95;"3436";"Brooklyn Nets";1,4;2024-01-18 04:15:00;2024-01-17 18:01:34
+"43066403";"293469390";"New York Knicks - Washington Wizards";"3421";"New York Knicks";1,14;"3431";"Washington Wizards";6;2024-01-19 01:45:00;2024-01-18 17:59:25
+"43066405";"293396679";"Toronto Raptors - Chicago Bulls";"3433";"Toronto Raptors";2,1;"3409";"Chicago Bulls";1,74;2024-01-19 01:45:00;2024-01-18 17:59:25
+"43066407";"293395935";"Utah Jazz - Oklahoma City Thunder";"3434";"Utah Jazz";2,3;"3418";"Oklahoma City Thunder";1,64;2024-01-19 03:15:00;2024-01-18 17:59:25
+"43066409";"293470115";"Minnesota Timberwolves - Memphis Grizzlies";"3426";"Minnesota Timberwolves";1,14;"3415";"Memphis Grizzlies";6;2024-01-19 04:15:00;2024-01-18 17:59:25
+"43066411";"293417022";"Sacramento Kings - Indiana Pacers";"3413";"Sacramento Kings";1,33;"3419";"Indiana Pacers";3,4;2024-01-19 04:15:00;2024-01-18 17:59:25
+"43066413";"293675838";"Charlotte Hornets - San Antonio Spurs";"3430";"Charlotte Hornets";1,54;"3429";"San Antonio Spurs";2,55;2024-01-20 01:15:00;2024-01-19 18:01:39
+"43066415";"293675867";"Orlando Magic - Philadelphia 76ers";"3437";"Orlando Magic";2,7;"3420";"Philadelphia 76ers";1,48;2024-01-20 01:15:00;2024-01-19 18:01:39
+"43066417";"NULL";"Boston Celtics - Denver Nuggets";"3422";"Boston Celtics";NA;"3417";"Denver Nuggets";NA;2024-01-20 01:45:00;2024-01-19 18:01:39
+"43066421";"293676664";"New Orleans Pelicans - Phoenix Suns";"5539";"New Orleans Pelicans";1,78;"3416";"Phoenix Suns";2,05;2024-01-20 02:15:00;2024-01-19 18:01:39
+"43066425";"293777068";"Portland Trail Blazers - Indiana Pacers";"3414";"Portland Trail Blazers";2,65;"3419";"Indiana Pacers";1,5;2024-01-20 04:15:00;2024-01-19 18:01:39
+"43066427";"293676748";"Los Angeles Lakers - Brooklyn Nets";"3427";"Los Angeles Lakers";1,34;"3436";"Brooklyn Nets";3,25;2024-01-20 04:45:00;2024-01-19 18:01:39
+"43066429";"293997030";"Detroit Pistons - Milwaukee Bucks";"3424";"Detroit Pistons";7,5;"3410";"Milwaukee Bucks";1,1;2024-01-20 21:15:00;2024-01-20 17:56:15
+"43066431";"293992966";"Charlotte Hornets - Philadelphia 76ers";"3430";"Charlotte Hornets";5,2;"3420";"Philadelphia 76ers";1,17;2024-01-21 01:15:00;2024-01-20 17:56:15
+"43066433";"293991467";"Washington Wizards - San Antonio Spurs";"3431";"Washington Wizards";1,74;"3429";"San Antonio Spurs";2,1;2024-01-21 01:15:00;2024-01-20 17:56:15
+"43066435";"294058493";"Atlanta Hawks - Cleveland Cavaliers";"3423";"Atlanta Hawks";2,2;"3432";"Cleveland Cavaliers";1,66;2024-01-21 01:45:00;2024-01-20 17:56:15
+"43066437";"293993051";"New York Knicks - Toronto Raptors";"3421";"New York Knicks";1,34;"3433";"Toronto Raptors";3,35;2024-01-21 01:45:00;2024-01-20 17:56:15
+"43066439";"294033667";"Chicago Bulls - Memphis Grizzlies";"3409";"Chicago Bulls";1,34;"3415";"Memphis Grizzlies";3,35;2024-01-21 02:15:00;2024-01-20 17:56:15
+"43066441";"293992135";"Houston Rockets - Utah Jazz";"3412";"Houston Rockets";1,76;"3434";"Utah Jazz";2,1;2024-01-21 02:15:00;2024-01-20 17:56:15
+"43066443";"293992938";"Minnesota Timberwolves - Oklahoma City Thunder";"3426";"Minnesota Timberwolves";1,66;"3418";"Oklahoma City Thunder";2,2;2024-01-21 02:15:00;2024-01-20 17:56:15
+"43066445";"294262303";"Los Angeles Clippers - Brooklyn Nets";"3425";"Los Angeles Clippers";1,18;"3436";"Brooklyn Nets";5,1;2024-01-21 21:45:00;2024-01-21 17:54:29
+"43066447";"294262273";"Orlando Magic - Miami Heat";"3437";"Orlando Magic";1,92;"3435";"Miami Heat";1,92;2024-01-22 00:15:00;2024-01-21 17:54:29
+"43066449";"294262245";"Washington Wizards - Denver Nuggets";"3431";"Washington Wizards";6,75;"3417";"Denver Nuggets";1,11;2024-01-22 00:15:00;2024-01-21 17:54:29
+"43066451";"294276305";"Houston Rockets - Boston Celtics";"3412";"Houston Rockets";5,6;"3422";"Boston Celtics";1,16;2024-01-22 01:15:00;2024-01-21 17:54:29
+"43066453";"294272666";"Phoenix Suns - Indiana Pacers";"3416";"Phoenix Suns";1,52;"3419";"Indiana Pacers";2,6;2024-01-22 02:15:00;2024-01-21 17:54:29
+"43066455";"294330413";"Los Angeles Lakers - Portland Trail Blazers";"3427";"Los Angeles Lakers";1,17;"3414";"Portland Trail Blazers";5,1;2024-01-22 04:15:00;2024-01-21 17:54:29
+"43066457";"294546178";"Detroit Pistons - Milwaukee Bucks";"3424";"Detroit Pistons";6,5;"3410";"Milwaukee Bucks";1,12;2024-01-23 01:00:00;2024-01-22 18:00:03
+"43066459";"294551549";"Orlando Magic - Cleveland Cavaliers";"3437";"Orlando Magic";2,05;"3432";"Cleveland Cavaliers";1,78;2024-01-23 01:00:00;2024-01-22 18:00:03
+"43066461";"294547728";"Philadelphia 76ers - San Antonio Spurs";"3420";"Philadelphia 76ers";1,1;"3429";"San Antonio Spurs";7,5;2024-01-23 01:00:00;2024-01-22 18:00:03
+"43066463";"294552248";"Toronto Raptors - Memphis Grizzlies";"3433";"Toronto Raptors";1,35;"3415";"Memphis Grizzlies";3,3;2024-01-23 01:30:00;2024-01-22 18:00:03
+"43066465";"294553700";"Minnesota Timberwolves - Charlotte Hornets";"3426";"Minnesota Timberwolves";1,08;"3430";"Charlotte Hornets";8,5;2024-01-23 02:00:00;2024-01-22 18:00:03
+"43066467";"294554307";"Dallas Mavericks - Boston Celtics";"3411";"Dallas Mavericks";2,25;"3422";"Boston Celtics";1,66;2024-01-23 02:30:00;2024-01-22 18:00:03
+"43066469";"294553534";"Phoenix Suns - Chicago Bulls";"3416";"Phoenix Suns";1,5;"3409";"Chicago Bulls";2,65;2024-01-23 03:00:00;2024-01-22 18:00:03
+"43066471";"294560432";"Sacramento Kings - Atlanta Hawks";"3413";"Sacramento Kings";1,28;"3423";"Atlanta Hawks";3,75;2024-01-23 04:00:00;2024-01-22 18:00:03
+"43066473";"294754556";"Indiana Pacers - Denver Nuggets";"3419";"Indiana Pacers";2,6;"3417";"Denver Nuggets";1,5;2024-01-24 01:15:00;2024-01-23 18:06:19
+"43066475";"294748204";"Brooklyn Nets - New York Knicks";"3436";"Brooklyn Nets";2,45;"3421";"New York Knicks";1,56;2024-01-24 01:45:00;2024-01-23 18:06:19
+"43066477";"294751684";"New Orleans Pelicans - Utah Jazz";"5539";"New Orleans Pelicans";1,41;"3434";"Utah Jazz";3;2024-01-24 02:15:00;2024-01-23 18:06:19
+"43066479";"294750891";"Oklahoma City Thunder - Portland Trail Blazers";"3418";"Oklahoma City Thunder";1,12;"3414";"Portland Trail Blazers";6,5;2024-01-24 02:15:00;2024-01-23 18:06:19
+"43066481";"294762840";"Los Angeles Clippers - Los Angeles Lakers";"3425";"Los Angeles Clippers";1,24;"3427";"Los Angeles Lakers";4,1;2024-01-24 04:15:00;2024-01-23 18:06:19
+"43066485";"295033574";"Washington Wizards - Minnesota Timberwolves";"3431";"Washington Wizards";5,3;"3426";"Minnesota Timberwolves";1,17;2024-01-25 01:15:00;2024-01-24 18:01:41
+"43066487";"295036826";"Miami Heat - Memphis Grizzlies";"3435";"Miami Heat";1,2;"3415";"Memphis Grizzlies";4,8;2024-01-25 01:45:00;2024-01-24 18:01:41
+"43066491";"295038010";"Houston Rockets - Portland Trail Blazers";"3412";"Houston Rockets";1,18;"3414";"Portland Trail Blazers";5;2024-01-25 02:15:00;2024-01-24 18:01:41
+"43066493";"295036985";"Milwaukee Bucks - Cleveland Cavaliers";"3410";"Milwaukee Bucks";1,37;"3432";"Cleveland Cavaliers";3,15;2024-01-25 02:15:00;2024-01-24 18:01:41
+"43066495";"295041760";"Dallas Mavericks - Phoenix Suns";"3411";"Dallas Mavericks";2,2;"3416";"Phoenix Suns";1,7;2024-01-25 02:45:00;2024-01-24 18:01:41
+"43066489";"295034749";"San Antonio Spurs - Oklahoma City Thunder";"3429";"San Antonio Spurs";3,4;"3418";"Oklahoma City Thunder";1,33;2024-01-25 03:45:00;2024-01-24 18:01:41
+"43066497";"295042691";"Golden State Warriors - Atlanta Hawks";"3428";"Golden State Warriors";1,4;"3423";"Atlanta Hawks";3;2024-01-25 04:15:00;2024-01-24 18:01:41
+"43066499";"295297627";"Indiana Pacers - Philadelphia 76ers";"3419";"Indiana Pacers";2,65;"3420";"Philadelphia 76ers";1,5;2024-01-26 01:15:00;2024-01-25 18:04:01
+"43066501";"295305230";"Washington Wizards - Utah Jazz";"3431";"Washington Wizards";3,35;"3434";"Utah Jazz";1,34;2024-01-26 01:15:00;2024-01-25 18:04:01
+"43066503";"295297598";"Brooklyn Nets - Minnesota Timberwolves";"3436";"Brooklyn Nets";2,35;"3426";"Minnesota Timberwolves";1,6;2024-01-26 01:45:00;2024-01-25 18:04:01
+"43066505";"295280133";"Miami Heat - Boston Celtics";"3435";"Miami Heat";3,45;"3422";"Boston Celtics";1,32;2024-01-26 01:45:00;2024-01-25 18:04:01
+"43066507";"295284827";"New York Knicks - Denver Nuggets";"3421";"New York Knicks";2,1;"3417";"Denver Nuggets";1,74;2024-01-26 01:45:00;2024-01-25 18:04:01
+"43066509";"295297570";"Golden State Warriors - Sacramento Kings";"3428";"Golden State Warriors";2,05;"3413";"Sacramento Kings";1,78;2024-01-26 04:15:00;2024-01-25 18:04:01
+"43066511";"295381414";"Los Angeles Lakers - Chicago Bulls";"3427";"Los Angeles Lakers";1,52;"3409";"Chicago Bulls";2,55;2024-01-26 04:45:00;2024-01-25 18:04:01
+"43066513";"295635430";"Atlanta Hawks - Dallas Mavericks";"3423";"Atlanta Hawks";2;"3411";"Dallas Mavericks";1,8;2024-01-27 01:15:00;2024-01-26 18:06:08
+"43066515";"295594721";"Charlotte Hornets - Houston Rockets";"3430";"Charlotte Hornets";2,75;"3412";"Houston Rockets";1,47;2024-01-27 01:15:00;2024-01-26 18:06:08
+"43066517";"295594883";"Indiana Pacers - Phoenix Suns";"3419";"Indiana Pacers";2,55;"3416";"Phoenix Suns";1,52;2024-01-27 01:15:00;2024-01-26 18:06:08
+"43066519";"295634948";"Toronto Raptors - Los Angeles Clippers";"3433";"Toronto Raptors";3,6;"3425";"Los Angeles Clippers";1,3;2024-01-27 01:45:00;2024-01-26 18:06:08
+"43066521";"295596308";"Memphis Grizzlies - Orlando Magic";"3415";"Memphis Grizzlies";2,9;"3437";"Orlando Magic";1,43;2024-01-27 02:15:00;2024-01-26 18:06:08
+"43066523";"295595874";"Milwaukee Bucks - Cleveland Cavaliers";"3410";"Milwaukee Bucks";1,44;"3432";"Cleveland Cavaliers";2,85;2024-01-27 02:15:00;2024-01-26 18:06:08
+"43066525";"295599664";"New Orleans Pelicans - Oklahoma City Thunder";"5539";"New Orleans Pelicans";1,88;"3418";"Oklahoma City Thunder";1,96;2024-01-27 02:15:00;2024-01-26 18:06:08
+"43066527";"295596721";"San Antonio Spurs - Portland Trail Blazers";"3429";"San Antonio Spurs";1,66;"3414";"Portland Trail Blazers";2,25;2024-01-27 03:45:00;2024-01-26 18:06:08
+"43066529";"295944881";"Detroit Pistons - Washington Wizards";"3424";"Detroit Pistons";1,6;"3431";"Washington Wizards";2,3;2024-01-27 18:15:00;2024-01-27 18:06:32
+"43066531";"295881332";"New York Knicks - Miami Heat";"3421";"New York Knicks";1,54;"3435";"Miami Heat";2,55;2024-01-27 21:15:00;2024-01-27 18:06:32
+"43066533";"295934934";"Denver Nuggets - Philadelphia 76ers";"3417";"Denver Nuggets";1,46;"3420";"Philadelphia 76ers";2,75;2024-01-27 23:45:00;2024-01-27 18:06:32
+"43066535";"295894082";"Brooklyn Nets - Houston Rockets";"3436";"Brooklyn Nets";1,56;"3412";"Houston Rockets";2,5;2024-01-28 00:15:00;2024-01-27 18:06:32
+"43066537";"295894110";"Boston Celtics - Los Angeles Clippers";"3422";"Boston Celtics";1,34;"3425";"Los Angeles Clippers";3,35;2024-01-28 01:15:00;2024-01-27 18:06:32
+"43066539";"295894054";"Charlotte Hornets - Utah Jazz";"3430";"Charlotte Hornets";4,4;"3434";"Utah Jazz";1,2;2024-01-28 01:15:00;2024-01-27 18:06:32
+"43066541";"295998910";"Milwaukee Bucks - New Orleans Pelicans";"3410";"Milwaukee Bucks";1,48;"5539";"New Orleans Pelicans";2,7;2024-01-28 02:15:00;2024-01-27 18:06:32
+"43066543";"295902858";"San Antonio Spurs - Minnesota Timberwolves";"3429";"San Antonio Spurs";4,9;"3426";"Minnesota Timberwolves";1,18;2024-01-28 02:45:00;2024-01-27 18:06:32
+"43066545";"295896709";"Golden State Warriors - Los Angeles Lakers";"3428";"Golden State Warriors";1,82;"3427";"Los Angeles Lakers";2;2024-01-28 02:45:00;2024-01-27 18:06:32
+"43066547";"296002515";"Dallas Mavericks - Sacramento Kings";"3411";"Dallas Mavericks";2,3;"3413";"Sacramento Kings";1,64;2024-01-28 03:15:00;2024-01-27 18:06:32
+"43066553";"296308736";"Detroit Pistons - Oklahoma City Thunder";"3424";"Detroit Pistons";7;"3418";"Oklahoma City Thunder";1,11;2024-01-28 20:15:00;2024-01-28 17:56:49
+"43066549";"296309651";"Indiana Pacers - Memphis Grizzlies";"3419";"Indiana Pacers";1,25;"3415";"Memphis Grizzlies";4,1;2024-01-28 21:45:00;2024-01-28 17:56:49
+"43066551";"296311072";"Atlanta Hawks - Toronto Raptors";"3423";"Atlanta Hawks";1,41;"3433";"Toronto Raptors";3;2024-01-29 00:15:00;2024-01-28 17:56:49
+"43066555";"296309337";"Orlando Magic - Phoenix Suns";"3437";"Orlando Magic";1,98;"3416";"Phoenix Suns";1,84;2024-01-29 00:15:00;2024-01-28 17:56:49
+"43066557";"296316688";"Portland Trail Blazers - Chicago Bulls";"3414";"Portland Trail Blazers";3,25;"3409";"Chicago Bulls";1,36;2024-01-29 03:15:00;2024-01-28 17:56:49
+"43066559";"296595810";"Charlotte Hornets - New York Knicks";"3430";"Charlotte Hornets";4,1;"3421";"New York Knicks";1,23;2024-01-30 01:15:00;2024-01-29 17:58:32
+"43066561";"296579655";"Cleveland Cavaliers - Los Angeles Clippers";"3432";"Cleveland Cavaliers";2,1;"3425";"Los Angeles Clippers";1,74;2024-01-30 01:15:00;2024-01-29 17:58:32
+"43066563";"296588219";"Boston Celtics - New Orleans Pelicans";"3422";"Boston Celtics";1,27;"5539";"New Orleans Pelicans";3,9;2024-01-30 01:45:00;2024-01-29 17:58:32
+"43066565";"296579435";"Brooklyn Nets - Utah Jazz";"3436";"Brooklyn Nets";1,94;"3434";"Utah Jazz";1,88;2024-01-30 01:45:00;2024-01-29 17:58:32
+"43066567";"296609815";"Miami Heat - Phoenix Suns";"3435";"Miami Heat";1,62;"3416";"Phoenix Suns";2,3;2024-01-30 01:45:00;2024-01-29 17:58:32
+"43066569";"296612073";"Houston Rockets - Los Angeles Lakers";"3412";"Houston Rockets";1,94;"3427";"Los Angeles Lakers";1,9;2024-01-30 02:15:00;2024-01-29 17:58:32
+"43066571";"296579463";"Memphis Grizzlies - Sacramento Kings";"3415";"Memphis Grizzlies";3,95;"3413";"Sacramento Kings";1,26;2024-01-30 02:15:00;2024-01-29 17:58:32
+"43066573";"296592181";"Oklahoma City Thunder - Minnesota Timberwolves";"3418";"Oklahoma City Thunder";1,7;"3426";"Minnesota Timberwolves";2,15;2024-01-30 02:15:00;2024-01-29 17:58:32
+"43066575";"296579491";"San Antonio Spurs - Washington Wizards";"3429";"San Antonio Spurs";1,58;"3431";"Washington Wizards";2,4;2024-01-30 02:15:00;2024-01-29 17:58:32
+"43066577";"296614921";"Dallas Mavericks - Orlando Magic";"3411";"Dallas Mavericks";1,56;"3437";"Orlando Magic";2,45;2024-01-30 02:45:00;2024-01-29 17:58:32
+"43066579";"296579540";"Denver Nuggets - Milwaukee Bucks";"3417";"Denver Nuggets";1,6;"3410";"Milwaukee Bucks";2,4;2024-01-30 03:15:00;2024-01-29 17:58:32
+"43066581";"296615483";"Portland Trail Blazers - Philadelphia 76ers";"3414";"Portland Trail Blazers";4,6;"3420";"Philadelphia 76ers";1,21;2024-01-30 04:15:00;2024-01-29 17:58:32
+"43066583";"296830243";"Atlanta Hawks - Los Angeles Lakers";"3423";"Atlanta Hawks";1,5;"3427";"Los Angeles Lakers";2,6;2024-01-31 01:45:00;2024-01-30 18:01:48
+"43066585";"296829396";"Boston Celtics - Indiana Pacers";"3422";"Boston Celtics";1,35;"3419";"Indiana Pacers";3,3;2024-01-31 01:45:00;2024-01-30 18:01:48
+"43066587";"296830099";"New York Knicks - Utah Jazz";"3421";"New York Knicks";1,56;"3434";"Utah Jazz";2,45;2024-01-31 01:45:00;2024-01-30 18:01:48
+"43066589";"296781810";"Chicago Bulls - Toronto Raptors";"3409";"Chicago Bulls";1,39;"3433";"Toronto Raptors";3,05;2024-01-31 02:15:00;2024-01-30 18:01:48
+"43066591";"296834558";"Golden State Warriors - Philadelphia 76ers";"3428";"Golden State Warriors";1,62;"3420";"Philadelphia 76ers";2,3;2024-01-31 04:15:00;2024-01-30 18:01:48
+"43066593";"297090218";"Charlotte Hornets - Chicago Bulls";"3430";"Charlotte Hornets";2,6;"3409";"Chicago Bulls";1,5;2024-02-01 01:15:00;2024-01-31 17:54:17
+"43066595";"297046596";"Cleveland Cavaliers - Detroit Pistons";"3432";"Cleveland Cavaliers";1,12;"3424";"Detroit Pistons";6,5;2024-02-01 01:15:00;2024-01-31 17:54:17
+"43066597";"296999235";"Washington Wizards - Los Angeles Clippers";"3431";"Washington Wizards";6;"3425";"Los Angeles Clippers";1,14;2024-02-01 01:15:00;2024-01-31 17:54:17
+"43066601";"296998689";"Miami Heat - Sacramento Kings";"3435";"Miami Heat";1,84;"3413";"Sacramento Kings";2;2024-02-01 01:45:00;2024-01-31 17:54:17
+"43066603";"296998435";"Houston Rockets - New Orleans Pelicans";"3412";"Houston Rockets";2,1;"5539";"New Orleans Pelicans";1,76;2024-02-01 02:15:00;2024-01-31 17:54:17
+"43066605";"297048377";"Minnesota Timberwolves - Dallas Mavericks";"3426";"Minnesota Timberwolves";1,1;"3411";"Dallas Mavericks";7;2024-02-01 02:15:00;2024-01-31 17:54:17
+"43066607";"296999944";"San Antonio Spurs - Orlando Magic";"3429";"San Antonio Spurs";2,65;"3437";"Orlando Magic";1,49;2024-02-01 02:15:00;2024-01-31 17:54:17
+"43066609";"297037751";"Oklahoma City Thunder - Denver Nuggets";"3418";"Oklahoma City Thunder";1,9;"3417";"Denver Nuggets";1,9;2024-02-01 02:15:00;2024-01-31 17:54:17
+"43066599";"296996160";"Brooklyn Nets - Phoenix Suns";"3436";"Brooklyn Nets";2,25;"3416";"Phoenix Suns";1,66;2024-02-01 02:45:00;2024-01-31 17:54:17
+"43066611";"296996188";"Portland Trail Blazers - Milwaukee Bucks";"3414";"Portland Trail Blazers";4,8;"3410";"Milwaukee Bucks";1,19;2024-02-01 04:15:00;2024-01-31 17:54:17
+"43066613";"297331024";"Boston Celtics - Los Angeles Lakers";"3422";"Boston Celtics";1,15;"3427";"Los Angeles Lakers";5,7;2024-02-02 01:30:00;2024-02-01 18:05:46
+"43066615";"297338650";"New York Knicks - Indiana Pacers";"3421";"New York Knicks";1,66;"3419";"Indiana Pacers";2,2;2024-02-02 01:30:00;2024-02-01 18:05:46
+"43066619";"297401468";"Memphis Grizzlies - Cleveland Cavaliers";"3415";"Memphis Grizzlies";3,6;"3432";"Cleveland Cavaliers";1,31;2024-02-02 02:00:00;2024-02-01 18:05:46
+"43066617";"297358199";"Utah Jazz - Philadelphia 76ers";"3434";"Utah Jazz";1,5;"3420";"Philadelphia 76ers";2,6;2024-02-02 04:00:00;2024-02-01 18:05:46
+"43066621";"297617756";"Washington Wizards - Miami Heat";"3431";"Washington Wizards";3,7;"3435";"Miami Heat";1,29;2024-02-03 01:15:00;2024-02-02 17:57:05
+"43066623";"297615973";"Detroit Pistons - Los Angeles Clippers";"3424";"Detroit Pistons";5,6;"3425";"Los Angeles Clippers";1,16;2024-02-03 01:15:00;2024-02-02 17:57:05
+"43066625";"297606370";"Atlanta Hawks - Phoenix Suns";"3423";"Atlanta Hawks";2,3;"3416";"Phoenix Suns";1,62;2024-02-03 01:45:00;2024-02-02 17:57:05
+"43066627";"297642083";"Indiana Pacers - Sacramento Kings";"3419";"Indiana Pacers";2,2;"3413";"Sacramento Kings";1,68;2024-02-03 01:45:00;2024-02-02 17:57:05
+"43066629";"297616553";"Houston Rockets - Toronto Raptors";"3412";"Houston Rockets";1,54;"3433";"Toronto Raptors";2,5;2024-02-03 02:15:00;2024-02-02 17:57:05
+"43066631";"297619958";"Memphis Grizzlies - Golden State Warriors";"3415";"Memphis Grizzlies";3,6;"3428";"Golden State Warriors";1,3;2024-02-03 02:15:00;2024-02-02 17:57:05
+"43066633";"297606339";"Minnesota Timberwolves - Orlando Magic";"3426";"Minnesota Timberwolves";1,35;"3437";"Orlando Magic";3,3;2024-02-03 02:15:00;2024-02-02 17:57:05
+"43066635";"297621734";"Oklahoma City Thunder - Charlotte Hornets";"3418";"Oklahoma City Thunder";1,06;"3430";"Charlotte Hornets";9,5;2024-02-03 02:15:00;2024-02-02 17:57:05
+"43066637";"297622265";"San Antonio Spurs - New Orleans Pelicans";"3429";"San Antonio Spurs";3,55;"5539";"New Orleans Pelicans";1,31;2024-02-03 02:15:00;2024-02-02 17:57:05
+"43066639";"297624706";"Denver Nuggets - Portland Trail Blazers";"3417";"Denver Nuggets";1,12;"3414";"Portland Trail Blazers";6,5;2024-02-03 03:15:00;2024-02-02 17:57:05
+"43066641";"297874759";"Philadelphia 76ers - Brooklyn Nets";"3420";"Philadelphia 76ers";1,7;"3436";"Brooklyn Nets";2,15;2024-02-04 00:15:00;2024-02-03 19:11:05
+"43066643";"297876370";"Atlanta Hawks - Golden State Warriors";"3423";"Atlanta Hawks";1,82;"3428";"Golden State Warriors";1,98;2024-02-04 01:45:00;2024-02-03 19:11:05
+"43066645";"297876274";"Chicago Bulls - Sacramento Kings";"3409";"Chicago Bulls";1,74;"3413";"Sacramento Kings";2,05;2024-02-04 02:15:00;2024-02-03 19:11:05
+"43066647";"297907327";"New York Knicks - Los Angeles Lakers";"3421";"New York Knicks";1,56;"3427";"Los Angeles Lakers";2,4;2024-02-04 02:45:00;2024-02-03 19:11:05
+"43066649";"297906345";"Dallas Mavericks - Milwaukee Bucks";"3411";"Dallas Mavericks";2,55;"3410";"Milwaukee Bucks";1,5;2024-02-04 02:45:00;2024-02-03 19:11:05
+"43066651";"297908531";"San Antonio Spurs - Cleveland Cavaliers";"3429";"San Antonio Spurs";4,8;"3432";"Cleveland Cavaliers";1,18;2024-02-04 02:45:00;2024-02-03 19:11:05
+"43066653";"298222837";"Detroit Pistons - Orlando Magic";"3424";"Detroit Pistons";3,2;"3437";"Orlando Magic";1,35;2024-02-04 21:15:00;2024-02-04 17:51:59
+"43066655";"298224665";"Washington Wizards - Phoenix Suns";"3431";"Washington Wizards";5,3;"3416";"Phoenix Suns";1,15;2024-02-04 21:45:00;2024-02-04 17:51:59
+"43066657";"298224441";"Boston Celtics - Memphis Grizzlies";"3422";"Boston Celtics";1,04;"3415";"Memphis Grizzlies";12;2024-02-05 00:15:00;2024-02-04 17:51:59
+"43066659";"298224331";"Charlotte Hornets - Indiana Pacers";"3430";"Charlotte Hornets";4,6;"3419";"Indiana Pacers";1,19;2024-02-05 00:15:00;2024-02-04 17:51:59
+"43066661";"298222869";"Miami Heat - Los Angeles Clippers";"3435";"Miami Heat";2,45;"3425";"Los Angeles Clippers";1,56;2024-02-05 00:15:00;2024-02-04 17:51:59
+"43066663";"298224755";"Minnesota Timberwolves - Houston Rockets";"3426";"Minnesota Timberwolves";1,33;"3412";"Houston Rockets";3,3;2024-02-05 01:15:00;2024-02-04 17:51:59
+"43066665";"298225386";"Oklahoma City Thunder - Toronto Raptors";"3418";"Oklahoma City Thunder";1,27;"3433";"Toronto Raptors";3,75;2024-02-05 01:15:00;2024-02-04 17:51:59
+"43066667";"298224571";"Utah Jazz - Milwaukee Bucks";"3434";"Utah Jazz";1,72;"3410";"Milwaukee Bucks";2,15;2024-02-05 02:15:00;2024-02-04 17:51:59
+"43066669";"298224369";"Denver Nuggets - Portland Trail Blazers";"3417";"Denver Nuggets";1,08;"3414";"Portland Trail Blazers";7,5;2024-02-05 02:45:00;2024-02-04 17:51:59
+"43066671";"298558016";"Charlotte Hornets - Los Angeles Lakers";"3430";"Charlotte Hornets";5,7;"3427";"Los Angeles Lakers";1,14;2024-02-06 01:15:00;2024-02-05 17:54:32
+"43066673";"298542873";"Cleveland Cavaliers - Sacramento Kings";"3432";"Cleveland Cavaliers";1,5;"3413";"Sacramento Kings";2,55;2024-02-06 01:15:00;2024-02-05 17:54:32
+"43066675";"298539050";"Philadelphia 76ers - Dallas Mavericks";"3420";"Philadelphia 76ers";2,05;"3411";"Dallas Mavericks";1,76;2024-02-06 01:15:00;2024-02-05 17:54:32
+"43066677";"298547462";"Atlanta Hawks - Los Angeles Clippers";"3423";"Atlanta Hawks";2,2;"3425";"Los Angeles Clippers";1,64;2024-02-06 01:45:00;2024-02-05 17:54:32
+"43066679";"298548406";"Brooklyn Nets - Golden State Warriors";"3436";"Brooklyn Nets";1,74;"3428";"Golden State Warriors";2,05;2024-02-06 01:45:00;2024-02-05 17:54:32
+"43066681";"298557988";"New Orleans Pelicans - Toronto Raptors";"5539";"New Orleans Pelicans";1,14;"3433";"Toronto Raptors";5,6;2024-02-06 02:15:00;2024-02-05 17:54:32
+"43066683";"298798395";"Indiana Pacers - Houston Rockets";"3419";"Indiana Pacers";1,32;"3412";"Houston Rockets";3,5;2024-02-07 01:15:00;2024-02-06 18:06:38
+"43066685";"298798346";"Brooklyn Nets - Dallas Mavericks";"3436";"Brooklyn Nets";2,15;"3411";"Dallas Mavericks";1,7;2024-02-07 01:45:00;2024-02-06 18:06:38
+"43066687";"298768851";"Miami Heat - Orlando Magic";"3435";"Miami Heat";1,62;"3437";"Orlando Magic";2,25;2024-02-07 01:45:00;2024-02-06 18:06:38
+"43066689";"298768267";"New York Knicks - Memphis Grizzlies";"3421";"New York Knicks";1,08;"3415";"Memphis Grizzlies";8,5;2024-02-07 01:45:00;2024-02-06 18:06:38
+"43066691";"298777680";"Chicago Bulls - Minnesota Timberwolves";"3409";"Chicago Bulls";2,7;"3426";"Minnesota Timberwolves";1,48;2024-02-07 02:15:00;2024-02-06 18:06:38
+"43066693";"298769007";"Utah Jazz - Oklahoma City Thunder";"3434";"Utah Jazz";2,25;"3418";"Oklahoma City Thunder";1,66;2024-02-07 03:15:00;2024-02-06 18:06:38
+"43066695";"298761623";"Phoenix Suns - Milwaukee Bucks";"3416";"Phoenix Suns";1,6;"3410";"Milwaukee Bucks";2,35;2024-02-07 04:15:00;2024-02-06 18:06:38
+"43066697";"299013756";"Charlotte Hornets - Toronto Raptors";"3430";"Charlotte Hornets";3,3;"3433";"Toronto Raptors";1,33;2024-02-08 01:15:00;2024-02-07 18:05:48
+"43066701";"299018063";"Washington Wizards - Cleveland Cavaliers";"3431";"Washington Wizards";5,5;"3432";"Cleveland Cavaliers";1,16;2024-02-08 01:15:00;2024-02-07 18:05:48
+"43066699";"299008932";"Philadelphia 76ers - Golden State Warriors";"3420";"Philadelphia 76ers";2,55;"3428";"Golden State Warriors";1,49;2024-02-08 01:45:00;2024-02-07 18:05:48
+"43066703";"NULL";"Boston Celtics - Atlanta Hawks";"3422";"Boston Celtics";NA;"3423";"Atlanta Hawks";NA;2024-02-08 01:45:00;2024-02-07 18:05:48
+"43066705";"299024952";"Miami Heat - San Antonio Spurs";"3435";"Miami Heat";1,28;"3429";"San Antonio Spurs";3,65;2024-02-08 01:45:00;2024-02-07 18:05:48
+"43066707";"299025201";"Los Angeles Clippers - New Orleans Pelicans";"3425";"Los Angeles Clippers";1,35;"5539";"New Orleans Pelicans";3,2;2024-02-08 04:15:00;2024-02-07 18:05:48
+"43066709";"299024605";"Sacramento Kings - Detroit Pistons";"3413";"Sacramento Kings";1,1;"3424";"Detroit Pistons";7;2024-02-08 04:15:00;2024-02-07 18:05:48
+"43066711";"299319825";"Indiana Pacers - Golden State Warriors";"3419";"Indiana Pacers";1,41;"3428";"Golden State Warriors";2,9;2024-02-09 01:15:00;2024-02-08 17:59:06
+"43066713";"299316805";"Orlando Magic - San Antonio Spurs";"3437";"Orlando Magic";1,17;"3429";"San Antonio Spurs";4,9;2024-02-09 01:15:00;2024-02-08 17:59:06
+"43066715";"299316777";"Brooklyn Nets - Cleveland Cavaliers";"3436";"Brooklyn Nets";2,8;"3432";"Cleveland Cavaliers";1,43;2024-02-09 01:45:00;2024-02-08 17:59:06
+"43066717";"299319080";"New York Knicks - Dallas Mavericks";"3421";"New York Knicks";2,4;"3411";"Dallas Mavericks";1,56;2024-02-09 01:45:00;2024-02-08 17:59:06
+"43066719";"299336218";"Memphis Grizzlies - Chicago Bulls";"3415";"Memphis Grizzlies";2,9;"3409";"Chicago Bulls";1,41;2024-02-09 02:15:00;2024-02-08 17:59:06
+"43066721";"299329216";"Milwaukee Bucks - Minnesota Timberwolves";"3410";"Milwaukee Bucks";1,88;"3426";"Minnesota Timberwolves";1,9;2024-02-09 02:15:00;2024-02-08 17:59:06
+"43066723";"299316842";"Phoenix Suns - Utah Jazz";"3416";"Phoenix Suns";1,35;"3434";"Utah Jazz";3,15;2024-02-09 03:15:00;2024-02-08 17:59:06
+"43066725";"299339298";"Los Angeles Lakers - Denver Nuggets";"3427";"Los Angeles Lakers";2,35;"3417";"Denver Nuggets";1,58;2024-02-09 04:15:00;2024-02-08 17:59:06
+"43066727";"299340796";"Portland Trail Blazers - Detroit Pistons";"3414";"Portland Trail Blazers";1,39;"3424";"Detroit Pistons";3;2024-02-09 04:15:00;2024-02-08 17:59:06
+"43066729";"299593514";"Philadelphia 76ers - Atlanta Hawks";"3420";"Philadelphia 76ers";2,1;"3423";"Atlanta Hawks";1,7;2024-02-10 01:15:00;2024-02-09 17:57:08
+"43066731";"299588814";"Boston Celtics - Washington Wizards";"3422";"Boston Celtics";1,03;"3431";"Washington Wizards";11,5;2024-02-10 01:45:00;2024-02-09 17:57:08
+"43066733";"299587855";"Toronto Raptors - Houston Rockets";"3433";"Toronto Raptors";1,78;"3412";"Houston Rockets";2;2024-02-10 01:45:00;2024-02-09 17:57:08
+"43066735";"299626861";"Milwaukee Bucks - Charlotte Hornets";"3410";"Milwaukee Bucks";1,06;"3430";"Charlotte Hornets";8,5;2024-02-10 02:15:00;2024-02-09 17:57:08
+"43066737";"299605210";"Sacramento Kings - Denver Nuggets";"3413";"Sacramento Kings";1,74;"3417";"Denver Nuggets";2,05;2024-02-10 04:15:00;2024-02-09 17:57:08
+"43066739";"299602042";"Los Angeles Lakers - New Orleans Pelicans";"3427";"Los Angeles Lakers";2,15;"5539";"New Orleans Pelicans";1,68;2024-02-10 04:45:00;2024-02-09 17:57:08
